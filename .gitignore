@@ -1,0 +1,44 @@
+# Big data directories
+big-data/
+
+# Jupyter Notebook stuff
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Stray visual studio files
+.vs
+
+# Pycache
+__pycache__
+
+
+*.pyc
+*.pyo
+*.gz
+*.so
+.DS_Store/
+.DS_Store
+untracked
+slurm-*
+
+# R History files
+.Rhistory
+.Rapp.history
+
+# R Session Data files
+.RData
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+.Rproj.user
