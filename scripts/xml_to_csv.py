@@ -33,7 +33,7 @@ print(dfs)
 # columns
 def create_col(df, col):
     if col not in df.columns:
-        df[col] = "idk"
+        df[col] = "np.nan"
     #print("created {}".format(col))
     return df
         
@@ -43,10 +43,52 @@ for idx,filename in enumerate(xmlfiles):
     print("")
     print(str(idx) + ". " + filename)
     dom = ElementTree.parse(os.path.join(xml_folder, filename))
-    mydf = pd.DataFrame(columns=["Title"],index=range(1))
+    mydf = pd.DataFrame(columns=["Title", "Study type",	
+                                 "Detailed Description",	
+                                 "gender",	
+                                 "minimum_age",	
+                                 "maximum_age",	
+                                 "healthy_volunteers",	
+                                 "allocation",
+                                 "intervention_model",	
+                                 "primary_purpose"	,
+                                 "masking"	,
+                                 "P1"	,
+                                 "P2",
+                                 "P3"	,
+                                 "P4",
+                                 "P5"	,
+                                 "P6",
+],index=range(1))
     #print(dom.find("brief_title").text)
     mydf["Title"] = dom.find("brief_title").text
-    for m in dom.find("clinical_results/participant_flow/period_list/period/milestone_list"):
+    mydf["Study type"] = dom.find("study_type").text
+    try: 
+        mydf["Detailed Description"] = dom.find("detailed_description/textblock").text.strip()
+    except: 
+        print("optional detailed description not included")
+    
+    for e in dom.find("eligibility"):
+        if e.tag != "criteria": # because this contains paragraphs which is too much info
+            print(e.tag)
+            newcol = e.tag.lower()
+            count = e.text
+            mydf = create_col(mydf, newcol)
+            mydf[newcol] = count
+    for i in dom.find("study_design_info"):
+            newcol = i.tag.lower()
+            count = i.text
+            mydf = create_col(mydf, newcol)
+            mydf[newcol] = count
+            
+    pflow = dom.find("clinical_results/participant_flow")
+    
+    for g in pflow.find("group_list"):
+        newcol = g.attrib["group_id"]
+        count = g.find("title").text
+        mydf = create_col(mydf, newcol)
+        mydf[newcol] = count
+    for m in pflow.find("period_list/period/milestone_list"):
         milestone = m.find("title").text
         #print(milestone)
         participants = m.find("participants_list")
@@ -56,7 +98,7 @@ for idx,filename in enumerate(xmlfiles):
             mydf = create_col(mydf, newcol)
             mydf[newcol] = count
     try:
-        for r in dom.find("clinical_results/participant_flow/period_list/period/drop_withdraw_reason_list"):
+        for r in pflow.find("period_list/period/drop_withdraw_reason_list"):
             reason = r.find("title").text
             participants = r.find("participants_list")
             for p in participants:

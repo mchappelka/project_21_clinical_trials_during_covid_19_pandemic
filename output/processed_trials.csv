@@ -1,0 +1,712 @@
+,Title,Study type,Detailed Description,gender,minimum_age,maximum_age,healthy_volunteers,allocation,intervention_model,primary_purpose,masking,P1,P2,P3,P4,P5,P6,startedp1,startedp2,received treatmentp1,received treatmentp2,completedp1,completedp2,not completedp1,not completedp2,enrolled but not treatedp1,enrolled but not treatedp2,physician decisionp1,physician decisionp2,withdrawal by subjectp1,withdrawal by subjectp2,adverse eventp1,adverse eventp2,transferred to another hospitalp1,transferred to another hospitalp2,<=18 yearsb1,<=18 yearsb2,<=18 yearsb3,Between 18 and 65 yearsb1,Between 18 and 65 yearsb2,Between 18 and 65 yearsb3,>=65 yearsb1,>=65 yearsb2,>=65 yearsb3,Femaleb1,Femaleb2,Femaleb3,Maleb1,Maleb2,Maleb3,Hispanic or Latinob1,Hispanic or Latinob2,Hispanic or Latinob3,Not Hispanic or Latinob1,Not Hispanic or Latinob2,Not Hispanic or Latinob3,Unknown or Not Reportedb1,Unknown or Not Reportedb2,Unknown or Not Reportedb3,American Indian or Alaska Nativeb1,American Indian or Alaska Nativeb2,American Indian or Alaska Nativeb3,Asianb1,Asianb2,Asianb3,Native Hawaiian or Other Pacific Islanderb1,Native Hawaiian or Other Pacific Islanderb2,Native Hawaiian or Other Pacific Islanderb3,Black or African Americanb1,Black or African Americanb2,Black or African Americanb3,Whiteb1,Whiteb2,Whiteb3,More than one raceb1,More than one raceb2,More than one raceb3,greeceb1,greeceb2,greeceb3,south koreab1,south koreab2,south koreab3,singaporeb1,singaporeb2,singaporeb3,united statesb1,united statesb2,united statesb3,japanb1,japanb2,japanb3,denmarkb1,denmarkb2,denmarkb3,mexicob1,mexicob2,mexicob3,united kingdomb1,united kingdomb2,united kingdomb3,germanyb1,germanyb2,germanyb3,spainb1,spainb2,spainb3,startedp3,startedp4,completedp3,completedp4,not completedp3,not completedp4,lost to follow-upp1,lost to follow-upp2,lost to follow-upp3,lost to follow-upp4,deathp1,deathp2,deathp3,deathp4,withdrew consentp1,withdrew consentp2,withdrew consentp3,withdrew consentp4,non-compliance with study drugp1,non-compliance with study drugp2,non-compliance with study drugp3,non-compliance with study drugp4,protocol violationp1,protocol violationp2,protocol violationp3,protocol violationp4,randomized but not treatedp1,randomized but not treatedp2,randomized but not treatedp3,randomized but not treatedp4,< 65 Yearsb1,< 65 Yearsb2,< 65 Yearsb3,< 65 Yearsb4,< 65 Yearsb5,>= 65 Yearsb1,>= 65 Yearsb2,>= 65 Yearsb3,>= 65 Yearsb4,>= 65 Yearsb5,Femaleb4,Femaleb5,Maleb4,Maleb5,American Indian or Alaska Nativeb4,American Indian or Alaska Nativeb5,Asianb4,Asianb5,Blackb1,Blackb2,Blackb3,Blackb4,Blackb5,Native Hawaiian or Pacific Islanderb1,Native Hawaiian or Pacific Islanderb2,Native Hawaiian or Pacific Islanderb3,Native Hawaiian or Pacific Islanderb4,Native Hawaiian or Pacific Islanderb5,Whiteb4,Whiteb5,Not Permittedb1,Not Permittedb2,Not Permittedb3,Not Permittedb4,Not Permittedb5,Otherb1,Otherb2,Otherb3,Otherb4,Otherb5,Hispanic or Latinob4,Hispanic or Latinob5,Not Hispanic or Latinob4,Not Hispanic or Latinob5,Missingb1,Missingb2,Missingb3,Missingb4,Missingb5,united statesb4,united statesb5,spainb4,spainb5,italyb1,italyb2,italyb3,italyb4,italyb5,united kingdomb4,united kingdomb5,south koreab4,south koreab5,germanyb4,germanyb5,singaporeb4,singaporeb5,hong kongb1,hong kongb2,hong kongb3,hong kongb4,hong kongb5,switzerlandb1,switzerlandb2,switzerlandb3,switzerlandb4,switzerlandb5,franceb1,franceb2,franceb3,franceb4,franceb5,taiwanb1,taiwanb2,taiwanb3,taiwanb4,taiwanb5,netherlandsb1,netherlandsb2,netherlandsb3,netherlandsb4,netherlandsb5,japanb4,japanb5,swedenb1,swedenb2,swedenb3,swedenb4,swedenb5,adverse eventp3,adverse eventp4,investigator's discretionp1,investigator's discretionp2,investigator's discretionp3,investigator's discretionp4,< 65b1,< 65b2,< 65b3,< 65b4,< 65b5,≥ 65b1,≥ 65b2,≥ 65b3,≥ 65b4,≥ 65b5,Score: 1b1,Score: 1b2,Score: 1b3,Score: 1b4,Score: 1b5,Score: 2b1,Score: 2b2,Score: 2b3,Score: 2b4,Score: 2b5,Score: 3b1,Score: 3b2,Score: 3b3,Score: 3b4,Score: 3b5,Score: 4b1,Score: 4b2,Score: 4b3,Score: 4b4,Score: 4b5,Score: 5b1,Score: 5b2,Score: 5b3,Score: 5b4,Score: 5b5,Score: 6b1,Score: 6b2,Score: 6b3,Score: 6b4,Score: 6b5,Score: 7b1,Score: 7b2,Score: 7b3,Score: 7b4,Score: 7b5,study_pop,sampling_method,observational_model,time_perspective,intervention_model_description,masking_description,startedp5,startedp6,completedp5,completedp6,not completedp5,not completedp6,withdrawal by subjectp3,withdrawal by subjectp4,withdrawal by subjectp5,withdrawal by subjectp6,early termination of studyp1,early termination of studyp2,early termination of studyp3,early termination of studyp4,early termination of studyp5,early termination of studyp6,positive sars-cov2 pcr at baselinep1,positive sars-cov2 pcr at baselinep2,positive sars-cov2 pcr at baselinep3,positive sars-cov2 pcr at baselinep4,positive sars-cov2 pcr at baselinep5,positive sars-cov2 pcr at baselinep6,Femaleb6,Femaleb7,Maleb6,Maleb7,American Indian or Alaska Nativeb6,American Indian or Alaska Nativeb7,Asianb6,Asianb7,Native Hawaiian or Other Pacific Islanderb4,Native Hawaiian or Other Pacific Islanderb5,Native Hawaiian or Other Pacific Islanderb6,Native Hawaiian or Other Pacific Islanderb7,Black or African Americanb4,Black or African Americanb5,Black or African Americanb6,Black or African Americanb7,Whiteb6,Whiteb7,More than one raceb4,More than one raceb5,More than one raceb6,More than one raceb7,Unknown or Not Reportedb4,Unknown or Not Reportedb5,Unknown or Not Reportedb6,Unknown or Not Reportedb7,"2: Hospitalized, receiving ECMO or invasive mechanical ventilationb1","2: Hospitalized, receiving ECMO or invasive mechanical ventilationb2","2: Hospitalized, receiving ECMO or invasive mechanical ventilationb3","3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygenb1","3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygenb2","3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygenb3","4: Hospitalized, receiving supplemental oxygen without positive pressure or high flowb1","4: Hospitalized, receiving supplemental oxygen without positive pressure or high flowb2","4: Hospitalized, receiving supplemental oxygen without positive pressure or high flowb3","5: Hospitalized, not receiving supplemental oxygenb1","5: Hospitalized, not receiving supplemental oxygenb2","5: Hospitalized, not receiving supplemental oxygenb3",iraqb1,received inadequate amount of antibodiesp1,did not initiate study treatmentp1,did not initiate study treatmentp2,physician decisionp3,<=18 yearsb4,Between 18 and 65 yearsb4,>=65 yearsb4,gender_based,gender_description,<=18 yearsb5,Between 18 and 65 yearsb5,>=65 yearsb5,malaysiab1,malaysiab2,malaysiab3,malaysiab4,malaysiab5,argentinab1,argentinab2,argentinab3,argentinab4,study stopped by dsmbp1,study stopped by dsmbp2,brazilb1,brazilb2,brazilb3,russiab1,russiab2,russiab3,russiab4,developed fever > 3 daysp1,developed fever > 3 daysp2,pakistanb1,pakistanb2,pakistanb3,belarusb1,Very Severe (NEWS ≥ 9)b1,Severe or Moderate (NEWS = 5…8)b1,Mild (NEWS ≤ 4)b1,Invasive lung ventilationb1,Non-invasive lung ventilationb1,Oxygen therapyb1,Noneb1,Presentb1,Absentb1,the need for prohibited therapyp1,the need for prohibited therapyp2,mutation disrupting ivermectin metabolism was found in 6 patientsp1,mutation disrupting ivermectin metabolism was found in 6 patientsp2,turkeyb1,turkeyb2,turkeyb3,with missing datap1
+0,Adaptive COVID-19 Treatment Trial (ACTT),Interventional,"This study is an adaptive, randomized, double-blind, placebo-controlled trial to evaluate the
+      safety and efficacy of novel therapeutic agents in hospitalized adults diagnosed with
+      COVID-19. The study is a multicenter trial that will be conducted in up to approximately 100
+      sites globally. The study will compare different investigational therapeutic agents to a
+      control arm. There will be interim monitoring to introduce new arms and allow early stopping
+      for futility, efficacy, or safety. If one therapy proves to be efficacious, then this
+      treatment may become the control arm for comparison(s) with new experimental treatment(s).
+      Any such change would be accompanied by an updated sample size. Because background standards
+      of supportive care may evolve/improve over time as more is learned about successful
+      management of COVID-19, comparisons of safety and efficacy will be based on data from
+      concurrently randomized subjects. An independent Data and Safety Monitoring Board (DSMB) will
+      actively monitor interim data to make recommendations about early study closure or changes to
+      study arms.
+
+      The initial sample size is projected to be 572 subjects to achieve 400 subjects with a
+      ""recovered"" status (per the primary objective). The primary analysis will be based on those
+      subjects enrolled in order to 400 recoveries. An additional analysis of the moderate severity
+      subgroup (those with baseline status of ""Hospitalized, requiring supplemental oxygen"" or
+      ""Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care"") is also
+      of public health importance. Hence, enrollment will be permitted until the date of April 20,
+      2020 to ensure 400 recoveries and provide additional data about this important subgroup. With
+      recent enrollment rates, the total sample size may be 600 to over 800.
+
+      Subjects will be assessed daily while hospitalized. If the subjects are discharged from the
+      hospital, they will have a study visit at Days 15, 22, and 29 as an outpatient. For
+      discharged subjects, it is preferred that the Day 15 and 29 visits are in person to obtain
+      safety laboratory tests and OP swab and blood (serum only) samples for secondary research as
+      well as clinical outcome data. However, infection control or other restrictions may limit the
+      ability of the subject to return to the clinic. In this case, Day 15 and 29 visits may be
+      conducted by phone, and only clinical data will be obtained. The Day 22 visit does not have
+      laboratory tests or collection of samples and may also be conducted by phone.
+
+      All subjects will undergo a series of efficacy, safety, and laboratory assessments. Safety
+      laboratory tests and blood (serum and plasma) research samples and oropharyngeal (OP) swabs
+      will be obtained on Days 1 (prior to infusion) and Days 3, 5, 8, and 11 (while hospitalized).
+      OP swabs and blood (serum only) plus safety laboratory tests will be collected on Day 15 and
+      29 (if the subject attends an in-person visit or are still hospitalized).
+
+      The primary outcome is time to recovery by Day 29. A key secondary outcome evaluates
+      treatment-related improvements in the 8-point ordinal scale at Day 15. As little is known
+      about the clinical course of COVID-19, a pilot study will be used for a blinded sample size
+      reassessment.
+
+      Contacts:
+
+      20-0006 Central Contact
+
+      Telephone: 1 (301) 7617948
+
+      Email: DMIDClinicalTrials@niaid.nih.gov",All,18 Years,99 Years,No,Randomized,Parallel Assignment,Treatment,"Double (Participant, Investigator)",Placebo,Remdesivir,,,,,521,541,517,531,508,517,13,24,4,10,1,0,7,9,0,4,1,1,0,0,0,324,354,678,197,187,384,189,189,378,332,352,684,116,134,250,373,382,755,55,66,121,3,4,7,56,79,135,2,2,4,117,109,226,287,279,566,1,2,3,19,14,33,12,9,21,7,9,16,410,427,837,7,8,15,21,22,43,6,4,10,21,25,46,6,7,13,12,16,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional,,All,12 Years,N/A,No,Randomized,Parallel Assignment,Treatment,None (Open Label),Part A: Remdesivir (RDV) for 5 Days,Part A: Remdesivir for 10 Days,Part A: SOC Therapy,"Part B: Extension Treatment, Remdesivir for 10 Days",,,199,197,,,179,176,20,21,,,,,,,,,,,,,,,,,,,,77,75,75,114,118,125,25,42,34,162,144,152,,,,2,0,1,34,31,37,,,,,,,109,107,112,,,,,,,7,4,10,3,6,9,76,99,85,0,0,0,,,,,,,7,9,17,8,6,8,37,28,31,200,517,178,437,22,80,8,12,12,48,2,2,4,12,2,2,5,6,0,1,0,0,0,0,1,0,8,4,0,14,142,141,142,351,776,49,52,58,152,311,221,448,282,639,3,6,61,163,35,37,27,107,206,1,1,1,1,4,260,588,4,7,13,22,46,5,12,15,50,82,156,257,325,783,0,0,1,0,1,318,578,44,140,30,23,26,54,133,27,60,16,37,13,35,14,32,9,11,7,1,28,4,5,6,3,18,2,1,0,5,8,5,1,0,0,6,3,0,1,1,5,4,4,0,0,0,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional,,All,12 Years,N/A,No,Randomized,Parallel Assignment,Treatment,None (Open Label),Part A: Remdesivir (RDV) for 5 Days,Part A: Remdesivir for 10 Days,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group),Part B: Remdesivir for 10 Days (Extension Group),,,200,197,,,168,164,32,33,,,,,,,2,1,,,,,,,,,,,,80,64,312,120,133,532,47,38,328,152,150,478,,,,2,0,5,20,25,88,,,,,,,142,134,376,,,,,,,6,6,0,1,8,7,118,111,722,0,0,1,,,,,,,0,0,33,3,1,12,31,30,27,844,3597,621,2952,223,645,8,4,22,235,21,28,188,371,1,0,11,32,0,0,0,1,0,0,0,1,,,,,,,,,,,,,,,1351,1807,2246,3031,40,47,313,446,21,23,149,611,804,1,0,11,29,41,1915,2567,1,9,37,129,176,14,10,159,510,693,1341,1754,2123,2903,0,0,1,4,5,2927,3878,134,222,39,38,16,108,201,144,177,10,22,27,43,44,60,2,2,2,0,6,0,0,13,44,57,0,0,2,25,27,0,1,2,2,5,0,0,2,45,47,4,5,0,0,5,83,88,2,2,0,0,0,3,116,113,581,2399,3209,84,84,263,1198,1629,0,0,0,0,0,4,9,844,0,857,49,59,0,1069,1177,113,108,0,2214,2435,34,21,0,314,369,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry],"Comparison of two groups of patients SARS-CoV-2 positive with severe acute respiratory
+      syndrome:
+
+        1. Exposed to low prolonged doses of Methylprednisolone
+
+        2. Not exposed to corticosteroids (standard of care alone)
+
+      The two group will be weighted by means of a propensity score according to:
+
+        1. Sex
+
+        2. Age
+
+        3. C-reactive protein (CRP) at baseline
+
+        4. Sequential Organ Failure Assessment (SOFA) score at baseline
+
+        5. PaO2/FiO2 ratio at baseline (ratio of arterial oxygen partial pressure to fractional
+           inspired oxygen)
+
+      Anti-viral agents, chloroquine, respiratory support (any), and antibiotics (any) are allowed
+      in each study group. Corticosteroids use, other than per-protocol Methylprednisolone in the
+      exposed group is a reason for dropout.
+
+        1. The exposed group is treated with Methylprednisolone at study entry (baseline) according
+           to a protocol based on the Italian national recommendations for COVID-19 management: a
+           loading dose of 80 mg IV, followed by an infusion of 80 mg/day in 240 mL normal saline
+           at 10 mL/h. The infusion is continued for at least eight days and until achieving either
+           a PaO2:FiO2 > 350 mmHg or a CRP < 20 mg/L. Treatment is then switched to oral
+           administration of Methylprednisolone 16 mg or 20 mg IV twice daily until CRP returns to
+           < 20% of normal range and/or PaO2:FiO2 > 400 or SatHbO2 ≥ 95%. The decision to apply the
+           protocol to Covid-19 is left to the discretion of the treating team for each individual
+           patient.
+
+        2. Unexposed patients will be selected from concurrent consecutive COVID-19 patients with
+           the same inclusion and exclusion criteria and blinded to outcome data.",All,18 Years,80 Years,No,,,,,Exposed to Methylprednisolone,Non-exposed to Methylprednisolone,,,,,83,90,,,83,90,0,0,,,,,,,,,,,0,0,0,35,34,69,48,56,104,29,24,53,54,66,120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,90,173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ",Non-Probability Sample,Cohort,Prospective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional,,All,18 Years,N/A,Accepts Healthy Volunteers,Randomized,Parallel Assignment,Treatment,"Triple (Participant, Care Provider, Investigator)",Cohort 1 HCQ,Cohort 1 Placebo,Cohort 2 HCQ High Dose,Cohort 2 HCQ Low Dose,Cohort 3 HCQ,Cohort 3 Placebo,17,17,,,16,13,1,4,,,,,1,4,,,,,,,,,,,,,,12,9,2,5,8,2,,,,,,,3,3,0,0,0,0,0,0,0,0,0,0,8,11,3,6,3,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,54,0,12,0,0,0,7,,,,,,,,,,,0,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,There are 3 cohorts. All partcipants in of each the cohorts are randomized to one of two arms,Cohorts 1 and 3 are double-blind placebo control cohorts. Cohort 2 is an open label randomized study,66,66,64,61,2,5,1,1,1,1,0,0,0,0,1,2,0,0,0,0,0,2,33,113,33,60,0,0,7,14,0,0,0,0,3,3,1,29,56,121,0,1,2,3,0,0,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional,"Severe cases of COVID-19 often mimic the typical course of Adult Respiratory Distress
+      Syndrome (ARDS) and its predictable sequelae. These patients often require intubation and
+      ventilator support in order to sustain adequate oxygenation. Once a COVID-19 patient is
+      intubated, Positive End Expiratory Pressure (PEEP) is a mainstay of treatment and is used in
+      order to improve lung function, treat underlying atelectasis, improve oxygenation, and
+      improve survival. In fact, early clinical data as well as reports from front line physicians
+      treating COVID-19 suggest that PEEP has been the most effective treatment modality. In many
+      cases, PEEP has resulted in improved oxygenation and improved survival.
+
+      PEEP decreases the propensity for the alveoli to collapse by increasing the air pressure in
+      the lungs. This residual pressure in the lungs at the end of exhalation decreases shunting
+      and allows for more complete gas exchange and improved oxygenation. In patients, PEEP is one
+      of the safest ways to increase partial pressure of oxygen (PaO2) and is used on almost all
+      modern ventilator settings.
+
+      The GO2 PEEP MOUTHPIECE is a simple, comfortable, and straightforward mouthpiece with a
+      bidirectional valve that effectively delivers PEEP with every breath. Early application of
+      the GO2 PEEP MOUTHPIECE in non-intubated COVID-19 patients may improve outcomes and save
+      lives. Furthermore, this device may allow for less strain on limited resources, especially
+      ventilators. This PEEP mouthpiece could be employed under an oxygen non-rebreather mask to
+      improve oxygenation and avoid intubation.",All,18 Years,N/A,No,N/A,Single Group Assignment,Supportive Care,None (Open Label),GO2 PEEP MOUTHPIECE,,,,,,2,,,,2,,0,,,,,,,,,,,,,,,,,,,,,0,,,2,,,1,,,1,,,1,,,0,,,0,,,0,,,0,,,1,,,0,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional,"Effective therapies for COVID-19 are urgently needed. Hydroxychloroquine is an antimicrobial
+      agent with immunomodulatory and antiviral properties that has demonstrated in vitro activity
+      against SARS-CoV-2, the virus that causes COVID-19. Preliminary reports suggest potential
+      efficacy in small human studies. Clinical trial data are needed to determine whether
+      hydroxychloroquine is effective in treating COVID-19.
+
+      Study Aim: To compare the effect of hydroxychloroquine versus placebo on clinical outcomes,
+      measured using the COVID Ordinal Outcomes Scale at Day 15, among adults with COVID-19
+      requiring hospitalization.
+
+      Study Hypothesis: Among adults hospitalized with COVID-19, administration of
+      hydroxychloroquine will improve clinical outcomes at Day 15.
+
+      .",All,18 Years,N/A,No,Randomized,Parallel Assignment,Treatment,"Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",Hydroxychloroquine,Placebo,,,,,242,237,,,242,237,0,0,,,,,,,,,,,,,,,,,,,,107,105,212,135,132,267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Eligible participants will be randomized 1:1 to hydroxychloroquine versus placebo. Randomization will be stratified by site and be in permuted blocks of variable size.,"Patients, treating clinicians, trial personnel, and outcome assessors will be blinded to group assignment.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,19,32,28,27,55,116,108,224,85,83,168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional,"Comparing effectiveness of single dose 0.2mg/kg Ivermectin (IVM) plus hydroxychloroquine
+      (HCQ) 400mg BID in first day then 200mg BID for 5 days plus azithromycin (AZT) 500mg in first
+      day then 250mg for 5 days.
+
+      The comparison group was a historical control population and data collected from the current
+      study were compared to that historical control population",All,18 Years,N/A,No,N/A,Single Group Assignment,Treatment,None (Open Label),Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT),,,,,,16,,,,16,,0,,,,,,,,,,,,,,,,,,,,,5,,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Convalescent Plasma in the Treatment of COVID 19,Interventional,"The purpose of this prospective interventional study is to gain clinical experience using
+      convalescent plasma transfusion administered to critically ill patients with COVID-19.
+
+      1 To study the efficacy of plasma from patients recovered from COVID-19 infection with a high
+      neutralizing antibody titer (NAT) as treatment for individuals who are critically ill with
+      COVID-19.
+
+      2. Determine if the antibodies from convalescent plasma will suppress virus load in
+      critically ill patients with COVID-19.",All,18 Years,90 Years,No,N/A,Single Group Assignment,Treatment,None (Open Label),COVID-19 Patients Treated With Convalescent Plasma,,,,,,48,,,,40,,8,,,,,,,,1,,,,0,,,24,,,24,,,21,,,27,,,12,,,34,,,3,,,0,,,0,,,0,,,16,,,17,,,12,,,,,,,,,,,,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional,"This Phase IIB study was designed to evaluate the efficacy of hydroxychloroquine (HCQ) and
+      azithromycin (Azithro) to prevent hospitalization or death in symptomatic adult outpatients
+      with COVID-19 caused by SARS-CoV-2 infection.
+
+      Participants were randomized 1:1 to receive active or placebo study treatment. The target
+      sample size was 2000 participants, with approximately 1000 in each arm. Stratification was by
+      ""high"" versus ""low"" risk of progression to severe COVID-19, where ""high risk"" was defined as
+      a person age ≥60 years or having at least one of several specified comorbidities.
+
+      Participants were prescribed study treatment for 7 days and were to be followed for an
+      additional 24 weeks. Assessments on a subset of participants were planned to include blood
+      collection, self-collected nasal swabs, and nasopharyngeal swabs.
+
+      On June 23, 2020, sites were informed that the study was closing to follow-up due to slow
+      enrollment and lack of community enthusiasm. Follow-up through week 24 was not completed for
+      any participant. Participants were asked to complete the Day 20 visit and then were
+      discontinued from the study. Due to the early termination, enrollment into the specimen
+      collection subset did not occur, and results associated with those specimens are not
+      available. Due to the small number of participants enrolled, some statistical tests were not
+      able to be performed and only descriptive results are provided.",All,18 Years,N/A,No,Randomized,Parallel Assignment,Treatment,"Double (Participant, Investigator)",Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro),Arm B: Placebo for Hydroxychloroquine and Azithromycin,,,,,9,11,,,7,9,2,2,,,,,,,,,,,,,,,,,,,,7,4,11,0,5,5,2,2,4,5,6,11,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,6,8,14,0,0,0,,,,,,,,,,7,9,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional,,All,18 Years,N/A,No,Randomized,Parallel Assignment,Treatment,"Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",Arm 1: Hydroxychloroquine + Aithromycin Placebo,Arm 2: Hydroxychloroquine + Azithromycin,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo,,,,7,7,,,3,6,4,1,,,2,0,0,1,1,0,,,0,0,0,7,4,5,0,3,0,3,1,3,4,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,2,,3,,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,,,,,,7,,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,16,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational,"Millions of women will give birth during the pandemic of Coronavirus Disease 2019 (COVID-19)
+      caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The consequences
+      of COVID-19 for pregnant women and their offspring are unknown. This lack of information
+      leads to anxiety among pregnant women, women who are considering getting pregnant, and their
+      families. It is therefore important to assess the wellbeing and mental health of women during
+      the COVID-19 pandemic.
+
+      The international nature of the online survey will allow the evaluation of how living during
+      the COVID-19 pandemic affects pregnant and recently pregnant women at a global level,
+      including the evaluation of potential cultural and geographic differences.",Female,18 Years,N/A,No,,,,,Pregnant Women,Post-partum Women,,,,,5712,1182,,,5712,1182,0,0,,,,,,,,,,,,,,,,,,,,5712,1182,6894,0,0,0,1288,131,1419,4424,1051,5475,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ",Non-Probability Sample,Case-Only,Cross-Sectional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Persons assigned gender female at birth.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional,"SAINT is a double-blind, randomized controlled trial with two parallel groups that evaluates
+      the efficacy of ivermectin in reducing nasal viral carriage at seven days after treatment in
+      SARS-CoV-2 infected patients who are at low risk of progression to severe disease. The trial
+      is currently planned at a single center in Navarra.
+
+      Participants will be randomized to receive a single dose of 400 mcg/kg ivermectin or a
+      placebo. The randomization code will be generated by the trial statistician using blocks that
+      ensure balance between the groups.
+
+      The allocation will be made by the investigator after obtaining informed consent, and
+      confirmation of fulfillment of all inclusion and none of the exclusion criteria. The
+      investigational product will be administered by a researcher not involved in patient care or
+      participant follow up.
+
+      Participants will remain in the trial for a period of 28 days.
+
+      In the interests of public health and containing transmission of infection, trial visits will
+      be conducted in the participant's home by a clinical trial team comprising nursing and
+      medical members.
+
+      Subsequent visits will be to assess clinical and laboratory parameters.
+
+      A final study visit will be made for participants who withdraw prematurely from the study or
+      are withdrawn by the investigator.",All,18 Years,59 Years,No,Randomized,Parallel Assignment,Treatment,"Double (Participant, Investigator)",Ivermectin,Placebo,,,,,12,12,,,12,12,0,0,,,,,,,,,,,,,,,,,,,,5,7,12,7,5,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SAINT is a double-blind, randomized controlled trial with two parallel groups that evaluates the efficacy of ivermectin in reducing nasal viral carriage at seven days after treatment in SARS-CoV-2 infected patients who are at low risk of progression to severe disease.",Double blind,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional,"Favipiravir is a drug with a mechanism of action different from that of the existing
+      influenza antiviral drugs and effective against all types and sub-types of human influenza A,
+      B and C viruses in vitro, showing anti-viral activity against various influenza virus strains
+      including avian and swine viruses. Favipiravir also has shown anti-viral activity even
+      against amantadine, oseltamivir and zanamivir-resistant influenza viruses in vitro. The
+      mechanism of action of favipiravir is the selective inhibition of RNA polymerase by
+      favipiravir ribosyl triphosphate formed by cellular enzymes in the influenza virus leading to
+      antiviral activity.",Male,20 Years,40 Years,Accepts Healthy Volunteers,Randomized,Crossover Assignment,Other,None (Open Label),FAVIRA Then AVIGAN,AVIGAN Then FAVIRA,,,,,15,15,,,14,11,1,4,,,,,1,4,,,,,,,,,,,,,,0,0,0,15,15,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional,"Favipiravir is a drug with a mechanism of action different from that of the existing
+      influenza antiviral drugs and effective against all types and sub-types of human influenza A,
+      B and C viruses in vitro, showing anti-viral activity against various influenza virus strains
+      including avian and swine viruses. Favipiravir also has shown anti-viral activity even
+      against amantadine, oseltamivir and zanamivir-resistant influenza viruses in vitro. The
+      mechanism of action of favipiravir is the selective inhibition of RNA polymerase by
+      favipiravir ribosyl triphosphate formed by cellular enzymes in the influenza virus leading to
+      antiviral activity.",Male,20 Years,40 Years,Accepts Healthy Volunteers,Randomized,Crossover Assignment,Other,None (Open Label),Experimental: FAVICOVIR Then AVIGAN,AVIGAN Then FAVICOVIR,,,,,15,15,,,15,14,0,1,,,,,0,1,,,,,,,,,,,,,,0,0,0,15,15,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional,"Experimental plan
+
+      After consent is taken, all groups will be briefed regarding the study protocol separately.
+
+        -  Group A will be briefed on the correct procedures of gargling with Betadine®. The
+           participants will be instructed to take 10ml of povidone-iodine (PVP-I), tilt their
+           heads backward and gargle for 30 seconds, three times per day for 7 days
+
+        -  Group B will be briefed on the correct technique of gargling with Listerine®. The
+           participants will be instructed to take 20ml of essential oils, tilt their heads
+           backward and gargle for 30 seconds, three times per day for 7 days
+
+        -  Group C will be briefed on the correct technique of gargling with hydrogen peroxide. The
+           participants will be instructed to take 10ml of hydrogen peroxide, tilt their heads
+           backward and gargle for 30 seconds, three times per day for 7 days
+
+        -  Group D will be briefed about the involvement in this study. They will be managed
+           according to the standard protocol of the hospital with no additional intervention.
+
+      Monitoring
+
+        1. Oropharyngeal and nasopharyngeal swabs will be taken on day 4, 6 of intervention, and
+           day 12 post-intervention. The swabs will be subjected to detection of SARS-CoV-2 by
+           real-time reverse transcriptase-polymerase chain reaction (rt RT-PCR).
+
+        2. Patients will be given a chart for them to record their gargling practice and symptoms
+           (if any) during the intervention period ( 7 days)
+
+        3. Clinical data collection sheet will be provided to attending clinicians. The required
+           information includes demographic data, daily vital signs, serial absolute lymphocytic
+           count, LDH, chest radiograph, and symptoms. Clinical monitoring will be done until day
+           14 of the intervention.",All,18 Years,N/A,No,Randomized,Parallel Assignment,Treatment,None (Open Label),Povidone-iodine,Essential Oils,Tap Water,Control,,,5,5,,,5,5,0,0,,,,,,,,,,,0,0,0,5,5,5,0,0,0,3,1,0,2,4,5,,,,,,,0,0,0,0,0,0,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,5,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,5,16,0,0,5,20,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4 arms
+Gargle with povidone-iodine
+Gargle with essential oils
+Gargle with tap water
+Control",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,0,0,,,,,0,0,,,0,0,,,,,,,,,,,,,,,,,,,,0,5,0,,,0,20,0,5,5,5,5,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Prophylactic Ivermectin in COVID-19 Contacts,Interventional,,All,16 Years,70 Years,Accepts Healthy Volunteers,Randomized,Sequential Assignment,Prevention,None (Open Label),Ivermectin Group,Control Group,,,,,228,112,,,203,101,25,11,,,,,,,,,,,,,,,,,,,,97,51,148,106,50,156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational,"CONTAGION COURSE Estimation of the prevalence and contagiousness of undocumented novel
+      coronavirus infections is critical for understanding the overall prevalence and pandemic
+      potential of this disease.
+
+      Observations of reported infection within China, in conjunction with mobility data, a
+      networked dynamic metapopulation model, and Bayesian inference, to infer critical
+      epidemiological characteristics associated with SARS-CoV-2, including the fraction of
+      undocumented infections and their contagiousness, have been attempted. The rapid geographic
+      spread of SARS-CoV-2 indicate that containment of this virus will be particularly
+      challenging.
+
+      DISSEMINATION BY DROPLETS For COVID-19, the salivary gland could be an important source of
+      the virus in saliva and would generate infectious saliva on a sustained basis.
+
+      ACE2 expression in the minor salivary glands was higher than in the lungs, suggesting that
+      the salivary glands is a potential target for COVID-19.
+
+      The positive rate of COVID-19 in the patients' saliva can reach 91.7%, and the saliva samples
+      can also culture the live virus.
+
+      In addition to mobility restrictions of people, the World Health Organization and the
+      Governments have prescribed maintaining an inter-personal distance of 1.5 or 2 m (about 6
+      feet) from each other in order to minimize the risk of contagion through the droplets that we
+      usually disseminate around us from nose and mouth. However, recently published studies
+      support the hypothesis of virus transmission over a distance of 2 m from an infected person.
+      Researchers have proved the higher aerosol and surface stability of SARS-COV-2 as compared
+      with SARS-COV-1 (with the virus remaining viable and infectious in aerosol for hours) and
+      that airborne transmission of SARS-CoV can occur besides close-distance contacts. Indeed,
+      there is reasonable evidence about the possibility of SARS-COV-2 airborne transmission due to
+      its persistence into aerosol droplets in a viable and infectious form. Based on the available
+      knowledge and epidemiological observations, it is plausible that small particles containing
+      the virus may diffuse in indoor environments covering distances up to 10 m from the emission
+      sources, thus representing a kind of aerosol transmission. On-field studies carried out
+      inside Wuhan Hospitals showed the presence of SARS-COV-2 RNA in air samples collected in the
+      hospitals and also in the surroundings, leading to the conclusion that the airborne route has
+      to be considered an important pathway for viral diffusion. Similar findings are reported in
+      analyses concerning air samples collected at the Nebraska University Hospital. On March 16th,
+      we have released a Position Paper emphasizing the airborne route as a possible additional
+      factor for interpreting the anomalous COVID-19 outbreaks in northern Italy, ranked as one of
+      the most polluted areas in Europe and characterized by high particulate matter (PM)
+      concentrations. The available information on the SARS-COV-2 spreading supports the hypothesis
+      of airborne diffusion of infected droplets from person to person at a distance greater than
+      two meters (6 feet). The inter-personal distance of 2 m can be reasonably considered as an
+      effective protection only if everybody wears face masks in daily life activities.
+
+      IVERMECTIN CONCENTRATION IN SALIVARY GLANDS The concentration of ivermectin was tested in
+      different tissues, in different studies, both in animals and human beings. The concentration
+      in salivary glands proved to be adequately acceptable.
+
+      CARRAGEENAN VIRUCIDAL EFFECTS Iota Carrageenan is widely used in gastronomic, cosmetic and
+      pharmacologic industry.
+
+      Recently, its intrinsic virucidal effectas were proved over a variety of virus (herpes
+      simplex, Japanese Encephalitis, Rhinovirus, etc.).
+
+      Its mechanism of action is preventing virus adsorption to host cells. By applying both drugs
+      topically, 5 times per day, in nasal and oral mucosae, we try to reduce contagion.",All,18 Years,N/A,Accepts Healthy Volunteers,,,,,IVER+,IVER-,,,,,131,98,,,131,98,0,0,,,,,,,,,,,,,,,,,,,,70,72,142,61,26,87,131,98,229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131,98,229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ",Non-Probability Sample,Cohort,Prospective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,131,98,229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,"Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational,"Between 30 and 50% of patients who contract COVID 19 will be asymptomatic or
+      oligosymptomatic. This fact will not give rise to the consult, and will directly affect a
+      notorious sub-registration of the cases.
+
+      The second, even more disturbing, premise is that these patients are as contagious as the
+      moderate and severe cases.
+
+      The virus incubation period has been calculated at 5.1 days (95% CI, 4.5 to 5.8 days), and
+      97.5% of patients are said to have symptoms at 11 days (95% CI 8.2 to 15.6 days).
+
+      A mortality of 5.7% has been calculated. The average COVID patient presents with fever (78%),
+      cough (60-79%) and myalgias or fatigue (35.8 to 44%).
+
+      55% develop dyspnea, which appears on average 8 days after the onset of symptoms.
+
+      To the manifestations expressed above, the presence of bilateral conjunctival injection
+      should be added, without associated secretions, hypogeusia, skin rash and hyposmia.
+
+      Diagnostic confirmation is made through laboratory studies, which can be performed on a wide
+      variety of biological samples.
+
+      Bronchoalveolar lavage samples showed the highest sensitivity (93%), followed by sputum
+      samples (72%), nasal swabs (63%), fiberoptic brush biopsy (46%), pharyngeal swabs (32%),
+      feces ( 29%) and, finally, blood (1%). A sensitivity of 91% is reported in saliva samples.
+
+      Evidence suggests that a subgroup of patients with severe forms of COVID 19 may have cytokine
+      storm syndrome.
+
+      Therefore, we recommend the identification and treatment of hyperinflammation using existing
+      approved therapies with proven safety profiles to address the immediate need to reduce
+      increasing mortality (see Therapeutic Proposal).
+
+      Secondary hemophagocytic lymphohistiocytosis (SHLH) is a poorly recognized hyperinflammatory
+      syndrome characterized by fatal and fulminant hypercytokinemia with multiple organ failure.
+
+      In adults, SHLH is most often triggered by viral infections, and occurs in 3.7-4.3% of sepsis
+      cases.
+
+      The cardinal features of sHLH include constant fever, cytopenias, and hyperferritinemia;
+      Pulmonary involvement (including ARDS) occurs in approximately 50% of patients.
+
+      A cytokine profile that resembles sHLH is associated with the severity of COVID-19 disease,
+      characterized by an increase in interleukin (IL) -2, IL-7, granulocyte colony stimulating
+      factor, protein 10 inducible by interferon-γ, monocyte chemoattractant protein, macrophage
+      inflammatory protein 1-α and tumor necrosis factor-α.
+
+      Mortality predictors from a recent multicenter retrospective study of 150 confirmed cases of
+      COVID-19 in Wuhan, China included elevated ferritin (mean 1297.6 ng / ml in non-survivors
+      versus 614.0 ng / ml in survivors; p <0.001) and IL-6 (p <0.0001), suggesting that mortality
+      could be due to viral hyperinflammation.
+
+      However, cases have been reported where tissue and organ involvement has been found whose
+      concentration of ACE receptors is very dissimilar (myocardium, brain). In all of them, the
+      common denominator was small vessel thrombosis, as seen in entities such as Catastrophic
+      Antiphospholidic Syndrome.
+
+      Currently the Virchow triad factors have been narrowed down in more detail:
+
+      Circulatory stasis: abnormalities of hemorrheology and turbulence in vascular bifurcations
+      and stenotic regions.
+
+      Injury to the vascular wall: abnormalities in the endothelium, such as atherosclerosis and
+      associated vascular inflammation.
+
+      Hypercoagulable state: abnormalities in the coagulation and fibrinolytic pathways and in
+      platelet function associated with an increased risk of VTE and other cardiovascular diseases
+      (such as coronary artery disease [CPA], heart failure and stroke in patients with AF). All
+      lead to a state of hypercoagulability, which could explain the formation of microthrombosis
+      in different locations, as has been repeatedly reported in patients with COVID 19.
+
+      BASES OF THE PROPOSED THERAPEUTICS They rest on four pillars: Ivermectin, Aspirin,
+      Dexamentasone and Enoxaparin. IVERMECTIN Ivermectin is a broad-spectrum antiparasitic, with
+      vermicidal and ectoparasiticidal properties. It was discovered and marketed for animal use in
+      the early 1980s.
+
+      Approved in 1997 by the FDA for single-dose strongyllidiasis of 200 mcg / kg and crusted
+      scabies (Scabies Norway) in patients with AIDS at a dose of 200 mcg / kg, every week for 2
+      weeks.
+
+      In Argentina, it has been available for human use for almost 20 years. But, much more
+      recently, its viricidal effects have been compiled on different varieties of flavivirus,
+      dengue, Zica, Chikunguña, etc.
+
+      Ivermectin has been reported to be a SARS-CoV-2 inhibitor. This activity is believed to be
+      due to the dependence of many different RNA viruses on IMPα / β1 during infection. These
+      reports suggested that the inhibitory activity of ivermectin nuclear transport may be
+      effective against SARS-CoV-2, since they demonstrate that ivermectin has antiviral action
+      against the clinical isolate of SARS-CoV-2 in vitro, with a single dose capable to control
+      viral replication in 24-48 hours. in vitro.
+
+      Although in vitro studies have used doses that -extrapolated to those recommended in the
+      treatment of ectoparasitosis in humans- might seem high, the truth is that studies carried
+      out in healthy volunteers, more than two decades ago, proved that the usual doses they can be
+      increased tenfold, without significant side and / or adverse effects.
+
+      ASPIRIN Aspirin is the common name for acetylsalicylic acid. The chemical production is based
+      on the salicylic acid obtained by synthesis. Its most common uses and for what it was first
+      used was as an analgesic (for pain), antipyretic (to lower fever) and anti-inflammatory. It
+      is classified as a non-steroidal anti-inflammatory drug (NSAID). In 1989 the first large
+      study was published that proved that Aspirin reduces cardiovascular risk, acting as an
+      antiplatelet agent.
+
+      These were low-dose Aspirin, and the risk of myocardial infarction was found to decrease by
+      44% when the previously named dose of Aspirin was administered.
+
+      HEPARIN AND ENOXAPARIN Heparins are injectable anticoagulant substances. A distinction should
+      be made between standard heparin or unfractionated heparin (HNF) and low molecular weight
+      heparins (LMWH).
+
+      HNF is made up of a heterogeneous mixture of polysaccharide chains of variable length.
+
+      LMWHs are the result of fragmentation of HNF by different methods to achieve products with
+      lower and more homogeneous molecular weights. They are also made up of a mixture of
+      polysaccharide chains and their average molecular weight is much lower. The antithrombotic
+      and anticoagulant activity of HNF is related to the ability to inhibit factor Xa and factor
+      IIa respectively. LMWHs have less inhibitory activity to thrombin or factor IIa but maintain
+      the same potency with respect to factor Xa, so it is expected that they present a lower risk
+      of bleeding but the same antithrombotic activity.
+
+      CORTICOSTEROIDS Systemic corticosteroids are powerful anti-inflammatory and immunosuppressive
+      agents. They can be administered intravenously, intramuscularly, orally, intralesionally, and
+      topically. Its side effects increase with high, long and frequent doses. Corticosteroids are
+      drugs frequently used in various clinical situations, because they are powerful
+      anti-inflammatories and immunomodulators. Glucocorticoids passively diffuse through the cell
+      membrane, then join soluble receptor proteins in the cytoplasm. They are used, among others,
+      for the treatment of some rheumatic diseases. A separate case, well known but not studied in
+      the current contingency, is acute adrenal insufficiency.
+
+      CURRENT IDEA TRIAL Based on the precedent data, we started a Clinical Trial based on the
+      above-mentioned four drugs, on a gradual scale, and according the severity of each case. In
+      order to determine the dose and combination, we developed our own Severity Score.
+
+      INTERPRETATION:
+
+      Mild cases Only minor criteria findings Moderate cases 3 major crit. findings, or 2 major + 2
+      minor Severe cases 4 major crit. Findings or 3 major + 2/3 minor
+
+      Based on the previous criteria, we used the following combinations and doses:
+
+      DISEASE SEVERITY Firm Suspicious Case or Confirmed case 24 mg orally at a dose of 200 ug / kg
+      in a single dose, to be repeated a week later Aspirin 250 mg orally Moderate clinical stage
+      36 mg orally at a dose of 400 ug / kg in a single dose, to be repeated a week later
+      Dexamethasone 4 mg/day (parenteral) Aspirin 250 mg orally Low Flow Washed Oxygen or Oxygen
+      Concentrator Severe case with bilateral pneumonia 48 mg via gastric cannulae, to be repeated
+      a week later Dexamethasone 4 mg/day (parenteral) Enoxaparin100 UI/kg (1 mg/kg) Mechanical
+      Ventilation",All,5 Years,N/A,No,,,,,Mild Cases,Moderate Cases,Severe Cases,,,,135,12,,,135,12,0,0,,,,,,,,,,,,,,,,,,,,66,7,11,69,5,9,135,12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135,12,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,,19,,1,,,,,,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,84,,83,,0,,0,,,,,,,,,,,,0,,,,,,,,,,,,167,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ",Non-Probability Sample,Cohort,Prospective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,,,,167,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,135,12,20,167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional,"This is an open and off label use, interventional, single site study. The HCWP Study
+      eligibility are HCWs at high risk for SARS-CoV-2 exposure (eg MD/DO, NP, RN, and respiratory
+      therapists in ED, Pediatric ED, Urgent Care, Pediatric Urgent Care and on Covid-19 units) at
+      UNM HEALTH SYSTEM meeting all inclusion criteria. Total number of participants: 350 (Group A
+      and B) Group A: up to 275 (HCW who choose to be provided HCQ). Will receive a 600 mg loading
+      dose followed by 200 mg daily (tablets).
+
+      Group B: up to 75 (HCW who choose not to be provided HCQ)",All,18 Years,N/A,Accepts Healthy Volunteers,Non-Randomized,Parallel Assignment,Prevention,None (Open Label),Hydroxychloroquine Arm,No Intervention Arm,,,,,0,1,,,0,0,0,1,,,,,,,,,,,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Anti-Androgen Treatment for COVID-19,Interventional,"During the continuing SARS-CoV-2 (COVID-19) pandemic, several studies have reported a
+      significant difference in the rate of severe cases between adult females and adult males (42%
+      vs 58%).Among children under the age of 14, the rate of severe cases was reported to be
+      extremely low. To explain this difference, several theories have been proposed including
+      cigarette smoking and lifestyle habits. However, no theory fits both the gender difference in
+      severe cases as well as reduced risk in pre-pubescent children. Our past research on male
+      androgenetic alopecia (AGA) has led us to investigate an association between androgens and
+      COVID-19 pathogenesis. In normal subjects, androgen expression demonstrates significant
+      variation between men and women as well as between adults and pre-pubescent children.
+
+      SARS-CoV-2 primarily infects type II pneumocytes in the human lung. SARS-CoV-2 enters
+      pneumocytes, by anchoring to the ACE2 cell surface receptor. Prior to receptor binding, viral
+      spike proteins undergo proteolytic priming by the transmembrane protease, serine 2 (TMPRSS2).
+      TMPRSS2 inhibition or knock down reduces ability of SARS-CoV-1 (a related virus to
+      SARS-CoV-2) to infect cells in vitro. Additionally, TMPRSS2 also facilitates entry of
+      influenza A and influenza B into primary human airway cells and type II pneumocytes.
+
+      The human TMPRSS2 gene has a 15 bp androgen response element and in humans, androgens are the
+      only known transcription promoters for the TMPRSS2 gene. In a study of androgen-stimulated
+      prostate cancer cells (LNCaP), TMPRSS2 mRNA expression increase was mediated by the androgen
+      receptor. Further, the ACE2 receptor, also critical for SARS-CoV-2 viral infectivity, is
+      affected by male sex hormones with higher activity found in males.
+
+      Androgenetic alopecia (AGA), often referred to as male pattern hair loss, is the most common
+      form of hair loss among men. The development of androgenetic alopecia is androgen mediated
+      and is dependent on genetic variants found in the androgen receptor gene located on the X
+      chromosome; thus, it is hypothesized that men with AGA would be more prone to severe COVID-19
+      disease. The investigators conducted a preliminary observational study of hospitalized
+      COVID-19 patients at two Spanish tertiary hospitals between March 23-April 6, 2020 to test
+      this theory. In total, 41 Caucasian males admitted to the hospitals with a diagnosis of
+      bilateral SARS-CoV-2 pneumonia were analyzed. The mean age of patients was 58 years (range
+      23-79). Among them, 29 (71%) were diagnosed with AGA (16 (39%) were classified as severe AGA
+      (Hamilton IV or above)) and 12 (29%) did not present clinical signs of AGA. The diagnosis of
+      AGA was performed clinically by a dermatologist. The precise prevalence of AGA among
+      otherwise healthy Spanish Caucasian males is unknown; however, based on published literature,
+      the expected prevalence of a similar age-matched Caucasian population is approximately
+      31-53%.
+
+      Based on the scientific rationale combined with this preliminary observation, the
+      investigators propose to test an anti-androgen as a treatment for patients recently diagnosed
+      with COVID-19.
+
+      We have chosen the use of the novel second generation androgen receptor (AR) antagonist
+      proxalutamide as a means for rapid reduction in AR activity. Proxalutamide (GT0918)
+      demonstrates a dual mechanism of action. It is highly effective in inhibiting AR as well as
+      exhibiting pharmacological effects of inducing the down-regulation of AR expression; the
+      mechanism that is not present in bicalutamide and enzalutamide. Additionally, it has been
+      reported that Proxalutamide lowers the expression of ACE2. Both would be beneficial for
+      preventing SARS-CoV-2 entry into lung cells.
+
+      This study is intended to explore the possible protective role of anti-androgens in
+      SARS-CoV-2 infection. Provided anti-androgens are effective in reducing the rate of COVID-19
+      hospitalization, subjects enrolled in this study may experience a lower rate of
+      hospitalization.",Male,18 Years,N/A,No,Randomized,Parallel Assignment,Treatment,"Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",Standard Care,Proxalutamide + Standard Care,,,,,128,134,,,128,134,0,0,,,,,,,,,,,,,,,,,,,,0,0,0,128,134,262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"This study is designed as a prospective, interventional, placebo controlled, double-blinded, randomized parallel assignment study.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,,,,,,,,,,,128,134,262,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional,"COVID-19 is an infectious disease caused by the most recently discovered coronavirus. This
+      new virus and disease were unknown before the outbreak began in Wuhan, China, in December
+      2019. COVID-19 is now a pandemic affecting many countries worldwide. Globally, as of 1:09 pm
+      CEST, 27 July 2020, there have been 16 096 741 confirmed cases of COVID-19, including 646 384
+      deaths, reported to WHO.
+
+      The main and rapidly achievable target of SARS-CoV-2 is lung type II alveolar cells (AT2),
+      which determines the development of diffuse alveolar damage. In the pathogenesis of ARDS due
+      to COVID-19, the main role is played by an over-response of the immune system with rapidly
+      developing severe life-threatening cytokine release syndrome (cytokine storm). Cytokine
+      release syndrome threatens the emergence and progression of ARDS. The key components of the
+      pathogenesis of ARDS also include disruption of cell cytotoxicity mechanisms, excessive
+      activation of cytotoxic lymphocytes and macrophages with a massive release of proinflammatory
+      cytokines (FNO-α, IL-1, IL-2, IL-6, IL-8, IL-10), granulocytic colony-stimulating factor,
+      monocytic chemoattractive protein 1), and inflammatory markers (CRP, serum ferritin),
+      infiltration of internal organs and tissues by activated T-lymphocytes and macrophages,
+      resulting in a hyperinflammatory reaction. Such severe lesions can lead to death or severe
+      lung damage, including long rehabilitation after discharge.
+
+      Experimental studies have demonstrated that mesenchymal stem cells (MSCs) may significantly
+      reduce lung inflammation and pathological impairment resulting from different types of lung
+      injury. Many researchers connect the anti-inflammatory effect of MSC with their secretome
+      which includes MSC derived exosomes. It is highly likely that MSC exosomes have the same
+      therapeutic effect on inoculation pneumonia as MSCs themselves. Moreover, exosomes show a
+      strong effect of regenerative stimulation on different wounds so the regenerative effect can
+      be extended on patients with COVID-19 pneumonia.
+
+      The purpose of this protocol is to explore the safety and efficiency of aerosol inhalation of
+      the exosomes in the treatment of severe patients hospitalized with novel coronavirus
+      pneumonia (NCP).",All,18 Years,65 Years,No,Randomized,Parallel Assignment,Other,"Double (Participant, Care Provider)",EXO-1,EXO-2,Placebo,,,,10,10,,,10,10,0,0,,,,,,,,,,,0,0,0,10,10,10,0,0,0,6,8,5,4,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,,10,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"The trial has three groups, each with 10 subjects (n=30). All eligible study subjects will be randomized, double-blinded, to either the two treatment groups or placebo group.","Two main groups will be provided with exosomes in a specially provided solution, the third group (control) will receive the same solution without exosomes. Due to exosomes are nanoparticles and requires special methods and devices to be detected the hospital staff and patients have no way to check which group receives exosomes.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,30,0,,,,,,,,,,,,,,,,,,,,10,10,10,30,,,,,,,,,,,,,,,,,,,,,,,
+0,Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional,"This study explores efficacy of HCQ (400mg BD on D0 and 200mg BD D1-D5) in reducing
+      progression of Mild Covid-19 patients and decreasing viral load.
+
+      Participants of study will be randomized 2:1 to receive either Active drug or standard of
+      care (SOC) treatment respectively. We aim to demonstrate reduced COVID-19 progression and
+      early viral clearance in individuals on HCQ therapy.",All,18 Years,80 Years,No,Randomized,Parallel Assignment,Treatment,None (Open Label),Control Group,Intervention Group,,,,,180,360,,,151,349,29,11,,,,,10,5,,,,,0,0,0,180,360,540,0,0,0,10,24,34,170,336,506,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,,,,,,,,,,,,,,,11,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Randomization rules were designed by Dr. Wasim Alamgir together with principal investigators and implemented by an independent statistician who was not involved in data analysis. Stratified random sampling was applied to stratify all eligible patients according to age, gender and comorbidities. Computerized random number generator was used and allocation was done in 2:1 sequence. Cards with each group assignment number randomly generated by computer were placed in sequentially numbered envelopes that were opened as the patients were enrolled","Neither patients, nor investigators, nor statisticians were masked to treatment assignment. Lab staff who performed sampling for PCR, basic blood tests and other routine measurement were unaware of treatment information.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,180,360,540,,,,,,,,,,,,,,,,,,
+0,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional,"OBJECTIVES:
+
+      General objectives:
+
+      To observe the benefit (clinical and microbiological) of Ivermectin and Doxycycline in
+      Confirmed Covid 19 cases.
+
+      Specific objectives:
+
+        1. To observe the clinical outcome in trial group and the placebo group.
+
+        2. To observe the duration require controlling viral replication (negative RT-PCR) in the
+           trial and placebo group.
+
+        3. To compare the outcome between the two groups.
+
+      RATIONALE:
+
+      Covid-19 is an emergent pandemic, threatens the life of millions of the people throughout the
+      globe. There is increasing effort of the scientist to unveil a remedy of covid-19. Still it
+      is unsuccessful. At present there is no other alternative other than experimenting the
+      existent drug against the virus. There are several trials going throughout the globe. Among
+      them Ivermectin showed good efficacy in vitro trial. Some clinical trial also proved it
+      beneficial. The Doxycycline also has some anti viral role with its prominent
+      anti-inflammatory role. Synergistic action of the two drugs might be proved some benefit in
+      clinical trial. As both drugs are cheap and less toxic, if it does, it would be the blessing
+      for the poor people of the globe.
+
+      METHODOLOGY:
+
+      Study type: Interventional Clinical trial Estimated enrollment: 200 participants per group
+
+      For superior trial, the formula is:
+
+      N=size per group; p=the response rate of standard treatment group; p0= the response rate of
+      new drug treatment group; zx= the standard normal deviate for a one or two sided x; d= the
+      real difference between two treatment effect; δ0= a clinically acceptable margin; S2= Polled
+      standard deviation of both comparison groups.
+
+      All parameters were assumed as follows: p =0.40; p0=0.58; α=0.05;β=0.20; δ=0.18; δ0=0.10.
+
+      However, we are assuming that lost to follow up or refuse to include in trial will be 20%,
+      that means 24. So at least 150 patients will be allocated randomly and power of this study
+      will be 80%.
+
+      Allocation: Randomized Intervention model: Parallel assignment Intervention model
+      description: Patient will be randomized 1:1 to placaebo with standard care and combined
+      doxycycline and ivermectin with standard care.
+
+      Blinding: Double blind (The participant and the clinicians/data collectors will be unaware of
+      the treatment the participant receives) Primary purpose: Treatment Official title: A phase
+      III trial to promote recovery from covid 19 with combined Doxycycline and Ivermectin along
+      standard care. Provider of placebo and active ingredients: Popular pharmaceutical limited
+      Dosage of the drugs: Ivermactin 6 mg 2 tab stat, cap Doxycycline 100 mg 1 cap BD 5 days
+
+      Data collection technique:
+
+      Data will be collected by assigned. trained data collectors (Physician). Patient will be
+      enrolled according to defined inclusion and exclusion criteria in the current research.
+      Informed written consent will be obtained from the patient or their relatives. Each patient
+      participating in the trial will be uniquely identified, and information such as his name,
+      address is recorded in the trial 'subject number list'. Only the principle investigator will
+      be aware about the allocation of the drugs. The patients and the data collectors will be
+      unaware about the group allocation of the drugs. The Data will be reviewed by the
+      co-investigators. It will be managed by principle and co-principle investigators in
+      designated computer.
+
+      Clinical assessment (fever, cough, Anorexia, Temperature, pulse, blood pressure, respiratory
+      rate, oxygen saturation) will be done every day. Routine investigation (CBC, ESR, CRP,
+      Creatinine, RBS, SGPT, chest x-ray, D- Dimer) will be done at admission and at day 3, 5, 7,
+      10 and 14 day. In case of the clinical deterioration it would done according to necessity.
+      RT-PCR will be done at day-0, Day 5, day 7 and day 14.
+
+      Standard care: both the experimental and placebo will receive the available standard of care,
+      like-
+
+        -  Paracetamol, Antihistamine, Cough suppressant, Vitamins
+
+        -  Oxygen therapy according to indication and need
+
+        -  Low molecular weight heparin according to indication
+
+        -  Appropriate other broad spectrum antibiotics
+
+        -  Other drugs for associated co- morbid condition
+
+      Management of the adverse events:
+
+      Drugs adverse effect will be monitored by a defined committee. The patient experiencing
+      adverse effect of the drugs will be discontinued from the study. It will be managed with
+      priority to the highest possible level by the hospital authority as well as the
+      investigators.
+
+      If the patient progresses from mild to moderate or severe disease, the study will be
+      continued and available management of the appropriate severity will be immediately started.
+      The patient will be monitored closely.
+
+      Data analysis:
+
+      Data will be analyzed by computer with the help of SPSS (Statistical Package for Social
+      Sciences) version 26. Unpaired t-test would be used for testing quantitative data and for
+      testing qualitative data two sample z- test will be used. Comparing drug outcome in between
+      two groups hazard ratio, Kaplan-Meire curve will be used.
+
+      Dropout management: Likelihood based methods such as mixed models will be used to estimate
+      unbiased treatment effects, under assumptions regarding the missingness mechanisms.",All,18 Years,N/A,No,Randomized,Parallel Assignment,Treatment,"Double (Participant, Investigator)",Ivermectin and Doxycycline,Placebo,,,,,200,200,,,183,180,17,20,,,,,,,2,0,,,,,,,,,,,,77,88,165,123,112,235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,17,,,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Patient will be randomized 1:1 to placaebo with standard care and combined doxycycline and ivermectin with standard care.,Double blind (The participant and the clinicians/data collectors will be unaware of the treatment the participant receives).The drugs will be labelled with a random code number,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19,Observational,"The study was planned as an observation of Polyoxidonium® administered in addition to Russian
+      Ministry of Healthcare (MoH) guidance for standard COVID-19 treatment. Regimens have no
+      limitations to the use of concomitant therapy. The aim of the study is to observe the safety
+      and efficacy of Polyoxidonium®, lyophilizate for solution for injections, 12 mg in addition
+      to complex treatment of hospitalized patients with COVID-19.",All,18 Years,N/A,,,,,,Adult Patients Hospitalized With COVID-19,,,,,,81,,,,81,,0,,,,,,,,,,,,0,,,71,,,10,,,44,,,37,,,,,,,,,0,,,0,,,0,,,0,,,4,,,77,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+      ",Non-Probability Sample,Cohort,Prospective,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,,,,,,,,,10,30,28,23,14,25,25,17,39,42,,,,,,,,
+0,Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional,"Upon signing the informed consent form and screening, 200 eligible patients with polymerase
+      chain reaction (PCR) confirmed COVID-19 are randomized at a 1:1 ratio to receive either
+      Favipiravir 1600 mg twice a day (BID) on Day 1 followed by 600 mg BID on Days 2-14 (1600/600
+      mg), or SOC. The course of treatment by Favipiravir is 14 days.",All,18 Years,80 Years,No,Randomized,Parallel Assignment,Treatment,None (Open Label),Favipiravir (Areplivir),Standard of Care,,,,,100,100,,,96,100,4,0,,,,,,,1,0,,,,,,,,,,,,49,54,103,51,46,97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,100,200,,,,,,,,,,,,,,,,,2,0,,,,,,
+0,Ivermectin for Severe COVID-19 Management,Interventional,"Patients with severe COVID-19 pneumonia were included in the study. Two groups, the study
+      group and the control group, took part in the study.
+
+      Ivermectin 200 mcg/kg/day for five days (9 mg between 36-50 kg, 12 mg between 51-65 kg, 15 mg
+      between 66-79 kg and 200 microgram/kg in > 80 kg) in the form of a solution prepared for
+      enteral use added to the reference treatment protocol -hydroxychloroquine (2x400mg loading
+      dose followed by 2x200mg, po, 5 days) + favipiravir (2x1600mg loading dose followed by
+      2x600mg maintenance dose, po, total 5 days) + azithromycin (first day 500mg followed by 4
+      days 250mg/day, po, total 5 days)- of patients included in the study group. Patients in the
+      control group were given only reference treatment with 3 other drugs without ivermectin.
+
+      The mutations in 29 pairs of primers in mdr1/abcab1 gene by sequencing analysis using Sanger
+      method, and the haplotypes and mutations of the CYP3A4 gene that cause the function losing
+      were investigated among the patients who meet criteria and who were included in the study
+      group according to randomization. Mutation screening was done when the first dose of the
+      research drug ivermectin was given, ivermectin treatment was not continued in patients with
+      mutations detected as a result of genetic examination and these patients were excluded from
+      the study.
+
+      Patients were followed for 5 additional days after treatment. At the end of the treatment and
+      follow-up period (At the end of 10th day), clinical response and changes in oxygenation and
+      laboratory parameters were evaluated.",All,18 Years,N/A,Accepts Healthy Volunteers,Randomized,Parallel Assignment,Treatment,None (Open Label),Control Group,Study Group,,,,,30,36,,,30,30,0,6,,,,,,,,,,,,,,,,,,,,11,9,20,19,21,40,,,,,,,30,30,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with polymerase chain reaction (PCR) positivity in respiratory tract samples were included into the study. They were randomized to the study and control group, respectively. Single numbered patients were accepted as study group and double numbered patients as control group",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6,30,30,60,
+0,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional,"This cross-sectional study was conducted between October, 16 to 23, 2020 by sending an online
+      survey questionnaire working in public and university hospitals, including general dentists
+      or specialists. The tool utilized for data collection was a designed online Google Forms
+      questionnaire.
+
+      This survey was implemented by using a questionnaire that included socio-demographic data
+      (age range, gender, marital status, systemic disease, professional area, years of clinical
+      experience, number of patients treated daily, smoking status, alcohol consumption, vs),
+      epidemic-related questions and scales measuring the fear and anxiety levels of the
+      participants.
+
+      Fear of COVID-19 Scale is an unidimensional scale seven-item scale assessing anxiety
+      regarding COVID-19 developed by Ahorsu et al. Items are rated on a 5-item Likert scale from 1
+      (Strongly disagree) to 5 (Strongly agree) with scores ranging from 7 to 35. A higher score of
+      the FCV-19S represents a greater level of fear. In the study, the bi-factor model and
+      two-factor model consisting of the ""emotional response"" factor (items 1, 2, 4, and 5) and
+      ""physiological response"" factor (items 3, 6, and 7) were used.
+
+      Coronavirus Anxiety Scale is an unidimensional tool that assesses the physiological reactions
+      anxiety related to the COVID-19 pandemic. Participants were asked to rate 5 items on a
+      5-point Likert-type scale, from 0 (not at all) to 4 (nearly every day over the last 2 weeks).",All,23 Years,N/A,Accepts Healthy Volunteers,N/A,Single Group Assignment,Other,None (Open Label),Analysing the Psychosocial Effects of COVID-19 Pandemic,,,,,,850,,,,813,,37,,,,,,,,,,,,0,,,813,,,0,,,553,,,260,,,,,,,,,0,,,0,,,0,,,0,,,0,,,813,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dental professionals,Dental professionals working in public and university hospitals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,813,,,37
