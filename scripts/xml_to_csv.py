@@ -18,18 +18,23 @@ data_path = "C:/Users/hpfla/OneDrive/Documents/DVRN/clinical_trials/code/project
 
 
 xml_folder = os.path.join(data_path, "search_result")
-json_folder = os.path.join(data_path, "json")
+
 
 xmlfiles = os.listdir(xml_folder)
-    
+  
 
 # create a dataframe
-df = pd.DataFrame(columns=["Title"],index=range(len(xmlfiles)))
+
+dfs = []
+print("Printing dsf")
+print(dfs)
 
 # columns
 def create_col(df, col):
-    if col not in df:
-        df[col] = np.nan
+    if col not in df.columns:
+        df[col] = "idk"
+    #print("created {}".format(col))
+    return df
         
 
 for idx,filename in enumerate(xmlfiles): 
@@ -37,16 +42,23 @@ for idx,filename in enumerate(xmlfiles):
     print("")
     print(str(idx) + ". " + filename)
     dom = ElementTree.parse(os.path.join(xml_folder, filename))
-    
+    mydf = pd.DataFrame(columns=["Title"],index=range(1))
     #print(dom.find("brief_title").text)
-    df.loc[idx]["Title"] = dom.find("brief_title").text
-    for milestone in dom.find("clinical_results/participant_flow/period_list/period/milestone_list"):
-        print(milestone.find("title").text)
-        participants = milestone.find("participants_list")
+    mydf["Title"] = dom.find("brief_title").text
+    for m in dom.find("clinical_results/participant_flow/period_list/period/milestone_list"):
+        milestone = m.find("title").text
+        #print(milestone)
+        participants = m.find("participants_list")
         for p in participants:
-            print(p.attrib["group_id"] + ": " + p.attrib["count"])
+            newcol = (milestone + p.attrib["group_id"]).lower()
+            count = p.attrib["count"]
+            mydf = create_col(mydf, newcol)
+            mydf[newcol] = count
+
+    dfs.append(mydf.copy())
+
             
-    try:
+    '''try:
         for reason in dom.find("clinical_results/participant_flow/period_list/period/drop_withdraw_reason_list"):
             print(reason.find("title").text)
             participants = reason.find("participants_list")
@@ -73,4 +85,7 @@ for idx,filename in enumerate(xmlfiles):
                             for count in submeasure.find("measurement_list"):
                                 print(count.attrib["group_id"] + ": " + count.attrib["value"])
             except: 
-                print(measure.find("title").text)
+                print(measure.find("title").text)'''
+
+
+final_df = pd.concat(dfs)
