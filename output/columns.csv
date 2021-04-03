@@ -1,0 +1,434 @@
+,columns
+0,Title
+1,Study type
+2,Detailed Description
+3,gender
+4,minimum_age
+5,maximum_age
+6,healthy_volunteers
+7,allocation
+8,intervention_model
+9,primary_purpose
+10,masking
+11,P1
+12,P2
+13,P3
+14,P4
+15,P5
+16,P6
+17,milestone_startedp1
+18,milestone_startedp2
+19,milestone_received treatmentp1
+20,milestone_received treatmentp2
+21,milestone_completedp1
+22,milestone_completedp2
+23,milestone_not completedp1
+24,milestone_not completedp2
+25,withdraw reason_enrolled but not treatedp1
+26,withdraw reason_enrolled but not treatedp2
+27,withdraw reason_physician decisionp1
+28,withdraw reason_physician decisionp2
+29,withdraw reason_withdrawal by subjectp1
+30,withdraw reason_withdrawal by subjectp2
+31,withdraw reason_adverse eventp1
+32,withdraw reason_adverse eventp2
+33,withdraw reason_transferred to another hospitalp1
+34,withdraw reason_transferred to another hospitalp2
+35,age_<=18 yearsb1
+36,age_<=18 yearsb2
+37,age_<=18 yearsb3
+38,age_Between 18 and 65 yearsb1
+39,age_Between 18 and 65 yearsb2
+40,age_Between 18 and 65 yearsb3
+41,age_>=65 yearsb1
+42,age_>=65 yearsb2
+43,age_>=65 yearsb3
+44,"sex: female, male_Femaleb1"
+45,"sex: female, male_Femaleb2"
+46,"sex: female, male_Femaleb3"
+47,"sex: female, male_Maleb1"
+48,"sex: female, male_Maleb2"
+49,"sex: female, male_Maleb3"
+50,ethnicity (nih/omb)_Hispanic or Latinob1
+51,ethnicity (nih/omb)_Hispanic or Latinob2
+52,ethnicity (nih/omb)_Hispanic or Latinob3
+53,ethnicity (nih/omb)_Not Hispanic or Latinob1
+54,ethnicity (nih/omb)_Not Hispanic or Latinob2
+55,ethnicity (nih/omb)_Not Hispanic or Latinob3
+56,ethnicity (nih/omb)_Unknown or Not Reportedb1
+57,ethnicity (nih/omb)_Unknown or Not Reportedb2
+58,ethnicity (nih/omb)_Unknown or Not Reportedb3
+59,race (nih/omb)_American Indian or Alaska Nativeb1
+60,race (nih/omb)_American Indian or Alaska Nativeb2
+61,race (nih/omb)_American Indian or Alaska Nativeb3
+62,race (nih/omb)_Asianb1
+63,race (nih/omb)_Asianb2
+64,race (nih/omb)_Asianb3
+65,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb1
+66,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb2
+67,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb3
+68,race (nih/omb)_Black or African Americanb1
+69,race (nih/omb)_Black or African Americanb2
+70,race (nih/omb)_Black or African Americanb3
+71,race (nih/omb)_Whiteb1
+72,race (nih/omb)_Whiteb2
+73,race (nih/omb)_Whiteb3
+74,race (nih/omb)_More than one raceb1
+75,race (nih/omb)_More than one raceb2
+76,race (nih/omb)_More than one raceb3
+77,race (nih/omb)_Unknown or Not Reportedb1
+78,race (nih/omb)_Unknown or Not Reportedb2
+79,race (nih/omb)_Unknown or Not Reportedb3
+80,region_greeceb1
+81,region_greeceb2
+82,region_greeceb3
+83,region_south koreab1
+84,region_south koreab2
+85,region_south koreab3
+86,region_singaporeb1
+87,region_singaporeb2
+88,region_singaporeb3
+89,region_united statesb1
+90,region_united statesb2
+91,region_united statesb3
+92,region_japanb1
+93,region_japanb2
+94,region_japanb3
+95,region_denmarkb1
+96,region_denmarkb2
+97,region_denmarkb3
+98,region_mexicob1
+99,region_mexicob2
+100,region_mexicob3
+101,region_united kingdomb1
+102,region_united kingdomb2
+103,region_united kingdomb3
+104,region_germanyb1
+105,region_germanyb2
+106,region_germanyb3
+107,region_spainb1
+108,region_spainb2
+109,region_spainb3
+110,milestone_startedp3
+111,milestone_startedp4
+112,milestone_completedp3
+113,milestone_completedp4
+114,milestone_not completedp3
+115,milestone_not completedp4
+116,withdraw reason_lost to follow-upp1
+117,withdraw reason_lost to follow-upp2
+118,withdraw reason_lost to follow-upp3
+119,withdraw reason_lost to follow-upp4
+120,withdraw reason_deathp1
+121,withdraw reason_deathp2
+122,withdraw reason_deathp3
+123,withdraw reason_deathp4
+124,withdraw reason_withdrew consentp1
+125,withdraw reason_withdrew consentp2
+126,withdraw reason_withdrew consentp3
+127,withdraw reason_withdrew consentp4
+128,withdraw reason_non-compliance with study drugp1
+129,withdraw reason_non-compliance with study drugp2
+130,withdraw reason_non-compliance with study drugp3
+131,withdraw reason_non-compliance with study drugp4
+132,withdraw reason_protocol violationp1
+133,withdraw reason_protocol violationp2
+134,withdraw reason_protocol violationp3
+135,withdraw reason_protocol violationp4
+136,withdraw reason_randomized but not treatedp1
+137,withdraw reason_randomized but not treatedp2
+138,withdraw reason_randomized but not treatedp3
+139,withdraw reason_randomized but not treatedp4
+140,"age, customized_< 65 Yearsb1"
+141,"age, customized_< 65 Yearsb2"
+142,"age, customized_< 65 Yearsb3"
+143,"age, customized_< 65 Yearsb4"
+144,"age, customized_< 65 Yearsb5"
+145,"age, customized_>= 65 Yearsb1"
+146,"age, customized_>= 65 Yearsb2"
+147,"age, customized_>= 65 Yearsb3"
+148,"age, customized_>= 65 Yearsb4"
+149,"age, customized_>= 65 Yearsb5"
+150,"sex: female, male_Femaleb4"
+151,"sex: female, male_Femaleb5"
+152,"sex: female, male_Maleb4"
+153,"sex: female, male_Maleb5"
+154,"race/ethnicity, customized_American Indian or Alaska Nativeb1"
+155,"race/ethnicity, customized_American Indian or Alaska Nativeb2"
+156,"race/ethnicity, customized_American Indian or Alaska Nativeb3"
+157,"race/ethnicity, customized_American Indian or Alaska Nativeb4"
+158,"race/ethnicity, customized_American Indian or Alaska Nativeb5"
+159,"race/ethnicity, customized_Asianb1"
+160,"race/ethnicity, customized_Asianb2"
+161,"race/ethnicity, customized_Asianb3"
+162,"race/ethnicity, customized_Asianb4"
+163,"race/ethnicity, customized_Asianb5"
+164,"race/ethnicity, customized_Blackb1"
+165,"race/ethnicity, customized_Blackb2"
+166,"race/ethnicity, customized_Blackb3"
+167,"race/ethnicity, customized_Blackb4"
+168,"race/ethnicity, customized_Blackb5"
+169,"race/ethnicity, customized_Native Hawaiian or Pacific Islanderb1"
+170,"race/ethnicity, customized_Native Hawaiian or Pacific Islanderb2"
+171,"race/ethnicity, customized_Native Hawaiian or Pacific Islanderb3"
+172,"race/ethnicity, customized_Native Hawaiian or Pacific Islanderb4"
+173,"race/ethnicity, customized_Native Hawaiian or Pacific Islanderb5"
+174,"race/ethnicity, customized_Whiteb1"
+175,"race/ethnicity, customized_Whiteb2"
+176,"race/ethnicity, customized_Whiteb3"
+177,"race/ethnicity, customized_Whiteb4"
+178,"race/ethnicity, customized_Whiteb5"
+179,"race/ethnicity, customized_Not Permittedb1"
+180,"race/ethnicity, customized_Not Permittedb2"
+181,"race/ethnicity, customized_Not Permittedb3"
+182,"race/ethnicity, customized_Not Permittedb4"
+183,"race/ethnicity, customized_Not Permittedb5"
+184,"race/ethnicity, customized_Otherb1"
+185,"race/ethnicity, customized_Otherb2"
+186,"race/ethnicity, customized_Otherb3"
+187,"race/ethnicity, customized_Otherb4"
+188,"race/ethnicity, customized_Otherb5"
+189,"race/ethnicity, customized_Hispanic or Latinob1"
+190,"race/ethnicity, customized_Hispanic or Latinob2"
+191,"race/ethnicity, customized_Hispanic or Latinob3"
+192,"race/ethnicity, customized_Hispanic or Latinob4"
+193,"race/ethnicity, customized_Hispanic or Latinob5"
+194,"race/ethnicity, customized_Not Hispanic or Latinob1"
+195,"race/ethnicity, customized_Not Hispanic or Latinob2"
+196,"race/ethnicity, customized_Not Hispanic or Latinob3"
+197,"race/ethnicity, customized_Not Hispanic or Latinob4"
+198,"race/ethnicity, customized_Not Hispanic or Latinob5"
+199,"race/ethnicity, customized_Missingb1"
+200,"race/ethnicity, customized_Missingb2"
+201,"race/ethnicity, customized_Missingb3"
+202,"race/ethnicity, customized_Missingb4"
+203,"race/ethnicity, customized_Missingb5"
+204,region_united statesb4
+205,region_united statesb5
+206,region_spainb4
+207,region_spainb5
+208,region_italyb1
+209,region_italyb2
+210,region_italyb3
+211,region_italyb4
+212,region_italyb5
+213,region_united kingdomb4
+214,region_united kingdomb5
+215,region_south koreab4
+216,region_south koreab5
+217,region_germanyb4
+218,region_germanyb5
+219,region_singaporeb4
+220,region_singaporeb5
+221,region_hong kongb1
+222,region_hong kongb2
+223,region_hong kongb3
+224,region_hong kongb4
+225,region_hong kongb5
+226,region_switzerlandb1
+227,region_switzerlandb2
+228,region_switzerlandb3
+229,region_switzerlandb4
+230,region_switzerlandb5
+231,region_franceb1
+232,region_franceb2
+233,region_franceb3
+234,region_franceb4
+235,region_franceb5
+236,region_taiwanb1
+237,region_taiwanb2
+238,region_taiwanb3
+239,region_taiwanb4
+240,region_taiwanb5
+241,region_netherlandsb1
+242,region_netherlandsb2
+243,region_netherlandsb3
+244,region_netherlandsb4
+245,region_netherlandsb5
+246,region_japanb4
+247,region_japanb5
+248,region_swedenb1
+249,region_swedenb2
+250,region_swedenb3
+251,region_swedenb4
+252,region_swedenb5
+253,withdraw reason_adverse eventp3
+254,withdraw reason_adverse eventp4
+255,withdraw reason_investigator's discretionp1
+256,withdraw reason_investigator's discretionp2
+257,withdraw reason_investigator's discretionp3
+258,withdraw reason_investigator's discretionp4
+259,"age, customized_< 65b1"
+260,"age, customized_< 65b2"
+261,"age, customized_< 65b3"
+262,"age, customized_< 65b4"
+263,"age, customized_< 65b5"
+264,"age, customized_≥ 65b1"
+265,"age, customized_≥ 65b2"
+266,"age, customized_≥ 65b3"
+267,"age, customized_≥ 65b4"
+268,"age, customized_≥ 65b5"
+269,clinical status (7-point ordinal scale)_Score: 1b1
+270,clinical status (7-point ordinal scale)_Score: 1b2
+271,clinical status (7-point ordinal scale)_Score: 1b3
+272,clinical status (7-point ordinal scale)_Score: 1b4
+273,clinical status (7-point ordinal scale)_Score: 1b5
+274,clinical status (7-point ordinal scale)_Score: 2b1
+275,clinical status (7-point ordinal scale)_Score: 2b2
+276,clinical status (7-point ordinal scale)_Score: 2b3
+277,clinical status (7-point ordinal scale)_Score: 2b4
+278,clinical status (7-point ordinal scale)_Score: 2b5
+279,clinical status (7-point ordinal scale)_Score: 3b1
+280,clinical status (7-point ordinal scale)_Score: 3b2
+281,clinical status (7-point ordinal scale)_Score: 3b3
+282,clinical status (7-point ordinal scale)_Score: 3b4
+283,clinical status (7-point ordinal scale)_Score: 3b5
+284,clinical status (7-point ordinal scale)_Score: 4b1
+285,clinical status (7-point ordinal scale)_Score: 4b2
+286,clinical status (7-point ordinal scale)_Score: 4b3
+287,clinical status (7-point ordinal scale)_Score: 4b4
+288,clinical status (7-point ordinal scale)_Score: 4b5
+289,clinical status (7-point ordinal scale)_Score: 5b1
+290,clinical status (7-point ordinal scale)_Score: 5b2
+291,clinical status (7-point ordinal scale)_Score: 5b3
+292,clinical status (7-point ordinal scale)_Score: 5b4
+293,clinical status (7-point ordinal scale)_Score: 5b5
+294,clinical status (7-point ordinal scale)_Score: 6b1
+295,clinical status (7-point ordinal scale)_Score: 6b2
+296,clinical status (7-point ordinal scale)_Score: 6b3
+297,clinical status (7-point ordinal scale)_Score: 6b4
+298,clinical status (7-point ordinal scale)_Score: 6b5
+299,clinical status (7-point ordinal scale)_Score: 7b1
+300,clinical status (7-point ordinal scale)_Score: 7b2
+301,clinical status (7-point ordinal scale)_Score: 7b3
+302,clinical status (7-point ordinal scale)_Score: 7b4
+303,clinical status (7-point ordinal scale)_Score: 7b5
+304,study_pop
+305,sampling_method
+306,observational_model
+307,time_perspective
+308,intervention_model_description
+309,masking_description
+310,milestone_startedp5
+311,milestone_startedp6
+312,milestone_completedp5
+313,milestone_completedp6
+314,milestone_not completedp5
+315,milestone_not completedp6
+316,withdraw reason_withdrawal by subjectp3
+317,withdraw reason_withdrawal by subjectp4
+318,withdraw reason_withdrawal by subjectp5
+319,withdraw reason_withdrawal by subjectp6
+320,withdraw reason_early termination of studyp1
+321,withdraw reason_early termination of studyp2
+322,withdraw reason_early termination of studyp3
+323,withdraw reason_early termination of studyp4
+324,withdraw reason_early termination of studyp5
+325,withdraw reason_early termination of studyp6
+326,withdraw reason_positive sars-cov2 pcr at baselinep1
+327,withdraw reason_positive sars-cov2 pcr at baselinep2
+328,withdraw reason_positive sars-cov2 pcr at baselinep3
+329,withdraw reason_positive sars-cov2 pcr at baselinep4
+330,withdraw reason_positive sars-cov2 pcr at baselinep5
+331,withdraw reason_positive sars-cov2 pcr at baselinep6
+332,"sex: female, male_Femaleb6"
+333,"sex: female, male_Femaleb7"
+334,"sex: female, male_Maleb6"
+335,"sex: female, male_Maleb7"
+336,race (nih/omb)_American Indian or Alaska Nativeb4
+337,race (nih/omb)_American Indian or Alaska Nativeb5
+338,race (nih/omb)_American Indian or Alaska Nativeb6
+339,race (nih/omb)_American Indian or Alaska Nativeb7
+340,race (nih/omb)_Asianb4
+341,race (nih/omb)_Asianb5
+342,race (nih/omb)_Asianb6
+343,race (nih/omb)_Asianb7
+344,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb4
+345,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb5
+346,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb6
+347,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb7
+348,race (nih/omb)_Black or African Americanb4
+349,race (nih/omb)_Black or African Americanb5
+350,race (nih/omb)_Black or African Americanb6
+351,race (nih/omb)_Black or African Americanb7
+352,race (nih/omb)_Whiteb4
+353,race (nih/omb)_Whiteb5
+354,race (nih/omb)_Whiteb6
+355,race (nih/omb)_Whiteb7
+356,race (nih/omb)_More than one raceb4
+357,race (nih/omb)_More than one raceb5
+358,race (nih/omb)_More than one raceb6
+359,race (nih/omb)_More than one raceb7
+360,race (nih/omb)_Unknown or Not Reportedb4
+361,race (nih/omb)_Unknown or Not Reportedb5
+362,race (nih/omb)_Unknown or Not Reportedb6
+363,race (nih/omb)_Unknown or Not Reportedb7
+364,"covid outcomes scale category at randomization_2: Hospitalized, receiving ECMO or invasive mechanical ventilationb1"
+365,"covid outcomes scale category at randomization_2: Hospitalized, receiving ECMO or invasive mechanical ventilationb2"
+366,"covid outcomes scale category at randomization_2: Hospitalized, receiving ECMO or invasive mechanical ventilationb3"
+367,"covid outcomes scale category at randomization_3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygenb1"
+368,"covid outcomes scale category at randomization_3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygenb2"
+369,"covid outcomes scale category at randomization_3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygenb3"
+370,"covid outcomes scale category at randomization_4: Hospitalized, receiving supplemental oxygen without positive pressure or high flowb1"
+371,"covid outcomes scale category at randomization_4: Hospitalized, receiving supplemental oxygen without positive pressure or high flowb2"
+372,"covid outcomes scale category at randomization_4: Hospitalized, receiving supplemental oxygen without positive pressure or high flowb3"
+373,"covid outcomes scale category at randomization_5: Hospitalized, not receiving supplemental oxygenb1"
+374,"covid outcomes scale category at randomization_5: Hospitalized, not receiving supplemental oxygenb2"
+375,"covid outcomes scale category at randomization_5: Hospitalized, not receiving supplemental oxygenb3"
+376,region_iraqb1
+377,withdraw reason_received inadequate amount of antibodiesp1
+378,withdraw reason_did not initiate study treatmentp1
+379,withdraw reason_did not initiate study treatmentp2
+380,withdraw reason_physician decisionp3
+381,age_<=18 yearsb4
+382,age_Between 18 and 65 yearsb4
+383,age_>=65 yearsb4
+384,gender_based
+385,gender_description
+386,age_<=18 yearsb5
+387,age_Between 18 and 65 yearsb5
+388,age_>=65 yearsb5
+389,region_malaysiab1
+390,region_malaysiab2
+391,region_malaysiab3
+392,region_malaysiab4
+393,region_malaysiab5
+394,region_argentinab1
+395,region_argentinab2
+396,region_argentinab3
+397,ethnicity (nih/omb)_Hispanic or Latinob4
+398,ethnicity (nih/omb)_Not Hispanic or Latinob4
+399,ethnicity (nih/omb)_Unknown or Not Reportedb4
+400,region_argentinab4
+401,withdraw reason_study stopped by dsmbp1
+402,withdraw reason_study stopped by dsmbp2
+403,region_brazilb1
+404,region_brazilb2
+405,region_brazilb3
+406,region_russiab1
+407,region_russiab2
+408,region_russiab3
+409,region_russiab4
+410,withdraw reason_developed fever > 3 daysp1
+411,withdraw reason_developed fever > 3 daysp2
+412,region_pakistanb1
+413,region_pakistanb2
+414,region_pakistanb3
+415,region_belarusb1
+416,baseline severity according to the national early warning score (news score)_Very Severe (NEWS ≥ 9)b1
+417,baseline severity according to the national early warning score (news score)_Severe or Moderate (NEWS = 5…8)b1
+418,baseline severity according to the national early warning score (news score)_Mild (NEWS ≤ 4)b1
+419,respiratory support type_Invasive lung ventilationb1
+420,respiratory support type_Non-invasive lung ventilationb1
+421,respiratory support type_Oxygen therapyb1
+422,respiratory support type_Noneb1
+423,mechanical ventilation_Presentb1
+424,mechanical ventilation_Absentb1
+425,withdraw reason_the need for prohibited therapyp1
+426,withdraw reason_the need for prohibited therapyp2
+427,withdraw reason_mutation disrupting ivermectin metabolism was found in 6 patientsp1
+428,withdraw reason_mutation disrupting ivermectin metabolism was found in 6 patientsp2
+429,region_turkeyb1
+430,region_turkeyb2
+431,region_turkeyb3
+432,withdraw reason_with missing datap1

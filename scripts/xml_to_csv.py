@@ -93,7 +93,7 @@ for idx,filename in enumerate(xmlfiles):
         #print(milestone)
         participants = m.find("participants_list")
         for p in participants:
-            newcol = (milestone + p.attrib["group_id"]).lower()
+            newcol = ("milestone_" + milestone + p.attrib["group_id"]).lower()
             count = p.attrib["count"]
             mydf = create_col(mydf, newcol)
             mydf[newcol] = count
@@ -103,7 +103,7 @@ for idx,filename in enumerate(xmlfiles):
             participants = r.find("participants_list")
             for p in participants:
                 #print(p.attrib["group_id"] + ": " + p.attrib["count"])
-                newcol = (reason + p.attrib["group_id"]).lower()
+                newcol = ("withdraw reason_" + reason + p.attrib["group_id"]).lower()
                 count = p.attrib["count"]
                 mydf = create_col(mydf, newcol)
                 mydf[newcol] = count
@@ -121,7 +121,7 @@ for idx,filename in enumerate(xmlfiles):
                 print(country.find("title").text)
                 for count in country.find("category_list/category/measurement_list"):
                     print(count.attrib["group_id"] + ": " + count.attrib["value"])
-                    newcol = (country_str + count.attrib["group_id"]).lower()
+                    newcol = ("region_" + country_str + count.attrib["group_id"]).lower()
                     count = count.attrib["value"]
                     mydf = create_col(mydf, newcol)
                     mydf[newcol] = count
@@ -134,7 +134,7 @@ for idx,filename in enumerate(xmlfiles):
                             print(submeasure.find("title").text)
                             for count in submeasure.find("measurement_list"):
                                 print(count.attrib["group_id"] + ": " + count.attrib["value"])
-                                newcol = submeasure.find("title").text + count.attrib["group_id"].lower()
+                                newcol =  measure.find("title").text.lower() + "_" + submeasure.find("title").text + count.attrib["group_id"].lower()
                                 count = count.attrib["value"]
                                 mydf = create_col(mydf, newcol)
                                 mydf[newcol] = count
@@ -147,3 +147,6 @@ final_df = pd.concat(dfs)
 print(final_df.columns)
 
 final_df.to_csv(os.path.join(out_path, "processed_trials.csv"))
+
+coldf = pd.DataFrame(final_df.columns, columns=['columns'])
+coldf.to_csv(os.path.join(out_path, "columns.csv"))
