@@ -30,88 +30,88 @@
 28,withdraw reason_adverse eventp2
 29,withdraw reason_transferred to another hospitalp1
 30,withdraw reason_transferred to another hospitalp2
-31,age_<=18 yearsb1
-32,age_<=18 yearsb2
-33,age_<=18 yearsb3
-34,age_Between 18 and 65 yearsb1
-35,age_Between 18 and 65 yearsb2
-36,age_Between 18 and 65 yearsb3
-37,age_>=65 yearsb1
-38,age_>=65 yearsb2
-39,age_>=65 yearsb3
-40,"sex: female, male_Femaleb1"
-41,"sex: female, male_Femaleb2"
-42,"sex: female, male_Femaleb3"
-43,"sex: female, male_Maleb1"
-44,"sex: female, male_Maleb2"
-45,"sex: female, male_Maleb3"
-46,ethnicity (nih/omb)_Hispanic or Latinob1
-47,ethnicity (nih/omb)_Hispanic or Latinob2
-48,ethnicity (nih/omb)_Hispanic or Latinob3
-49,ethnicity (nih/omb)_Not Hispanic or Latinob1
-50,ethnicity (nih/omb)_Not Hispanic or Latinob2
-51,ethnicity (nih/omb)_Not Hispanic or Latinob3
-52,ethnicity (nih/omb)_Unknown or Not Reportedb1
-53,ethnicity (nih/omb)_Unknown or Not Reportedb2
-54,ethnicity (nih/omb)_Unknown or Not Reportedb3
-55,race (nih/omb)_American Indian or Alaska Nativeb1
-56,race (nih/omb)_American Indian or Alaska Nativeb2
-57,race (nih/omb)_American Indian or Alaska Nativeb3
-58,race (nih/omb)_Asianb1
-59,race (nih/omb)_Asianb2
-60,race (nih/omb)_Asianb3
-61,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb1
-62,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb2
-63,race (nih/omb)_Native Hawaiian or Other Pacific Islanderb3
-64,race (nih/omb)_Black or African Americanb1
-65,race (nih/omb)_Black or African Americanb2
-66,race (nih/omb)_Black or African Americanb3
-67,race (nih/omb)_Whiteb1
-68,race (nih/omb)_Whiteb2
-69,race (nih/omb)_Whiteb3
-70,race (nih/omb)_More than one raceb1
-71,race (nih/omb)_More than one raceb2
-72,race (nih/omb)_More than one raceb3
-73,race (nih/omb)_Unknown or Not Reportedb1
-74,race (nih/omb)_Unknown or Not Reportedb2
-75,race (nih/omb)_Unknown or Not Reportedb3
-76,region_greeceb1
-77,region_greeceb2
-78,region_greeceb3
-79,region_south koreab1
-80,region_south koreab2
-81,region_south koreab3
-82,region_singaporeb1
-83,region_singaporeb2
-84,region_singaporeb3
-85,region_united statesb1
-86,region_united statesb2
-87,region_united statesb3
-88,region_japanb1
-89,region_japanb2
-90,region_japanb3
-91,region_denmarkb1
-92,region_denmarkb2
-93,region_denmarkb3
-94,region_mexicob1
-95,region_mexicob2
-96,region_mexicob3
-97,region_united kingdomb1
-98,region_united kingdomb2
-99,region_united kingdomb3
-100,region_germanyb1
-101,region_germanyb2
-102,region_germanyb3
-103,region_spainb1
-104,region_spainb2
-105,region_spainb3
+31,age_<=18 yearsp1
+32,age_<=18 yearsp2
+33,age_<=18 yearstotal
+34,age_Between 18 and 65 yearsp1
+35,age_Between 18 and 65 yearsp2
+36,age_Between 18 and 65 yearstotal
+37,age_>=65 yearsp1
+38,age_>=65 yearsp2
+39,age_>=65 yearstotal
+40,"sex: female, male_Femalep1"
+41,"sex: female, male_Femalep2"
+42,"sex: female, male_Femaletotal"
+43,"sex: female, male_Malep1"
+44,"sex: female, male_Malep2"
+45,"sex: female, male_Maletotal"
+46,ethnicity (nih/omb)_Hispanic or Latinop1
+47,ethnicity (nih/omb)_Hispanic or Latinop2
+48,ethnicity (nih/omb)_Hispanic or Latinototal
+49,ethnicity (nih/omb)_Not Hispanic or Latinop1
+50,ethnicity (nih/omb)_Not Hispanic or Latinop2
+51,ethnicity (nih/omb)_Not Hispanic or Latinototal
+52,ethnicity (nih/omb)_Unknown or Not Reportedp1
+53,ethnicity (nih/omb)_Unknown or Not Reportedp2
+54,ethnicity (nih/omb)_Unknown or Not Reportedtotal
+55,race (nih/omb)_American Indian or Alaska Nativep1
+56,race (nih/omb)_American Indian or Alaska Nativep2
+57,race (nih/omb)_American Indian or Alaska Nativetotal
+58,race (nih/omb)_Asianp1
+59,race (nih/omb)_Asianp2
+60,race (nih/omb)_Asiantotal
+61,race (nih/omb)_Native Hawaiian or Other Pacific Islanderp1
+62,race (nih/omb)_Native Hawaiian or Other Pacific Islanderp2
+63,race (nih/omb)_Native Hawaiian or Other Pacific Islandertotal
+64,race (nih/omb)_Black or African Americanp1
+65,race (nih/omb)_Black or African Americanp2
+66,race (nih/omb)_Black or African Americantotal
+67,race (nih/omb)_Whitep1
+68,race (nih/omb)_Whitep2
+69,race (nih/omb)_Whitetotal
+70,race (nih/omb)_More than one racep1
+71,race (nih/omb)_More than one racep2
+72,race (nih/omb)_More than one racetotal
+73,race (nih/omb)_Unknown or Not Reportedp1
+74,race (nih/omb)_Unknown or Not Reportedp2
+75,race (nih/omb)_Unknown or Not Reportedtotal
+76,region_greecep1
+77,region_greecep2
+78,region_greecetotal
+79,region_south koreap1
+80,region_south koreap2
+81,region_south koreatotal
+82,region_singaporep1
+83,region_singaporep2
+84,region_singaporetotal
+85,region_united statesp1
+86,region_united statesp2
+87,region_united statestotal
+88,region_japanp1
+89,region_japanp2
+90,region_japantotal
+91,region_denmarkp1
+92,region_denmarkp2
+93,region_denmarktotal
+94,region_mexicop1
+95,region_mexicop2
+96,region_mexicototal
+97,region_united kingdomp1
+98,region_united kingdomp2
+99,region_united kingdomtotal
+100,region_germanyp1
+101,region_germanyp2
+102,region_germanytotal
+103,region_spainp1
+104,region_spainp2
+105,region_spaintotal
 106,study_pop
 107,sampling_method
 108,observational_model
 109,time_perspective
-110,region_italyb1
-111,region_italyb2
-112,region_italyb3
+110,region_italyp1
+111,region_italyp2
+112,region_italytotal
 113,withdraw reason_received inadequate amount of antibodiesp1
 114,withdraw reason_did not initiate study treatmentp1
 115,withdraw reason_did not initiate study treatmentp2
@@ -119,43 +119,43 @@
 117,gender_description
 118,intervention_model_description
 119,masking_description
-120,region_argentinab1
-121,region_argentinab2
-122,region_argentinab3
+120,region_argentinap1
+121,region_argentinap2
+122,region_argentinatotal
 123,withdraw reason_study stopped by dsmbp1
 124,withdraw reason_study stopped by dsmbp2
-125,region_brazilb1
-126,region_brazilb2
-127,region_brazilb3
+125,region_brazilp1
+126,region_brazilp2
+127,region_braziltotal
 128,withdraw reason_developed fever > 3 daysp1
 129,withdraw reason_developed fever > 3 daysp2
 130,withdraw reason_protocol violationp1
 131,withdraw reason_protocol violationp2
 132,withdraw reason_lost to follow-upp1
 133,withdraw reason_lost to follow-upp2
-134,region_pakistanb1
-135,region_pakistanb2
-136,region_pakistanb3
+134,region_pakistanp1
+135,region_pakistanp2
+136,region_pakistantotal
 137,withdraw reason_deathp1
 138,withdraw reason_deathp2
-139,region_belarusb1
-140,region_russiab1
-141,baseline severity according to the national early warning score (news score)_Very Severe (NEWS ≥ 9)b1
-142,baseline severity according to the national early warning score (news score)_Severe or Moderate (NEWS = 5…8)b1
-143,baseline severity according to the national early warning score (news score)_Mild (NEWS ≤ 4)b1
-144,respiratory support type_Invasive lung ventilationb1
-145,respiratory support type_Non-invasive lung ventilationb1
-146,respiratory support type_Oxygen therapyb1
-147,respiratory support type_Noneb1
-148,mechanical ventilation_Presentb1
-149,mechanical ventilation_Absentb1
+139,region_belarusp1
+140,region_russiap1
+141,baseline severity according to the national early warning score (news score)_Very Severe (NEWS ≥ 9)p1
+142,baseline severity according to the national early warning score (news score)_Severe or Moderate (NEWS = 5…8)p1
+143,baseline severity according to the national early warning score (news score)_Mild (NEWS ≤ 4)p1
+144,respiratory support type_Invasive lung ventilationp1
+145,respiratory support type_Non-invasive lung ventilationp1
+146,respiratory support type_Oxygen therapyp1
+147,respiratory support type_Nonep1
+148,mechanical ventilation_Presentp1
+149,mechanical ventilation_Absentp1
 150,withdraw reason_the need for prohibited therapyp1
 151,withdraw reason_the need for prohibited therapyp2
-152,region_russiab2
-153,region_russiab3
+152,region_russiap2
+153,region_russiatotal
 154,withdraw reason_mutation disrupting ivermectin metabolism was found in 6 patientsp1
 155,withdraw reason_mutation disrupting ivermectin metabolism was found in 6 patientsp2
-156,region_turkeyb1
-157,region_turkeyb2
-158,region_turkeyb3
+156,region_turkeyp1
+157,region_turkeyp2
+158,region_turkeytotal
 159,withdraw reason_with missing datap1

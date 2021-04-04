@@ -151,6 +151,12 @@ for idx,filename in enumerate(xmlfiles):
 
 
 final_df = pd.concat(dfs)
+
+
+final_df.columns = final_df.columns.str.replace("b1", "p1")
+final_df.columns = final_df.columns.str.replace("b2", "p2")
+final_df.columns = final_df.columns.str.replace("b3", "total")
+
 print(final_df.columns)
 
 final_df.to_csv(os.path.join(out_path, "processed_trials.csv"))
