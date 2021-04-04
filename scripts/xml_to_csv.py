@@ -1,16 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  3 11:25:42 2021
-
-@author: hpfla
-"""
 
 import os
 from xml.etree import ElementTree
 import pandas as pd
 import numpy as np
 
-import trialDataObject
+import trialDataObject as tdo
 
 
 
@@ -24,8 +18,8 @@ xml_folder = os.path.join(in_path, "search_result")
 xmlfiles = os.listdir(xml_folder)
   
 
-trial_info_td = trialDataObject()
-group_info_td = trialDataObject()
+trial_info_td = tdo.trialDataObject()
+group_info_td = tdo.trialDataObject()
 
 
 dict_list = [np.nan for file in xmlfiles]
@@ -39,6 +33,18 @@ for i,filename in enumerate(xmlfiles):
     
     title = dom.find("brief_title").text
     study_type = dom.find("study_type").text
+
+    optional_cols_dict = {
+        "start_date" : dom.find("start_date").text
+        ,"completion_date" : dom.find("completion_date").text
+        ,"primary_completion_date" : dom.find("primary_completion_date").text
+        ,"study_type" : dom.find("study_type").text
+        ,"sponsor" : dom.find("sponsors/lead_sponsor/agency").text
+        ,"is_fda_regulated_drug" : dom.find("oversight_info/is_fda_regulated_drug").text
+
+        }
+        
+    
     try: 
         detailed_description = dom.find("detailed_description/textblock").text.strip()
     except: 
@@ -52,7 +58,7 @@ for i,filename in enumerate(xmlfiles):
             category = "eligibility"
             subcategory = e.tag.lower()
             category_value = e.text
-            trial_info_td.addRow(i, category, subcategory, category_value, title, study_type)
+            trial_info_td.addRow(i, category, subcategory, category_value, title, study_type, optional_cols_dict=optional_cols_dict)
             
 
 
@@ -60,7 +66,7 @@ for i,filename in enumerate(xmlfiles):
             category = "study_design_info"
             subcategory = e.tag.lower()
             category_value = e.text
-            trial_info_td.addRow(i, category, subcategory, category_value, title, study_type)
+            trial_info_td.addRow(i, category, subcategory, category_value, title, study_type, optional_cols_dict=optional_cols_dict)
 
     pflow = dom.find("clinical_results/participant_flow")
         
@@ -134,14 +140,6 @@ for i,filename in enumerate(xmlfiles):
                 print(measure.find("title").text)
 
 
-
-
-
-
-
-
-
-
 group_df = group_info_td.getTrialData()
 
 
@@ -162,10 +160,8 @@ group_df.to_csv(os.path.join(out_path, "processed_trials_long_arm_counts.csv"))
 meta_df = meta_df.rename(columns=rename_dict)
 
 merged_df = pd.merge(meta_df,group_df,on='study_id',how='outer')
-merged_df = merged_df[["study_id", "title", "type", "enrollment_category",	
+merged_df = merged_df[["study_id", "title", "start_date",	"completion_date",	"primary_completion_date",	"study_type",	"sponsor",	"is_fda_regulated_drug"
+,"type", "enrollment_category",	
                        "enrollment_subcategory", "enrollment_value", "category",
                        "category", "group",	"group_description", "value"]]
 merged_df.to_csv(os.path.join(out_path, "processed_trials_long.csv"))   
-
-
-

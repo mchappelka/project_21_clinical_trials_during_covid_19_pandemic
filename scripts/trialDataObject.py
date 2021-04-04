@@ -13,6 +13,7 @@ class trialDataObject:
                 ,title=[]
                 ,design=[]
                 ,group=[]
+                ,optional_cols_dict=[]
                 
 
                 ):
@@ -38,6 +39,9 @@ class trialDataObject:
          df["category"] = category
          df["subcategory"] = subcategory
          df["value"] = value
+         if len(optional_cols_dict) > 0:
+             for key, value in optional_cols_dict.items():
+                 df[key] = value
          self.dfs.append(df.copy())
                 
          
