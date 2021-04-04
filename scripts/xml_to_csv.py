@@ -36,7 +36,17 @@ def create_col(df, col):
         df[col] = "np.nan"
     #print("created {}".format(col))
     return df
-        
+     
+for idx,filename in enumerate(xmlfiles): 
+    print(str(idx) + ". " + filename)
+    dom = ElementTree.parse(os.path.join(xml_folder, filename))
+    pflow = dom.find("clinical_results/participant_flow")
+    for g in pflow.find("group_list"):
+        dom = ElementTree.parse(os.path.join(xml_folder, filename))
+        newcol = g.attrib["group_id"]
+        print(newcol)
+        if newcol in ["P3", "P4", "P5", "P6"]:
+            xmlfiles.pop(idx)
 
 for idx,filename in enumerate(xmlfiles): 
     print("")
@@ -54,13 +64,9 @@ for idx,filename in enumerate(xmlfiles):
                                  "primary_purpose"	,
                                  "masking"	,
                                  "P1"	,
-                                 "P2",
-                                 "P3"	,
-                                 "P4",
-                                 "P5"	,
-                                 "P6",
-],index=range(1))
+                                 "P2"], index=range(1))
     #print(dom.find("brief_title").text)
+    
     mydf["Title"] = dom.find("brief_title").text
     mydf["Study type"] = dom.find("study_type").text
     try: 
@@ -80,7 +86,7 @@ for idx,filename in enumerate(xmlfiles):
             count = i.text
             mydf = create_col(mydf, newcol)
             mydf[newcol] = count
-            
+
     pflow = dom.find("clinical_results/participant_flow")
     
     for g in pflow.find("group_list"):
@@ -88,6 +94,7 @@ for idx,filename in enumerate(xmlfiles):
         count = g.find("title").text
         mydf = create_col(mydf, newcol)
         mydf[newcol] = count
+    
     for m in pflow.find("period_list/period/milestone_list"):
         milestone = m.find("title").text
         #print(milestone)
