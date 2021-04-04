@@ -1,0 +1,1265 @@
+,study_id,category,subcategory,value,group,group_description
+0,0,milestone,STARTED,521,P1,Placebo
+0,0,milestone,STARTED,541,P2,Remdesivir
+0,0,milestone,Received Treatment,517,P1,Placebo
+0,0,milestone,Received Treatment,531,P2,Remdesivir
+0,0,milestone,COMPLETED,508,P1,Placebo
+0,0,milestone,COMPLETED,517,P2,Remdesivir
+0,0,milestone,NOT COMPLETED,13,P1,Placebo
+0,0,milestone,NOT COMPLETED,24,P2,Remdesivir
+0,0,withdrawal reason,Enrolled but not treated,4,P1,Placebo
+0,0,withdrawal reason,Enrolled but not treated,10,P2,Remdesivir
+0,0,withdrawal reason,Physician Decision,1,P1,Placebo
+0,0,withdrawal reason,Physician Decision,0,P2,Remdesivir
+0,0,withdrawal reason,Withdrawal by Subject,7,P1,Placebo
+0,0,withdrawal reason,Withdrawal by Subject,9,P2,Remdesivir
+0,0,withdrawal reason,Adverse Event,0,P1,Placebo
+0,0,withdrawal reason,Adverse Event,4,P2,Remdesivir
+0,0,withdrawal reason,Transferred to another hospital,1,P1,Placebo
+0,0,withdrawal reason,Transferred to another hospital,1,P2,Remdesivir
+0,0,age,<=18 years,0,B1,Placebo
+0,0,age,<=18 years,0,B2,Remdesivir
+0,0,age,<=18 years,0,B3,Total
+0,0,age,Between 18 and 65 years,324,B1,Placebo
+0,0,age,Between 18 and 65 years,354,B2,Remdesivir
+0,0,age,Between 18 and 65 years,678,B3,Total
+0,0,age,>=65 years,197,B1,Placebo
+0,0,age,>=65 years,187,B2,Remdesivir
+0,0,age,>=65 years,384,B3,Total
+0,0,"sex: female, male",Female,189,B1,Placebo
+0,0,"sex: female, male",Female,189,B2,Remdesivir
+0,0,"sex: female, male",Female,378,B3,Total
+0,0,"sex: female, male",Male,332,B1,Placebo
+0,0,"sex: female, male",Male,352,B2,Remdesivir
+0,0,"sex: female, male",Male,684,B3,Total
+0,0,ethnicity (nih/omb),Hispanic or Latino,116,B1,Placebo
+0,0,ethnicity (nih/omb),Hispanic or Latino,134,B2,Remdesivir
+0,0,ethnicity (nih/omb),Hispanic or Latino,250,B3,Total
+0,0,ethnicity (nih/omb),Not Hispanic or Latino,373,B1,Placebo
+0,0,ethnicity (nih/omb),Not Hispanic or Latino,382,B2,Remdesivir
+0,0,ethnicity (nih/omb),Not Hispanic or Latino,755,B3,Total
+0,0,ethnicity (nih/omb),Unknown or Not Reported,32,B1,Placebo
+0,0,ethnicity (nih/omb),Unknown or Not Reported,25,B2,Remdesivir
+0,0,ethnicity (nih/omb),Unknown or Not Reported,57,B3,Total
+0,0,race (nih/omb),American Indian or Alaska Native,3,B1,Placebo
+0,0,race (nih/omb),American Indian or Alaska Native,4,B2,Remdesivir
+0,0,race (nih/omb),American Indian or Alaska Native,7,B3,Total
+0,0,race (nih/omb),Asian,56,B1,Placebo
+0,0,race (nih/omb),Asian,79,B2,Remdesivir
+0,0,race (nih/omb),Asian,135,B3,Total
+0,0,race (nih/omb),Native Hawaiian or Other Pacific Islander,2,B1,Placebo
+0,0,race (nih/omb),Native Hawaiian or Other Pacific Islander,2,B2,Remdesivir
+0,0,race (nih/omb),Native Hawaiian or Other Pacific Islander,4,B3,Total
+0,0,race (nih/omb),Black or African American,117,B1,Placebo
+0,0,race (nih/omb),Black or African American,109,B2,Remdesivir
+0,0,race (nih/omb),Black or African American,226,B3,Total
+0,0,race (nih/omb),White,287,B1,Placebo
+0,0,race (nih/omb),White,279,B2,Remdesivir
+0,0,race (nih/omb),White,566,B3,Total
+0,0,race (nih/omb),More than one race,1,B1,Placebo
+0,0,race (nih/omb),More than one race,2,B2,Remdesivir
+0,0,race (nih/omb),More than one race,3,B3,Total
+0,0,race (nih/omb),Unknown or Not Reported,55,B1,Placebo
+0,0,race (nih/omb),Unknown or Not Reported,66,B2,Remdesivir
+0,0,race (nih/omb),Unknown or Not Reported,121,B3,Total
+0,0,enrollment region,Greece,19,B1,Placebo
+0,0,enrollment region,Greece,14,B2,Remdesivir
+0,0,enrollment region,Greece,33,B3,Total
+0,0,enrollment region,South Korea,12,B1,Placebo
+0,0,enrollment region,South Korea,9,B2,Remdesivir
+0,0,enrollment region,South Korea,21,B3,Total
+0,0,enrollment region,Singapore,7,B1,Placebo
+0,0,enrollment region,Singapore,9,B2,Remdesivir
+0,0,enrollment region,Singapore,16,B3,Total
+0,0,enrollment region,United States,410,B1,Placebo
+0,0,enrollment region,United States,427,B2,Remdesivir
+0,0,enrollment region,United States,837,B3,Total
+0,0,enrollment region,Japan,7,B1,Placebo
+0,0,enrollment region,Japan,8,B2,Remdesivir
+0,0,enrollment region,Japan,15,B3,Total
+0,0,enrollment region,Denmark,21,B1,Placebo
+0,0,enrollment region,Denmark,22,B2,Remdesivir
+0,0,enrollment region,Denmark,43,B3,Total
+0,0,enrollment region,Mexico,6,B1,Placebo
+0,0,enrollment region,Mexico,4,B2,Remdesivir
+0,0,enrollment region,Mexico,10,B3,Total
+0,0,enrollment region,United Kingdom,21,B1,Placebo
+0,0,enrollment region,United Kingdom,25,B2,Remdesivir
+0,0,enrollment region,United Kingdom,46,B3,Total
+0,0,enrollment region,Germany,6,B1,Placebo
+0,0,enrollment region,Germany,7,B2,Remdesivir
+0,0,enrollment region,Germany,13,B3,Total
+0,0,enrollment region,Spain,12,B1,Placebo
+0,0,enrollment region,Spain,16,B2,Remdesivir
+0,0,enrollment region,Spain,28,B3,Total
+0,0,Disease severity,Mild-to-moderate disease severity,50,B1,Placebo
+0,0,Disease severity,Mild-to-moderate disease severity,55,B2,Remdesivir
+0,0,Disease severity,Mild-to-moderate disease severity,105,B3,Total
+0,0,Disease severity,Severe disease severity,471,B1,Placebo
+0,0,Disease severity,Severe disease severity,486,B2,Remdesivir
+0,0,Disease severity,Severe disease severity,957,B3,Total
+0,1,milestone,STARTED,199,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,milestone,STARTED,197,P2,Part A: Remdesivir for 10 Days
+0,1,milestone,STARTED,200,P3,Part A: SOC Therapy
+0,1,milestone,STARTED,517,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,milestone,COMPLETED,179,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,milestone,COMPLETED,176,P2,Part A: Remdesivir for 10 Days
+0,1,milestone,COMPLETED,178,P3,Part A: SOC Therapy
+0,1,milestone,COMPLETED,437,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,milestone,NOT COMPLETED,20,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,milestone,NOT COMPLETED,21,P2,Part A: Remdesivir for 10 Days
+0,1,milestone,NOT COMPLETED,22,P3,Part A: SOC Therapy
+0,1,milestone,NOT COMPLETED,80,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,withdrawal reason,Lost to Follow-up,8,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,withdrawal reason,Lost to Follow-up,12,P2,Part A: Remdesivir for 10 Days
+0,1,withdrawal reason,Lost to Follow-up,12,P3,Part A: SOC Therapy
+0,1,withdrawal reason,Lost to Follow-up,48,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,withdrawal reason,Death,2,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,withdrawal reason,Death,2,P2,Part A: Remdesivir for 10 Days
+0,1,withdrawal reason,Death,4,P3,Part A: SOC Therapy
+0,1,withdrawal reason,Death,12,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,withdrawal reason,Withdrew Consent,2,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,withdrawal reason,Withdrew Consent,2,P2,Part A: Remdesivir for 10 Days
+0,1,withdrawal reason,Withdrew Consent,5,P3,Part A: SOC Therapy
+0,1,withdrawal reason,Withdrew Consent,6,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,withdrawal reason,Non-Compliance with Study Drug,0,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,withdrawal reason,Non-Compliance with Study Drug,1,P2,Part A: Remdesivir for 10 Days
+0,1,withdrawal reason,Non-Compliance with Study Drug,0,P3,Part A: SOC Therapy
+0,1,withdrawal reason,Non-Compliance with Study Drug,0,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,withdrawal reason,Protocol Violation,0,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,withdrawal reason,Protocol Violation,0,P2,Part A: Remdesivir for 10 Days
+0,1,withdrawal reason,Protocol Violation,1,P3,Part A: SOC Therapy
+0,1,withdrawal reason,Protocol Violation,0,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,withdrawal reason,Randomized but not Treated,8,P1,Part A: Remdesivir (RDV) for 5 Days
+0,1,withdrawal reason,Randomized but not Treated,4,P2,Part A: Remdesivir for 10 Days
+0,1,withdrawal reason,Randomized but not Treated,0,P3,Part A: SOC Therapy
+0,1,withdrawal reason,Randomized but not Treated,14,P4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"age, customized",< 65 Years,142,B1,Part A: Remdesivir for 5 Days
+0,1,"age, customized",< 65 Years,141,B2,Part A: Remdesivir for 10 Days
+0,1,"age, customized",< 65 Years,142,B3,Part A: SOC Therapy
+0,1,"age, customized",< 65 Years,351,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"age, customized",< 65 Years,776,B5,Total
+0,1,"age, customized",>= 65 Years,49,B1,Part A: Remdesivir for 5 Days
+0,1,"age, customized",>= 65 Years,52,B2,Part A: Remdesivir for 10 Days
+0,1,"age, customized",>= 65 Years,58,B3,Part A: SOC Therapy
+0,1,"age, customized",>= 65 Years,152,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"age, customized",>= 65 Years,311,B5,Total
+0,1,"sex: female, male",Female,77,B1,Part A: Remdesivir for 5 Days
+0,1,"sex: female, male",Female,75,B2,Part A: Remdesivir for 10 Days
+0,1,"sex: female, male",Female,75,B3,Part A: SOC Therapy
+0,1,"sex: female, male",Female,221,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"sex: female, male",Female,448,B5,Total
+0,1,"sex: female, male",Male,114,B1,Part A: Remdesivir for 5 Days
+0,1,"sex: female, male",Male,118,B2,Part A: Remdesivir for 10 Days
+0,1,"sex: female, male",Male,125,B3,Part A: SOC Therapy
+0,1,"sex: female, male",Male,282,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"sex: female, male",Male,639,B5,Total
+0,1,"race/ethnicity, customized",American Indian or Alaska Native,2,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",American Indian or Alaska Native,0,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",American Indian or Alaska Native,1,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",American Indian or Alaska Native,3,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",American Indian or Alaska Native,6,B5,Total
+0,1,"race/ethnicity, customized",Asian,34,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Asian,31,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Asian,37,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Asian,61,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Asian,163,B5,Total
+0,1,"race/ethnicity, customized",Black,35,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Black,37,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Black,27,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Black,107,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Black,206,B5,Total
+0,1,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,1,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,1,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,1,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,1,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,4,B5,Total
+0,1,"race/ethnicity, customized",White,109,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",White,107,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",White,112,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",White,260,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",White,588,B5,Total
+0,1,"race/ethnicity, customized",Not Permitted,5,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Not Permitted,5,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Not Permitted,7,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Not Permitted,21,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Not Permitted,38,B5,Total
+0,1,"race/ethnicity, customized",Other,5,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Other,12,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Other,15,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Other,50,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Other,82,B5,Total
+0,1,"race/ethnicity, customized",Hispanic or Latino,25,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Hispanic or Latino,42,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Hispanic or Latino,34,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Hispanic or Latino,156,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Hispanic or Latino,257,B5,Total
+0,1,"race/ethnicity, customized",Not Hispanic or Latino,162,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Not Hispanic or Latino,144,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Not Hispanic or Latino,152,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Not Hispanic or Latino,325,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Not Hispanic or Latino,783,B5,Total
+0,1,"race/ethnicity, customized",Not Permitted,4,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Not Permitted,7,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Not Permitted,13,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Not Permitted,22,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Not Permitted,46,B5,Total
+0,1,"race/ethnicity, customized",Missing,0,B1,Part A: Remdesivir for 5 Days
+0,1,"race/ethnicity, customized",Missing,0,B2,Part A: Remdesivir for 10 Days
+0,1,"race/ethnicity, customized",Missing,1,B3,Part A: SOC Therapy
+0,1,"race/ethnicity, customized",Missing,0,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,"race/ethnicity, customized",Missing,1,B5,Total
+0,1,enrollment region,United States,76,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,United States,99,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,United States,85,B3,Part A: SOC Therapy
+0,1,enrollment region,United States,318,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,United States,578,B5,Total
+0,1,enrollment region,Spain,37,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Spain,28,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Spain,31,B3,Part A: SOC Therapy
+0,1,enrollment region,Spain,44,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Spain,140,B5,Total
+0,1,enrollment region,Italy,30,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Italy,23,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Italy,26,B3,Part A: SOC Therapy
+0,1,enrollment region,Italy,54,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Italy,133,B5,Total
+0,1,enrollment region,United Kingdom,7,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,United Kingdom,9,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,United Kingdom,17,B3,Part A: SOC Therapy
+0,1,enrollment region,United Kingdom,27,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,United Kingdom,60,B5,Total
+0,1,enrollment region,South Korea,7,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,South Korea,4,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,South Korea,10,B3,Part A: SOC Therapy
+0,1,enrollment region,South Korea,16,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,South Korea,37,B5,Total
+0,1,enrollment region,Germany,8,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Germany,6,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Germany,8,B3,Part A: SOC Therapy
+0,1,enrollment region,Germany,13,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Germany,35,B5,Total
+0,1,enrollment region,Singapore,3,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Singapore,6,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Singapore,9,B3,Part A: SOC Therapy
+0,1,enrollment region,Singapore,14,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Singapore,32,B5,Total
+0,1,enrollment region,Hong Kong,9,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Hong Kong,11,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Hong Kong,7,B3,Part A: SOC Therapy
+0,1,enrollment region,Hong Kong,1,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Hong Kong,28,B5,Total
+0,1,enrollment region,Switzerland,4,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Switzerland,5,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Switzerland,6,B3,Part A: SOC Therapy
+0,1,enrollment region,Switzerland,3,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Switzerland,18,B5,Total
+0,1,enrollment region,France,2,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,France,1,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,France,0,B3,Part A: SOC Therapy
+0,1,enrollment region,France,5,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,France,8,B5,Total
+0,1,enrollment region,Taiwan,5,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Taiwan,1,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Taiwan,0,B3,Part A: SOC Therapy
+0,1,enrollment region,Taiwan,0,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Taiwan,6,B5,Total
+0,1,enrollment region,Netherlands,3,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Netherlands,0,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Netherlands,1,B3,Part A: SOC Therapy
+0,1,enrollment region,Netherlands,1,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Netherlands,5,B5,Total
+0,1,enrollment region,Japan,0,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Japan,0,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Japan,0,B3,Part A: SOC Therapy
+0,1,enrollment region,Japan,4,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Japan,4,B5,Total
+0,1,enrollment region,Sweden,0,B1,Part A: Remdesivir for 5 Days
+0,1,enrollment region,Sweden,0,B2,Part A: Remdesivir for 10 Days
+0,1,enrollment region,Sweden,0,B3,Part A: SOC Therapy
+0,1,enrollment region,Sweden,3,B4,"Part B: Extension Treatment, Remdesivir for 10 Days"
+0,1,enrollment region,Sweden,3,B5,Total
+0,2,milestone,STARTED,200,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,milestone,STARTED,197,P2,Part A: Remdesivir for 10 Days
+0,2,milestone,STARTED,844,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,milestone,STARTED,3597,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,milestone,COMPLETED,168,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,milestone,COMPLETED,164,P2,Part A: Remdesivir for 10 Days
+0,2,milestone,COMPLETED,621,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,milestone,COMPLETED,2952,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,milestone,NOT COMPLETED,32,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,milestone,NOT COMPLETED,33,P2,Part A: Remdesivir for 10 Days
+0,2,milestone,NOT COMPLETED,223,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,milestone,NOT COMPLETED,645,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,withdrawal reason,Death,21,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,withdrawal reason,Death,28,P2,Part A: Remdesivir for 10 Days
+0,2,withdrawal reason,Death,188,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,withdrawal reason,Death,371,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,withdrawal reason,Lost to Follow-up,8,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,withdrawal reason,Lost to Follow-up,4,P2,Part A: Remdesivir for 10 Days
+0,2,withdrawal reason,Lost to Follow-up,22,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,withdrawal reason,Lost to Follow-up,235,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,withdrawal reason,Withdrew consent,1,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,withdrawal reason,Withdrew consent,0,P2,Part A: Remdesivir for 10 Days
+0,2,withdrawal reason,Withdrew consent,11,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,withdrawal reason,Withdrew consent,32,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,withdrawal reason,Adverse Event,2,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,withdrawal reason,Adverse Event,1,P2,Part A: Remdesivir for 10 Days
+0,2,withdrawal reason,Adverse Event,2,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,withdrawal reason,Adverse Event,2,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,withdrawal reason,Investigator's Discretion,0,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,withdrawal reason,Investigator's Discretion,0,P2,Part A: Remdesivir for 10 Days
+0,2,withdrawal reason,Investigator's Discretion,0,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,withdrawal reason,Investigator's Discretion,3,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,withdrawal reason,Non-compliance With Study Drug,0,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,withdrawal reason,Non-compliance With Study Drug,0,P2,Part A: Remdesivir for 10 Days
+0,2,withdrawal reason,Non-compliance With Study Drug,0,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,withdrawal reason,Non-compliance With Study Drug,1,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,withdrawal reason,Protocol Violation,0,P1,Part A: Remdesivir (RDV) for 5 Days
+0,2,withdrawal reason,Protocol Violation,0,P2,Part A: Remdesivir for 10 Days
+0,2,withdrawal reason,Protocol Violation,0,P3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,withdrawal reason,Protocol Violation,1,P4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"age, customized",< 65,116,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"age, customized",< 65,113,B2,Part A: Remdesivir for 10 Days
+0,2,"age, customized",< 65,581,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"age, customized",< 65,2399,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"age, customized",< 65,3209,B5,Total
+0,2,"age, customized",≥ 65,84,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"age, customized",≥ 65,84,B2,Part A: Remdesivir for 10 Days
+0,2,"age, customized",≥ 65,263,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"age, customized",≥ 65,1198,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"age, customized",≥ 65,1629,B5,Total
+0,2,"sex: female, male",Female,80,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"sex: female, male",Female,64,B2,Part A: Remdesivir for 10 Days
+0,2,"sex: female, male",Female,312,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"sex: female, male",Female,1351,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"sex: female, male",Female,1807,B5,Total
+0,2,"sex: female, male",Male,120,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"sex: female, male",Male,133,B2,Part A: Remdesivir for 10 Days
+0,2,"sex: female, male",Male,532,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"sex: female, male",Male,2246,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"sex: female, male",Male,3031,B5,Total
+0,2,"race/ethnicity, customized",American Indian or Alaska Native,2,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",American Indian or Alaska Native,0,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",American Indian or Alaska Native,5,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",American Indian or Alaska Native,40,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",American Indian or Alaska Native,47,B5,Total
+0,2,"race/ethnicity, customized",Asian,20,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Asian,25,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Asian,88,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Asian,313,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Asian,446,B5,Total
+0,2,"race/ethnicity, customized",Black,21,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Black,23,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Black,149,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Black,611,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Black,804,B5,Total
+0,2,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,1,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,0,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,11,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,29,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Native Hawaiian or Pacific Islander,41,B5,Total
+0,2,"race/ethnicity, customized",White,142,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",White,134,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",White,376,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",White,1915,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",White,2567,B5,Total
+0,2,"race/ethnicity, customized",Not Permitted,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Not Permitted,5,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Not Permitted,56,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Not Permitted,179,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Not Permitted,240,B5,Total
+0,2,"race/ethnicity, customized",Other,14,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Other,10,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Other,159,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Other,510,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Other,693,B5,Total
+0,2,"race/ethnicity, customized",Hispanic or Latino,47,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Hispanic or Latino,38,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Hispanic or Latino,328,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Hispanic or Latino,1341,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Hispanic or Latino,1754,B5,Total
+0,2,"race/ethnicity, customized",Not Hispanic or Latino,152,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Not Hispanic or Latino,150,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Not Hispanic or Latino,478,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Not Hispanic or Latino,2123,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Not Hispanic or Latino,2903,B5,Total
+0,2,"race/ethnicity, customized",Not Permitted,1,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Not Permitted,9,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Not Permitted,37,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Not Permitted,129,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Not Permitted,176,B5,Total
+0,2,"race/ethnicity, customized",Missing,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,"race/ethnicity, customized",Missing,0,B2,Part A: Remdesivir for 10 Days
+0,2,"race/ethnicity, customized",Missing,1,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,"race/ethnicity, customized",Missing,4,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,"race/ethnicity, customized",Missing,5,B5,Total
+0,2,enrollment region,United States,118,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,United States,111,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,United States,722,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,United States,2927,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,United States,3878,B5,Total
+0,2,enrollment region,Spain,31,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Spain,30,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Spain,27,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Spain,134,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Spain,222,B5,Total
+0,2,enrollment region,Italy,39,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Italy,38,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Italy,16,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Italy,108,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Italy,201,B5,Total
+0,2,enrollment region,United Kingdom,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,United Kingdom,0,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,United Kingdom,33,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,United Kingdom,144,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,United Kingdom,177,B5,Total
+0,2,enrollment region,Sweden,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Sweden,0,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Sweden,5,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Sweden,83,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Sweden,88,B5,Total
+0,2,enrollment region,Singapore,1,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Singapore,8,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Singapore,7,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Singapore,44,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Singapore,60,B5,Total
+0,2,enrollment region,Switzerland,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Switzerland,0,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Switzerland,13,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Switzerland,44,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Switzerland,57,B5,Total
+0,2,enrollment region,Netherlands,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Netherlands,0,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Netherlands,2,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Netherlands,45,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Netherlands,47,B5,Total
+0,2,enrollment region,Germany,3,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Germany,1,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Germany,12,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Germany,27,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Germany,43,B5,Total
+0,2,enrollment region,France,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,France,0,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,France,2,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,France,25,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,France,27,B5,Total
+0,2,enrollment region,South Korea,6,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,South Korea,6,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,South Korea,0,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,South Korea,10,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,South Korea,22,B5,Total
+0,2,enrollment region,Hong Kong,2,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Hong Kong,2,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Hong Kong,2,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Hong Kong,0,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Hong Kong,6,B5,Total
+0,2,enrollment region,Japan,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Japan,0,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Japan,1,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Japan,4,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Japan,5,B5,Total
+0,2,enrollment region,Taiwan,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,enrollment region,Taiwan,1,B2,Part A: Remdesivir for 10 Days
+0,2,enrollment region,Taiwan,2,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,enrollment region,Taiwan,2,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,enrollment region,Taiwan,5,B5,Total
+0,2,clinical status (7-point ordinal scale),Score: 1,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,clinical status (7-point ordinal scale),Score: 1,0,B2,Part A: Remdesivir for 10 Days
+0,2,clinical status (7-point ordinal scale),Score: 1,0,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,clinical status (7-point ordinal scale),Score: 1,0,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,clinical status (7-point ordinal scale),Score: 1,0,B5,Total
+0,2,clinical status (7-point ordinal scale),Score: 2,4,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,clinical status (7-point ordinal scale),Score: 2,9,B2,Part A: Remdesivir for 10 Days
+0,2,clinical status (7-point ordinal scale),Score: 2,844,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,clinical status (7-point ordinal scale),Score: 2,0,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,clinical status (7-point ordinal scale),Score: 2,857,B5,Total
+0,2,clinical status (7-point ordinal scale),Score: 3,49,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,clinical status (7-point ordinal scale),Score: 3,59,B2,Part A: Remdesivir for 10 Days
+0,2,clinical status (7-point ordinal scale),Score: 3,0,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,clinical status (7-point ordinal scale),Score: 3,1069,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,clinical status (7-point ordinal scale),Score: 3,1177,B5,Total
+0,2,clinical status (7-point ordinal scale),Score: 4,113,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,clinical status (7-point ordinal scale),Score: 4,108,B2,Part A: Remdesivir for 10 Days
+0,2,clinical status (7-point ordinal scale),Score: 4,0,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,clinical status (7-point ordinal scale),Score: 4,2214,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,clinical status (7-point ordinal scale),Score: 4,2435,B5,Total
+0,2,clinical status (7-point ordinal scale),Score: 5,34,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,clinical status (7-point ordinal scale),Score: 5,21,B2,Part A: Remdesivir for 10 Days
+0,2,clinical status (7-point ordinal scale),Score: 5,0,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,clinical status (7-point ordinal scale),Score: 5,314,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,clinical status (7-point ordinal scale),Score: 5,369,B5,Total
+0,2,clinical status (7-point ordinal scale),Score: 6,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,clinical status (7-point ordinal scale),Score: 6,0,B2,Part A: Remdesivir for 10 Days
+0,2,clinical status (7-point ordinal scale),Score: 6,0,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,clinical status (7-point ordinal scale),Score: 6,0,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,clinical status (7-point ordinal scale),Score: 6,0,B5,Total
+0,2,clinical status (7-point ordinal scale),Score: 7,0,B1,Part A: Remdesivir (RDV) for 5 Days
+0,2,clinical status (7-point ordinal scale),Score: 7,0,B2,Part A: Remdesivir for 10 Days
+0,2,clinical status (7-point ordinal scale),Score: 7,0,B3,Part B: Remdesivir for 10 Days (Mechanically Ventilated Group)
+0,2,clinical status (7-point ordinal scale),Score: 7,0,B4,Part B: Remdesivir for 10 Days (Extension Group)
+0,2,clinical status (7-point ordinal scale),Score: 7,0,B5,Total
+0,3,milestone,STARTED,83,P1,Exposed to Methylprednisolone
+0,3,milestone,STARTED,90,P2,Non-exposed to Methylprednisolone
+0,3,milestone,COMPLETED,83,P1,Exposed to Methylprednisolone
+0,3,milestone,COMPLETED,90,P2,Non-exposed to Methylprednisolone
+0,3,milestone,NOT COMPLETED,0,P1,Exposed to Methylprednisolone
+0,3,milestone,NOT COMPLETED,0,P2,Non-exposed to Methylprednisolone
+0,3,age,<=18 years,0,B1,Exposed to Methylprednisolone
+0,3,age,<=18 years,0,B2,Non-exposed to Methylprednisolone
+0,3,age,<=18 years,0,B3,Total
+0,3,age,Between 18 and 65 years,35,B1,Exposed to Methylprednisolone
+0,3,age,Between 18 and 65 years,34,B2,Non-exposed to Methylprednisolone
+0,3,age,Between 18 and 65 years,69,B3,Total
+0,3,age,>=65 years,48,B1,Exposed to Methylprednisolone
+0,3,age,>=65 years,56,B2,Non-exposed to Methylprednisolone
+0,3,age,>=65 years,104,B3,Total
+0,3,"sex: female, male",Female,29,B1,Exposed to Methylprednisolone
+0,3,"sex: female, male",Female,24,B2,Non-exposed to Methylprednisolone
+0,3,"sex: female, male",Female,53,B3,Total
+0,3,"sex: female, male",Male,54,B1,Exposed to Methylprednisolone
+0,3,"sex: female, male",Male,66,B2,Non-exposed to Methylprednisolone
+0,3,"sex: female, male",Male,120,B3,Total
+0,3,enrollment region,Italy,83,B1,Exposed to Methylprednisolone
+0,3,enrollment region,Italy,90,B2,Non-exposed to Methylprednisolone
+0,3,enrollment region,Italy,173,B3,Total
+0,4,milestone,STARTED,17,P1,Cohort 1 HCQ
+0,4,milestone,STARTED,17,P2,Cohort 1 Placebo
+0,4,milestone,STARTED,4,P3,Cohort 2 HCQ High Dose
+0,4,milestone,STARTED,3,P4,Cohort 2 HCQ Low Dose
+0,4,milestone,STARTED,66,P5,Cohort 3 HCQ
+0,4,milestone,STARTED,66,P6,Cohort 3 Placebo
+0,4,milestone,COMPLETED,16,P1,Cohort 1 HCQ
+0,4,milestone,COMPLETED,13,P2,Cohort 1 Placebo
+0,4,milestone,COMPLETED,3,P3,Cohort 2 HCQ High Dose
+0,4,milestone,COMPLETED,2,P4,Cohort 2 HCQ Low Dose
+0,4,milestone,COMPLETED,64,P5,Cohort 3 HCQ
+0,4,milestone,COMPLETED,61,P6,Cohort 3 Placebo
+0,4,milestone,NOT COMPLETED,1,P1,Cohort 1 HCQ
+0,4,milestone,NOT COMPLETED,4,P2,Cohort 1 Placebo
+0,4,milestone,NOT COMPLETED,1,P3,Cohort 2 HCQ High Dose
+0,4,milestone,NOT COMPLETED,1,P4,Cohort 2 HCQ Low Dose
+0,4,milestone,NOT COMPLETED,2,P5,Cohort 3 HCQ
+0,4,milestone,NOT COMPLETED,5,P6,Cohort 3 Placebo
+0,4,withdrawal reason,Withdrawal by Subject,1,P1,Cohort 1 HCQ
+0,4,withdrawal reason,Withdrawal by Subject,4,P2,Cohort 1 Placebo
+0,4,withdrawal reason,Withdrawal by Subject,1,P3,Cohort 2 HCQ High Dose
+0,4,withdrawal reason,Withdrawal by Subject,1,P4,Cohort 2 HCQ Low Dose
+0,4,withdrawal reason,Withdrawal by Subject,1,P5,Cohort 3 HCQ
+0,4,withdrawal reason,Withdrawal by Subject,1,P6,Cohort 3 Placebo
+0,4,withdrawal reason,early termination of study,0,P1,Cohort 1 HCQ
+0,4,withdrawal reason,early termination of study,0,P2,Cohort 1 Placebo
+0,4,withdrawal reason,early termination of study,0,P3,Cohort 2 HCQ High Dose
+0,4,withdrawal reason,early termination of study,0,P4,Cohort 2 HCQ Low Dose
+0,4,withdrawal reason,early termination of study,1,P5,Cohort 3 HCQ
+0,4,withdrawal reason,early termination of study,2,P6,Cohort 3 Placebo
+0,4,withdrawal reason,positive SARS-COV2 PCR at baseline,0,P1,Cohort 1 HCQ
+0,4,withdrawal reason,positive SARS-COV2 PCR at baseline,0,P2,Cohort 1 Placebo
+0,4,withdrawal reason,positive SARS-COV2 PCR at baseline,0,P3,Cohort 2 HCQ High Dose
+0,4,withdrawal reason,positive SARS-COV2 PCR at baseline,0,P4,Cohort 2 HCQ Low Dose
+0,4,withdrawal reason,positive SARS-COV2 PCR at baseline,0,P5,Cohort 3 HCQ
+0,4,withdrawal reason,positive SARS-COV2 PCR at baseline,2,P6,Cohort 3 Placebo
+0,4,"sex: female, male",Female,12,B1,Cohort 1 HCQ
+0,4,"sex: female, male",Female,9,B2,Cohort 1 Placebo
+0,4,"sex: female, male",Female,2,B3,Cohort 2 HCQ High Dose
+0,4,"sex: female, male",Female,3,B4,Cohort 2 HCQ Low Dose
+0,4,"sex: female, male",Female,54,B5,Cohort 3 HCQ
+0,4,"sex: female, male",Female,33,B6,Cohort 3 Placebo
+0,4,"sex: female, male",Female,113,B7,Total
+0,4,"sex: female, male",Male,5,B1,Cohort 1 HCQ
+0,4,"sex: female, male",Male,8,B2,Cohort 1 Placebo
+0,4,"sex: female, male",Male,2,B3,Cohort 2 HCQ High Dose
+0,4,"sex: female, male",Male,0,B4,Cohort 2 HCQ Low Dose
+0,4,"sex: female, male",Male,12,B5,Cohort 3 HCQ
+0,4,"sex: female, male",Male,33,B6,Cohort 3 Placebo
+0,4,"sex: female, male",Male,60,B7,Total
+0,4,race (nih/omb),American Indian or Alaska Native,0,B1,Cohort 1 HCQ
+0,4,race (nih/omb),American Indian or Alaska Native,0,B2,Cohort 1 Placebo
+0,4,race (nih/omb),American Indian or Alaska Native,0,B3,Cohort 2 HCQ High Dose
+0,4,race (nih/omb),American Indian or Alaska Native,0,B4,Cohort 2 HCQ Low Dose
+0,4,race (nih/omb),American Indian or Alaska Native,0,B5,Cohort 3 HCQ
+0,4,race (nih/omb),American Indian or Alaska Native,0,B6,Cohort 3 Placebo
+0,4,race (nih/omb),American Indian or Alaska Native,0,B7,Total
+0,4,race (nih/omb),Asian,0,B1,Cohort 1 HCQ
+0,4,race (nih/omb),Asian,0,B2,Cohort 1 Placebo
+0,4,race (nih/omb),Asian,0,B3,Cohort 2 HCQ High Dose
+0,4,race (nih/omb),Asian,0,B4,Cohort 2 HCQ Low Dose
+0,4,race (nih/omb),Asian,7,B5,Cohort 3 HCQ
+0,4,race (nih/omb),Asian,7,B6,Cohort 3 Placebo
+0,4,race (nih/omb),Asian,14,B7,Total
+0,4,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,Cohort 1 HCQ
+0,4,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B2,Cohort 1 Placebo
+0,4,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B3,Cohort 2 HCQ High Dose
+0,4,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B4,Cohort 2 HCQ Low Dose
+0,4,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B5,Cohort 3 HCQ
+0,4,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B6,Cohort 3 Placebo
+0,4,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B7,Total
+0,4,race (nih/omb),Black or African American,8,B1,Cohort 1 HCQ
+0,4,race (nih/omb),Black or African American,11,B2,Cohort 1 Placebo
+0,4,race (nih/omb),Black or African American,3,B3,Cohort 2 HCQ High Dose
+0,4,race (nih/omb),Black or African American,3,B4,Cohort 2 HCQ Low Dose
+0,4,race (nih/omb),Black or African American,3,B5,Cohort 3 HCQ
+0,4,race (nih/omb),Black or African American,1,B6,Cohort 3 Placebo
+0,4,race (nih/omb),Black or African American,29,B7,Total
+0,4,race (nih/omb),White,6,B1,Cohort 1 HCQ
+0,4,race (nih/omb),White,3,B2,Cohort 1 Placebo
+0,4,race (nih/omb),White,1,B3,Cohort 2 HCQ High Dose
+0,4,race (nih/omb),White,0,B4,Cohort 2 HCQ Low Dose
+0,4,race (nih/omb),White,55,B5,Cohort 3 HCQ
+0,4,race (nih/omb),White,56,B6,Cohort 3 Placebo
+0,4,race (nih/omb),White,121,B7,Total
+0,4,race (nih/omb),More than one race,0,B1,Cohort 1 HCQ
+0,4,race (nih/omb),More than one race,0,B2,Cohort 1 Placebo
+0,4,race (nih/omb),More than one race,0,B3,Cohort 2 HCQ High Dose
+0,4,race (nih/omb),More than one race,0,B4,Cohort 2 HCQ Low Dose
+0,4,race (nih/omb),More than one race,1,B5,Cohort 3 HCQ
+0,4,race (nih/omb),More than one race,2,B6,Cohort 3 Placebo
+0,4,race (nih/omb),More than one race,3,B7,Total
+0,4,race (nih/omb),Unknown or Not Reported,3,B1,Cohort 1 HCQ
+0,4,race (nih/omb),Unknown or Not Reported,3,B2,Cohort 1 Placebo
+0,4,race (nih/omb),Unknown or Not Reported,0,B3,Cohort 2 HCQ High Dose
+0,4,race (nih/omb),Unknown or Not Reported,0,B4,Cohort 2 HCQ Low Dose
+0,4,race (nih/omb),Unknown or Not Reported,0,B5,Cohort 3 HCQ
+0,4,race (nih/omb),Unknown or Not Reported,0,B6,Cohort 3 Placebo
+0,4,race (nih/omb),Unknown or Not Reported,6,B7,Total
+0,5,milestone,STARTED,2,P1,GO2 PEEP MOUTHPIECE
+0,5,milestone,COMPLETED,2,P1,GO2 PEEP MOUTHPIECE
+0,5,milestone,NOT COMPLETED,0,P1,GO2 PEEP MOUTHPIECE
+0,5,"sex: female, male",Female,0,B1,GO2 PEEP MOUTHPIECE
+0,5,"sex: female, male",Male,2,B1,GO2 PEEP MOUTHPIECE
+0,5,ethnicity (nih/omb),Hispanic or Latino,1,B1,GO2 PEEP MOUTHPIECE
+0,5,ethnicity (nih/omb),Not Hispanic or Latino,1,B1,GO2 PEEP MOUTHPIECE
+0,5,ethnicity (nih/omb),Unknown or Not Reported,0,B1,GO2 PEEP MOUTHPIECE
+0,5,race (nih/omb),American Indian or Alaska Native,0,B1,GO2 PEEP MOUTHPIECE
+0,5,race (nih/omb),Asian,0,B1,GO2 PEEP MOUTHPIECE
+0,5,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,GO2 PEEP MOUTHPIECE
+0,5,race (nih/omb),Black or African American,0,B1,GO2 PEEP MOUTHPIECE
+0,5,race (nih/omb),White,1,B1,GO2 PEEP MOUTHPIECE
+0,5,race (nih/omb),More than one race,0,B1,GO2 PEEP MOUTHPIECE
+0,5,race (nih/omb),Unknown or Not Reported,1,B1,GO2 PEEP MOUTHPIECE
+0,5,enrollment region,United States,2,B1,GO2 PEEP MOUTHPIECE
+0,6,milestone,STARTED,242,P1,Hydroxychloroquine
+0,6,milestone,STARTED,237,P2,Placebo
+0,6,milestone,COMPLETED,242,P1,Hydroxychloroquine
+0,6,milestone,COMPLETED,237,P2,Placebo
+0,6,milestone,NOT COMPLETED,0,P1,Hydroxychloroquine
+0,6,milestone,NOT COMPLETED,0,P2,Placebo
+0,6,"sex: female, male",Female,107,B1,Hydroxychloroquine
+0,6,"sex: female, male",Female,105,B2,Placebo
+0,6,"sex: female, male",Female,212,B3,Total
+0,6,"sex: female, male",Male,135,B1,Hydroxychloroquine
+0,6,"sex: female, male",Male,132,B2,Placebo
+0,6,"sex: female, male",Male,267,B3,Total
+0,6,covid outcomes scale category at randomization,"2: Hospitalized, receiving ECMO or invasive mechanical ventilation",13,B1,Hydroxychloroquine
+0,6,covid outcomes scale category at randomization,"2: Hospitalized, receiving ECMO or invasive mechanical ventilation",19,B2,Placebo
+0,6,covid outcomes scale category at randomization,"2: Hospitalized, receiving ECMO or invasive mechanical ventilation",32,B3,Total
+0,6,covid outcomes scale category at randomization,"3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygen",28,B1,Hydroxychloroquine
+0,6,covid outcomes scale category at randomization,"3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygen",27,B2,Placebo
+0,6,covid outcomes scale category at randomization,"3: Hospitalized, receiving noninvasive ventilation or nasal high flow oxygen",55,B3,Total
+0,6,covid outcomes scale category at randomization,"4: Hospitalized, receiving supplemental oxygen without positive pressure or high flow",116,B1,Hydroxychloroquine
+0,6,covid outcomes scale category at randomization,"4: Hospitalized, receiving supplemental oxygen without positive pressure or high flow",108,B2,Placebo
+0,6,covid outcomes scale category at randomization,"4: Hospitalized, receiving supplemental oxygen without positive pressure or high flow",224,B3,Total
+0,6,covid outcomes scale category at randomization,"5: Hospitalized, not receiving supplemental oxygen",85,B1,Hydroxychloroquine
+0,6,covid outcomes scale category at randomization,"5: Hospitalized, not receiving supplemental oxygen",83,B2,Placebo
+0,6,covid outcomes scale category at randomization,"5: Hospitalized, not receiving supplemental oxygen",168,B3,Total
+0,7,milestone,STARTED,16,P1,Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT)
+0,7,milestone,COMPLETED,16,P1,Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT)
+0,7,milestone,NOT COMPLETED,0,P1,Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT)
+0,7,"sex: female, male",Female,5,B1,Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT)
+0,7,"sex: female, male",Male,11,B1,Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT)
+0,7,enrollment region,Iraq,16,B1,Ivermectin (IVM)+ Hydroxychloroquin (HCQ)+ Azithromycin (AZT)
+0,8,milestone,STARTED,48,P1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,milestone,COMPLETED,40,P1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,milestone,NOT COMPLETED,8,P1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,withdrawal reason,Adverse Event,1,P1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,withdrawal reason,received inadequate amount of antibodies,7,P1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,age,<=18 years,0,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,age,Between 18 and 65 years,24,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,age,>=65 years,24,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,"sex: female, male",Female,21,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,"sex: female, male",Male,27,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,ethnicity (nih/omb),Hispanic or Latino,12,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,ethnicity (nih/omb),Not Hispanic or Latino,34,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,ethnicity (nih/omb),Unknown or Not Reported,2,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,race (nih/omb),American Indian or Alaska Native,0,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,race (nih/omb),Asian,0,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,race (nih/omb),Black or African American,16,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,race (nih/omb),White,17,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,race (nih/omb),More than one race,12,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,race (nih/omb),Unknown or Not Reported,3,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,8,enrollment region,United States,48,B1,COVID-19 Patients Treated With Convalescent Plasma
+0,9,milestone,STARTED,9,P1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,milestone,STARTED,11,P2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,milestone,COMPLETED,7,P1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,milestone,COMPLETED,9,P2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,milestone,NOT COMPLETED,2,P1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,milestone,NOT COMPLETED,2,P2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,withdrawal reason,Did not initiate study treatment,2,P1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,withdrawal reason,Did not initiate study treatment,2,P2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,"sex: female, male",Female,7,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,"sex: female, male",Female,4,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,"sex: female, male",Female,11,B3,Total
+0,9,"sex: female, male",Male,0,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,"sex: female, male",Male,5,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,"sex: female, male",Male,5,B3,Total
+0,9,ethnicity (nih/omb),Hispanic or Latino,2,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,ethnicity (nih/omb),Hispanic or Latino,2,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,ethnicity (nih/omb),Hispanic or Latino,4,B3,Total
+0,9,ethnicity (nih/omb),Not Hispanic or Latino,5,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,ethnicity (nih/omb),Not Hispanic or Latino,6,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,ethnicity (nih/omb),Not Hispanic or Latino,11,B3,Total
+0,9,ethnicity (nih/omb),Unknown or Not Reported,0,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,ethnicity (nih/omb),Unknown or Not Reported,1,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,ethnicity (nih/omb),Unknown or Not Reported,1,B3,Total
+0,9,race (nih/omb),American Indian or Alaska Native,0,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,race (nih/omb),American Indian or Alaska Native,0,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,race (nih/omb),American Indian or Alaska Native,0,B3,Total
+0,9,race (nih/omb),Asian,0,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,race (nih/omb),Asian,0,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,race (nih/omb),Asian,0,B3,Total
+0,9,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B3,Total
+0,9,race (nih/omb),Black or African American,1,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,race (nih/omb),Black or African American,0,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,race (nih/omb),Black or African American,1,B3,Total
+0,9,race (nih/omb),White,6,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,race (nih/omb),White,8,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,race (nih/omb),White,14,B3,Total
+0,9,race (nih/omb),More than one race,0,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,race (nih/omb),More than one race,0,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,race (nih/omb),More than one race,0,B3,Total
+0,9,race (nih/omb),Unknown or Not Reported,0,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,race (nih/omb),Unknown or Not Reported,1,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,race (nih/omb),Unknown or Not Reported,1,B3,Total
+0,9,enrollment region,United States,7,B1,Arm A: Hydroxychloroquine (HCQ) and Azithromycin (Azithro)
+0,9,enrollment region,United States,9,B2,Arm B: Placebo for Hydroxychloroquine and Azithromycin
+0,9,enrollment region,United States,16,B3,Total
+0,10,milestone,STARTED,7,P1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,milestone,STARTED,7,P2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,milestone,STARTED,5,P3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,milestone,COMPLETED,3,P1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,milestone,COMPLETED,6,P2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,milestone,COMPLETED,2,P3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,milestone,NOT COMPLETED,4,P1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,milestone,NOT COMPLETED,1,P2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,milestone,NOT COMPLETED,3,P3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,withdrawal reason,Withdrawal by Subject,0,P1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,withdrawal reason,Withdrawal by Subject,1,P2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,withdrawal reason,Withdrawal by Subject,1,P3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,withdrawal reason,Adverse Event,1,P1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,withdrawal reason,Adverse Event,0,P2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,withdrawal reason,Adverse Event,1,P3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,withdrawal reason,Physician Decision,2,P1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,withdrawal reason,Physician Decision,0,P2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,withdrawal reason,Physician Decision,1,P3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,withdrawal reason,Protocol Violation,1,P1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,withdrawal reason,Protocol Violation,0,P2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,withdrawal reason,Protocol Violation,0,P3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,age,<=18 years,0,B1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,age,<=18 years,0,B2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,age,<=18 years,0,B3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,age,<=18 years,0,B4,Total
+0,10,age,Between 18 and 65 years,7,B1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,age,Between 18 and 65 years,4,B2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,age,Between 18 and 65 years,5,B3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,age,Between 18 and 65 years,16,B4,Total
+0,10,age,>=65 years,0,B1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,age,>=65 years,3,B2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,age,>=65 years,0,B3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,age,>=65 years,3,B4,Total
+0,10,"sex: female, male",Female,3,B1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,"sex: female, male",Female,1,B2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,"sex: female, male",Female,3,B3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,"sex: female, male",Female,7,B4,Total
+0,10,"sex: female, male",Male,4,B1,Arm 1: Hydroxychloroquine + Aithromycin Placebo
+0,10,"sex: female, male",Male,6,B2,Arm 2: Hydroxychloroquine + Azithromycin
+0,10,"sex: female, male",Male,2,B3,Arm 3: Hydroxychloroquine Placebo + Azithromycin Placebo
+0,10,"sex: female, male",Male,12,B4,Total
+0,11,milestone,STARTED,5712,P1,Pregnant Women
+0,11,milestone,STARTED,1182,P2,Post-partum Women
+0,11,milestone,COMPLETED,5712,P1,Pregnant Women
+0,11,milestone,COMPLETED,1182,P2,Post-partum Women
+0,11,milestone,NOT COMPLETED,0,P1,Pregnant Women
+0,11,milestone,NOT COMPLETED,0,P2,Post-partum Women
+0,11,"sex: female, male",Female,5712,B1,Pregnant Women
+0,11,"sex: female, male",Female,1182,B2,Post-partum Women
+0,11,"sex: female, male",Female,6894,B3,Total
+0,11,"sex: female, male",Male,0,B1,Pregnant Women
+0,11,"sex: female, male",Male,0,B2,Post-partum Women
+0,11,"sex: female, male",Male,0,B3,Total
+0,11,ethnicity (nih/omb),Hispanic or Latino,1288,B1,Pregnant Women
+0,11,ethnicity (nih/omb),Hispanic or Latino,131,B2,Post-partum Women
+0,11,ethnicity (nih/omb),Hispanic or Latino,1419,B3,Total
+0,11,ethnicity (nih/omb),Not Hispanic or Latino,4424,B1,Pregnant Women
+0,11,ethnicity (nih/omb),Not Hispanic or Latino,1051,B2,Post-partum Women
+0,11,ethnicity (nih/omb),Not Hispanic or Latino,5475,B3,Total
+0,11,ethnicity (nih/omb),Unknown or Not Reported,0,B1,Pregnant Women
+0,11,ethnicity (nih/omb),Unknown or Not Reported,0,B2,Post-partum Women
+0,11,ethnicity (nih/omb),Unknown or Not Reported,0,B3,Total
+0,12,milestone,STARTED,12,P1,Ivermectin
+0,12,milestone,STARTED,12,P2,Placebo
+0,12,milestone,COMPLETED,12,P1,Ivermectin
+0,12,milestone,COMPLETED,12,P2,Placebo
+0,12,milestone,NOT COMPLETED,0,P1,Ivermectin
+0,12,milestone,NOT COMPLETED,0,P2,Placebo
+0,12,"sex: female, male",Female,5,B1,Ivermectin
+0,12,"sex: female, male",Female,7,B2,Placebo
+0,12,"sex: female, male",Female,12,B3,Total
+0,12,"sex: female, male",Male,7,B1,Ivermectin
+0,12,"sex: female, male",Male,5,B2,Placebo
+0,12,"sex: female, male",Male,12,B3,Total
+0,13,milestone,STARTED,15,P1,FAVIRA Then AVIGAN
+0,13,milestone,STARTED,15,P2,AVIGAN Then FAVIRA
+0,13,milestone,COMPLETED,14,P1,FAVIRA Then AVIGAN
+0,13,milestone,COMPLETED,11,P2,AVIGAN Then FAVIRA
+0,13,milestone,NOT COMPLETED,1,P1,FAVIRA Then AVIGAN
+0,13,milestone,NOT COMPLETED,4,P2,AVIGAN Then FAVIRA
+0,13,withdrawal reason,Withdrawal by Subject,1,P1,FAVIRA Then AVIGAN
+0,13,withdrawal reason,Withdrawal by Subject,4,P2,AVIGAN Then FAVIRA
+0,13,"sex: female, male",Female,0,B1,FAVIRA Then AVIGAN
+0,13,"sex: female, male",Female,0,B2,AVIGAN Then FAVIRA
+0,13,"sex: female, male",Female,0,B3,Total
+0,13,"sex: female, male",Male,15,B1,FAVIRA Then AVIGAN
+0,13,"sex: female, male",Male,15,B2,AVIGAN Then FAVIRA
+0,13,"sex: female, male",Male,30,B3,Total
+0,14,milestone,STARTED,15,P1,Experimental: FAVICOVIR Then AVIGAN
+0,14,milestone,STARTED,15,P2,AVIGAN Then FAVICOVIR
+0,14,milestone,COMPLETED,15,P1,Experimental: FAVICOVIR Then AVIGAN
+0,14,milestone,COMPLETED,14,P2,AVIGAN Then FAVICOVIR
+0,14,milestone,NOT COMPLETED,0,P1,Experimental: FAVICOVIR Then AVIGAN
+0,14,milestone,NOT COMPLETED,1,P2,AVIGAN Then FAVICOVIR
+0,14,withdrawal reason,Withdrawal by Subject,0,P1,Experimental: FAVICOVIR Then AVIGAN
+0,14,withdrawal reason,Withdrawal by Subject,1,P2,AVIGAN Then FAVICOVIR
+0,14,"sex: female, male",Female,0,B1,FAVICOVIR Then AVIGAN
+0,14,"sex: female, male",Female,0,B2,AVIGAN Then FAVICOVIR
+0,14,"sex: female, male",Female,0,B3,Total
+0,14,"sex: female, male",Male,15,B1,FAVICOVIR Then AVIGAN
+0,14,"sex: female, male",Male,15,B2,AVIGAN Then FAVICOVIR
+0,14,"sex: female, male",Male,30,B3,Total
+0,15,milestone,STARTED,5,P1,Povidone-iodine
+0,15,milestone,STARTED,5,P2,Essential Oils
+0,15,milestone,STARTED,5,P3,Tap Water
+0,15,milestone,STARTED,5,P4,Control
+0,15,milestone,COMPLETED,5,P1,Povidone-iodine
+0,15,milestone,COMPLETED,5,P2,Essential Oils
+0,15,milestone,COMPLETED,5,P3,Tap Water
+0,15,milestone,COMPLETED,5,P4,Control
+0,15,milestone,NOT COMPLETED,0,P1,Povidone-iodine
+0,15,milestone,NOT COMPLETED,0,P2,Essential Oils
+0,15,milestone,NOT COMPLETED,0,P3,Tap Water
+0,15,milestone,NOT COMPLETED,0,P4,Control
+0,15,age,<=18 years,0,B1,Povidone-iodine
+0,15,age,<=18 years,0,B2,Essential Oils
+0,15,age,<=18 years,0,B3,Tap Water
+0,15,age,<=18 years,0,B4,Control
+0,15,age,<=18 years,0,B5,Total
+0,15,age,Between 18 and 65 years,5,B1,Povidone-iodine
+0,15,age,Between 18 and 65 years,5,B2,Essential Oils
+0,15,age,Between 18 and 65 years,5,B3,Tap Water
+0,15,age,Between 18 and 65 years,5,B4,Control
+0,15,age,Between 18 and 65 years,20,B5,Total
+0,15,age,>=65 years,0,B1,Povidone-iodine
+0,15,age,>=65 years,0,B2,Essential Oils
+0,15,age,>=65 years,0,B3,Tap Water
+0,15,age,>=65 years,0,B4,Control
+0,15,age,>=65 years,0,B5,Total
+0,15,"sex: female, male",Female,3,B1,Povidone-iodine
+0,15,"sex: female, male",Female,1,B2,Essential Oils
+0,15,"sex: female, male",Female,0,B3,Tap Water
+0,15,"sex: female, male",Female,0,B4,Control
+0,15,"sex: female, male",Female,4,B5,Total
+0,15,"sex: female, male",Male,2,B1,Povidone-iodine
+0,15,"sex: female, male",Male,4,B2,Essential Oils
+0,15,"sex: female, male",Male,5,B3,Tap Water
+0,15,"sex: female, male",Male,5,B4,Control
+0,15,"sex: female, male",Male,16,B5,Total
+0,15,race (nih/omb),American Indian or Alaska Native,0,B1,Povidone-iodine
+0,15,race (nih/omb),American Indian or Alaska Native,0,B2,Essential Oils
+0,15,race (nih/omb),American Indian or Alaska Native,0,B3,Tap Water
+0,15,race (nih/omb),American Indian or Alaska Native,0,B4,Control
+0,15,race (nih/omb),American Indian or Alaska Native,0,B5,Total
+0,15,race (nih/omb),Asian,5,B1,Povidone-iodine
+0,15,race (nih/omb),Asian,5,B2,Essential Oils
+0,15,race (nih/omb),Asian,5,B3,Tap Water
+0,15,race (nih/omb),Asian,5,B4,Control
+0,15,race (nih/omb),Asian,20,B5,Total
+0,15,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,Povidone-iodine
+0,15,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B2,Essential Oils
+0,15,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B3,Tap Water
+0,15,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B4,Control
+0,15,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B5,Total
+0,15,race (nih/omb),Black or African American,0,B1,Povidone-iodine
+0,15,race (nih/omb),Black or African American,0,B2,Essential Oils
+0,15,race (nih/omb),Black or African American,0,B3,Tap Water
+0,15,race (nih/omb),Black or African American,0,B4,Control
+0,15,race (nih/omb),Black or African American,0,B5,Total
+0,15,race (nih/omb),White,0,B1,Povidone-iodine
+0,15,race (nih/omb),White,0,B2,Essential Oils
+0,15,race (nih/omb),White,0,B3,Tap Water
+0,15,race (nih/omb),White,0,B4,Control
+0,15,race (nih/omb),White,0,B5,Total
+0,15,race (nih/omb),More than one race,0,B1,Povidone-iodine
+0,15,race (nih/omb),More than one race,0,B2,Essential Oils
+0,15,race (nih/omb),More than one race,0,B3,Tap Water
+0,15,race (nih/omb),More than one race,0,B4,Control
+0,15,race (nih/omb),More than one race,0,B5,Total
+0,15,race (nih/omb),Unknown or Not Reported,0,B1,Povidone-iodine
+0,15,race (nih/omb),Unknown or Not Reported,0,B2,Essential Oils
+0,15,race (nih/omb),Unknown or Not Reported,0,B3,Tap Water
+0,15,race (nih/omb),Unknown or Not Reported,0,B4,Control
+0,15,race (nih/omb),Unknown or Not Reported,0,B5,Total
+0,15,enrollment region,Malaysia,5,B1,Povidone-iodine
+0,15,enrollment region,Malaysia,5,B2,Essential Oils
+0,15,enrollment region,Malaysia,5,B3,Tap Water
+0,15,enrollment region,Malaysia,5,B4,Control
+0,15,enrollment region,Malaysia,20,B5,Total
+0,16,milestone,STARTED,228,P1,Ivermectin Group
+0,16,milestone,STARTED,112,P2,Control Group
+0,16,milestone,COMPLETED,203,P1,Ivermectin Group
+0,16,milestone,COMPLETED,101,P2,Control Group
+0,16,milestone,NOT COMPLETED,25,P1,Ivermectin Group
+0,16,milestone,NOT COMPLETED,11,P2,Control Group
+0,16,withdrawal reason,Lost to Follow-up,25,P1,Ivermectin Group
+0,16,withdrawal reason,Lost to Follow-up,11,P2,Control Group
+0,16,"sex: female, male",Female,97,B1,Ivermectin Group
+0,16,"sex: female, male",Female,51,B2,Control Group
+0,16,"sex: female, male",Female,148,B3,Total
+0,16,"sex: female, male",Male,106,B1,Ivermectin Group
+0,16,"sex: female, male",Male,50,B2,Control Group
+0,16,"sex: female, male",Male,156,B3,Total
+0,17,milestone,STARTED,131,P1,IVER+
+0,17,milestone,STARTED,98,P2,IVER-
+0,17,milestone,COMPLETED,131,P1,IVER+
+0,17,milestone,COMPLETED,98,P2,IVER-
+0,17,milestone,NOT COMPLETED,0,P1,IVER+
+0,17,milestone,NOT COMPLETED,0,P2,IVER-
+0,17,"sex: female, male",Female,70,B1,IVER+
+0,17,"sex: female, male",Female,72,B2,IVER-
+0,17,"sex: female, male",Female,142,B3,Total
+0,17,"sex: female, male",Male,61,B1,IVER+
+0,17,"sex: female, male",Male,26,B2,IVER-
+0,17,"sex: female, male",Male,87,B3,Total
+0,17,ethnicity (nih/omb),Hispanic or Latino,131,B1,IVER+
+0,17,ethnicity (nih/omb),Hispanic or Latino,98,B2,IVER-
+0,17,ethnicity (nih/omb),Hispanic or Latino,229,B3,Total
+0,17,ethnicity (nih/omb),Not Hispanic or Latino,0,B1,IVER+
+0,17,ethnicity (nih/omb),Not Hispanic or Latino,0,B2,IVER-
+0,17,ethnicity (nih/omb),Not Hispanic or Latino,0,B3,Total
+0,17,ethnicity (nih/omb),Unknown or Not Reported,0,B1,IVER+
+0,17,ethnicity (nih/omb),Unknown or Not Reported,0,B2,IVER-
+0,17,ethnicity (nih/omb),Unknown or Not Reported,0,B3,Total
+0,17,race (nih/omb),American Indian or Alaska Native,0,B1,IVER+
+0,17,race (nih/omb),American Indian or Alaska Native,0,B2,IVER-
+0,17,race (nih/omb),American Indian or Alaska Native,0,B3,Total
+0,17,race (nih/omb),Asian,0,B1,IVER+
+0,17,race (nih/omb),Asian,0,B2,IVER-
+0,17,race (nih/omb),Asian,0,B3,Total
+0,17,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,IVER+
+0,17,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B2,IVER-
+0,17,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B3,Total
+0,17,race (nih/omb),Black or African American,0,B1,IVER+
+0,17,race (nih/omb),Black or African American,0,B2,IVER-
+0,17,race (nih/omb),Black or African American,0,B3,Total
+0,17,race (nih/omb),White,0,B1,IVER+
+0,17,race (nih/omb),White,0,B2,IVER-
+0,17,race (nih/omb),White,0,B3,Total
+0,17,race (nih/omb),More than one race,131,B1,IVER+
+0,17,race (nih/omb),More than one race,98,B2,IVER-
+0,17,race (nih/omb),More than one race,229,B3,Total
+0,17,race (nih/omb),Unknown or Not Reported,0,B1,IVER+
+0,17,race (nih/omb),Unknown or Not Reported,0,B2,IVER-
+0,17,race (nih/omb),Unknown or Not Reported,0,B3,Total
+0,17,enrollment region,Argentina,131,B1,IVER+
+0,17,enrollment region,Argentina,98,B2,IVER-
+0,17,enrollment region,Argentina,229,B3,Total
+0,18,milestone,STARTED,135,P1,Mild Cases
+0,18,milestone,STARTED,12,P2,Moderate Cases
+0,18,milestone,STARTED,20,P3,Severe Cases
+0,18,milestone,COMPLETED,135,P1,Mild Cases
+0,18,milestone,COMPLETED,12,P2,Moderate Cases
+0,18,milestone,COMPLETED,19,P3,Severe Cases
+0,18,milestone,NOT COMPLETED,0,P1,Mild Cases
+0,18,milestone,NOT COMPLETED,0,P2,Moderate Cases
+0,18,milestone,NOT COMPLETED,1,P3,Severe Cases
+0,18,withdrawal reason,Death,0,P1,Mild Cases
+0,18,withdrawal reason,Death,0,P2,Moderate Cases
+0,18,withdrawal reason,Death,1,P3,Severe Cases
+0,18,"sex: female, male",Female,66,B1,Mild Cases
+0,18,"sex: female, male",Female,7,B2,Moderate Cases
+0,18,"sex: female, male",Female,11,B3,Severe Cases
+0,18,"sex: female, male",Female,84,B4,Total
+0,18,"sex: female, male",Male,69,B1,Mild Cases
+0,18,"sex: female, male",Male,5,B2,Moderate Cases
+0,18,"sex: female, male",Male,9,B3,Severe Cases
+0,18,"sex: female, male",Male,83,B4,Total
+0,18,ethnicity (nih/omb),Hispanic or Latino,135,B1,Mild Cases
+0,18,ethnicity (nih/omb),Hispanic or Latino,12,B2,Moderate Cases
+0,18,ethnicity (nih/omb),Hispanic or Latino,20,B3,Severe Cases
+0,18,ethnicity (nih/omb),Hispanic or Latino,167,B4,Total
+0,18,ethnicity (nih/omb),Not Hispanic or Latino,0,B1,Mild Cases
+0,18,ethnicity (nih/omb),Not Hispanic or Latino,0,B2,Moderate Cases
+0,18,ethnicity (nih/omb),Not Hispanic or Latino,0,B3,Severe Cases
+0,18,ethnicity (nih/omb),Not Hispanic or Latino,0,B4,Total
+0,18,ethnicity (nih/omb),Unknown or Not Reported,0,B1,Mild Cases
+0,18,ethnicity (nih/omb),Unknown or Not Reported,0,B2,Moderate Cases
+0,18,ethnicity (nih/omb),Unknown or Not Reported,0,B3,Severe Cases
+0,18,ethnicity (nih/omb),Unknown or Not Reported,0,B4,Total
+0,18,race (nih/omb),American Indian or Alaska Native,0,B1,Mild Cases
+0,18,race (nih/omb),American Indian or Alaska Native,0,B2,Moderate Cases
+0,18,race (nih/omb),American Indian or Alaska Native,0,B3,Severe Cases
+0,18,race (nih/omb),American Indian or Alaska Native,0,B4,Total
+0,18,race (nih/omb),Asian,0,B1,Mild Cases
+0,18,race (nih/omb),Asian,0,B2,Moderate Cases
+0,18,race (nih/omb),Asian,0,B3,Severe Cases
+0,18,race (nih/omb),Asian,0,B4,Total
+0,18,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,Mild Cases
+0,18,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B2,Moderate Cases
+0,18,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B3,Severe Cases
+0,18,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B4,Total
+0,18,race (nih/omb),Black or African American,0,B1,Mild Cases
+0,18,race (nih/omb),Black or African American,0,B2,Moderate Cases
+0,18,race (nih/omb),Black or African American,0,B3,Severe Cases
+0,18,race (nih/omb),Black or African American,0,B4,Total
+0,18,race (nih/omb),White,0,B1,Mild Cases
+0,18,race (nih/omb),White,0,B2,Moderate Cases
+0,18,race (nih/omb),White,0,B3,Severe Cases
+0,18,race (nih/omb),White,0,B4,Total
+0,18,race (nih/omb),More than one race,135,B1,Mild Cases
+0,18,race (nih/omb),More than one race,12,B2,Moderate Cases
+0,18,race (nih/omb),More than one race,20,B3,Severe Cases
+0,18,race (nih/omb),More than one race,167,B4,Total
+0,18,race (nih/omb),Unknown or Not Reported,0,B1,Mild Cases
+0,18,race (nih/omb),Unknown or Not Reported,0,B2,Moderate Cases
+0,18,race (nih/omb),Unknown or Not Reported,0,B3,Severe Cases
+0,18,race (nih/omb),Unknown or Not Reported,0,B4,Total
+0,18,enrollment region,Argentina,135,B1,Mild Cases
+0,18,enrollment region,Argentina,12,B2,Moderate Cases
+0,18,enrollment region,Argentina,20,B3,Severe Cases
+0,18,enrollment region,Argentina,167,B4,Total
+0,19,milestone,STARTED,0,P1,Hydroxychloroquine Arm
+0,19,milestone,STARTED,1,P2,No Intervention Arm
+0,19,milestone,COMPLETED,0,P1,Hydroxychloroquine Arm
+0,19,milestone,COMPLETED,0,P2,No Intervention Arm
+0,19,milestone,NOT COMPLETED,0,P1,Hydroxychloroquine Arm
+0,19,milestone,NOT COMPLETED,1,P2,No Intervention Arm
+0,19,withdrawal reason,Study stopped by DSMB,0,P1,Hydroxychloroquine Arm
+0,19,withdrawal reason,Study stopped by DSMB,1,P2,No Intervention Arm
+0,19,age,<=18 years,0,B1,Hydroxychloroquine Arm
+0,19,age,<=18 years,0,B2,No Intervention Arm
+0,19,age,<=18 years,0,B3,Total
+0,19,age,Between 18 and 65 years,0,B1,Hydroxychloroquine Arm
+0,19,age,Between 18 and 65 years,1,B2,No Intervention Arm
+0,19,age,Between 18 and 65 years,1,B3,Total
+0,19,age,>=65 years,0,B1,Hydroxychloroquine Arm
+0,19,age,>=65 years,0,B2,No Intervention Arm
+0,19,age,>=65 years,0,B3,Total
+0,19,"sex: female, male",Female,0,B1,Hydroxychloroquine Arm
+0,19,"sex: female, male",Female,0,B2,No Intervention Arm
+0,19,"sex: female, male",Female,0,B3,Total
+0,19,"sex: female, male",Male,0,B1,Hydroxychloroquine Arm
+0,19,"sex: female, male",Male,1,B2,No Intervention Arm
+0,19,"sex: female, male",Male,1,B3,Total
+0,19,enrollment region,United States,1,B2,No Intervention Arm
+0,19,enrollment region,United States,1,B3,Total
+0,20,milestone,STARTED,128,P1,Standard Care
+0,20,milestone,STARTED,134,P2,Proxalutamide + Standard Care
+0,20,milestone,COMPLETED,128,P1,Standard Care
+0,20,milestone,COMPLETED,134,P2,Proxalutamide + Standard Care
+0,20,milestone,NOT COMPLETED,0,P1,Standard Care
+0,20,milestone,NOT COMPLETED,0,P2,Proxalutamide + Standard Care
+0,20,"sex: female, male",Female,0,B1,Standard Care
+0,20,"sex: female, male",Female,0,B2,Proxalutamide + Standard Care
+0,20,"sex: female, male",Female,0,B3,Total
+0,20,"sex: female, male",Male,128,B1,Standard Care
+0,20,"sex: female, male",Male,134,B2,Proxalutamide + Standard Care
+0,20,"sex: female, male",Male,262,B3,Total
+0,20,enrollment region,Brazil,128,B1,Standard Care
+0,20,enrollment region,Brazil,134,B2,Proxalutamide + Standard Care
+0,20,enrollment region,Brazil,262,B3,Total
+0,21,milestone,STARTED,10,P1,EXO-1
+0,21,milestone,STARTED,10,P2,EXO-2
+0,21,milestone,STARTED,10,P3,Placebo
+0,21,milestone,COMPLETED,10,P1,EXO-1
+0,21,milestone,COMPLETED,10,P2,EXO-2
+0,21,milestone,COMPLETED,10,P3,Placebo
+0,21,milestone,NOT COMPLETED,0,P1,EXO-1
+0,21,milestone,NOT COMPLETED,0,P2,EXO-2
+0,21,milestone,NOT COMPLETED,0,P3,Placebo
+0,21,age,<=18 years,0,B1,EXO-1
+0,21,age,<=18 years,0,B2,EXO-2
+0,21,age,<=18 years,0,B3,Placebo
+0,21,age,<=18 years,0,B4,Total
+0,21,age,Between 18 and 65 years,10,B1,EXO-1
+0,21,age,Between 18 and 65 years,10,B2,EXO-2
+0,21,age,Between 18 and 65 years,10,B3,Placebo
+0,21,age,Between 18 and 65 years,30,B4,Total
+0,21,age,>=65 years,0,B1,EXO-1
+0,21,age,>=65 years,0,B2,EXO-2
+0,21,age,>=65 years,0,B3,Placebo
+0,21,age,>=65 years,0,B4,Total
+0,21,"sex: female, male",Female,6,B1,EXO-1
+0,21,"sex: female, male",Female,8,B2,EXO-2
+0,21,"sex: female, male",Female,5,B3,Placebo
+0,21,"sex: female, male",Female,19,B4,Total
+0,21,"sex: female, male",Male,4,B1,EXO-1
+0,21,"sex: female, male",Male,2,B2,EXO-2
+0,21,"sex: female, male",Male,5,B3,Placebo
+0,21,"sex: female, male",Male,11,B4,Total
+0,21,enrollment region,Russia,10,B1,EXO-1
+0,21,enrollment region,Russia,10,B2,EXO-2
+0,21,enrollment region,Russia,10,B3,Placebo
+0,21,enrollment region,Russia,30,B4,Total
+0,22,milestone,STARTED,180,P1,Control Group
+0,22,milestone,STARTED,360,P2,Intervention Group
+0,22,milestone,COMPLETED,151,P1,Control Group
+0,22,milestone,COMPLETED,349,P2,Intervention Group
+0,22,milestone,NOT COMPLETED,29,P1,Control Group
+0,22,milestone,NOT COMPLETED,11,P2,Intervention Group
+0,22,withdrawal reason,Withdrawal by Subject,10,P1,Control Group
+0,22,withdrawal reason,Withdrawal by Subject,5,P2,Intervention Group
+0,22,withdrawal reason,developed fever > 3 days,4,P1,Control Group
+0,22,withdrawal reason,developed fever > 3 days,1,P2,Intervention Group
+0,22,withdrawal reason,Protocol Violation,11,P1,Control Group
+0,22,withdrawal reason,Protocol Violation,2,P2,Intervention Group
+0,22,withdrawal reason,Lost to Follow-up,4,P1,Control Group
+0,22,withdrawal reason,Lost to Follow-up,3,P2,Intervention Group
+0,22,age,<=18 years,0,B1,Supportive Arm
+0,22,age,<=18 years,0,B2,HCQ Arm
+0,22,age,<=18 years,0,B3,Total
+0,22,age,Between 18 and 65 years,180,B1,Supportive Arm
+0,22,age,Between 18 and 65 years,360,B2,HCQ Arm
+0,22,age,Between 18 and 65 years,540,B3,Total
+0,22,age,>=65 years,0,B1,Supportive Arm
+0,22,age,>=65 years,0,B2,HCQ Arm
+0,22,age,>=65 years,0,B3,Total
+0,22,"sex: female, male",Female,10,B1,Supportive Arm
+0,22,"sex: female, male",Female,24,B2,HCQ Arm
+0,22,"sex: female, male",Female,34,B3,Total
+0,22,"sex: female, male",Male,170,B1,Supportive Arm
+0,22,"sex: female, male",Male,336,B2,HCQ Arm
+0,22,"sex: female, male",Male,506,B3,Total
+0,22,enrollment region,Pakistan,180,B1,Supportive Arm
+0,22,enrollment region,Pakistan,360,B2,HCQ Arm
+0,22,enrollment region,Pakistan,540,B3,Total
+0,23,milestone,STARTED,200,P1,Ivermectin and Doxycycline
+0,23,milestone,STARTED,200,P2,Placebo
+0,23,milestone,COMPLETED,183,P1,Ivermectin and Doxycycline
+0,23,milestone,COMPLETED,180,P2,Placebo
+0,23,milestone,NOT COMPLETED,17,P1,Ivermectin and Doxycycline
+0,23,milestone,NOT COMPLETED,20,P2,Placebo
+0,23,withdrawal reason,Lost to Follow-up,15,P1,Ivermectin and Doxycycline
+0,23,withdrawal reason,Lost to Follow-up,17,P2,Placebo
+0,23,withdrawal reason,Death,0,P1,Ivermectin and Doxycycline
+0,23,withdrawal reason,Death,3,P2,Placebo
+0,23,withdrawal reason,Adverse Event,2,P1,Ivermectin and Doxycycline
+0,23,withdrawal reason,Adverse Event,0,P2,Placebo
+0,23,"sex: female, male",Female,77,B1,Ivermectin and Doxycycline
+0,23,"sex: female, male",Female,88,B2,Placebo
+0,23,"sex: female, male",Female,165,B3,Total
+0,23,"sex: female, male",Male,123,B1,Ivermectin and Doxycycline
+0,23,"sex: female, male",Male,112,B2,Placebo
+0,23,"sex: female, male",Male,235,B3,Total
+0,24,milestone,STARTED,81,P1,Adult Patients Hospitalized With COVID-19
+0,24,milestone,COMPLETED,81,P1,Adult Patients Hospitalized With COVID-19
+0,24,milestone,NOT COMPLETED,0,P1,Adult Patients Hospitalized With COVID-19
+0,24,age,<=18 years,0,B1,Adult Patients Hospitalized With COVID-19
+0,24,age,Between 18 and 65 years,71,B1,Adult Patients Hospitalized With COVID-19
+0,24,age,>=65 years,10,B1,Adult Patients Hospitalized With COVID-19
+0,24,"sex: female, male",Female,44,B1,Adult Patients Hospitalized With COVID-19
+0,24,"sex: female, male",Male,37,B1,Adult Patients Hospitalized With COVID-19
+0,24,race (nih/omb),American Indian or Alaska Native,0,B1,Adult Patients Hospitalized With COVID-19
+0,24,race (nih/omb),Asian,0,B1,Adult Patients Hospitalized With COVID-19
+0,24,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,Adult Patients Hospitalized With COVID-19
+0,24,race (nih/omb),Black or African American,4,B1,Adult Patients Hospitalized With COVID-19
+0,24,race (nih/omb),White,77,B1,Adult Patients Hospitalized With COVID-19
+0,24,race (nih/omb),More than one race,0,B1,Adult Patients Hospitalized With COVID-19
+0,24,race (nih/omb),Unknown or Not Reported,0,B1,Adult Patients Hospitalized With COVID-19
+0,24,enrollment region,Belarus,10,B1,Adult Patients Hospitalized With COVID-19
+0,24,enrollment region,Russia,71,B1,Adult Patients Hospitalized With COVID-19
+0,24,baseline severity according to the national early warning score (news score),Very Severe (NEWS ≥ 9),30,B1,Adult Patients Hospitalized With COVID-19
+0,24,baseline severity according to the national early warning score (news score),Severe or Moderate (NEWS = 5…8),28,B1,Adult Patients Hospitalized With COVID-19
+0,24,baseline severity according to the national early warning score (news score),Mild (NEWS ≤ 4),23,B1,Adult Patients Hospitalized With COVID-19
+0,24,respiratory support type,Invasive lung ventilation,14,B1,Adult Patients Hospitalized With COVID-19
+0,24,respiratory support type,Non-invasive lung ventilation,25,B1,Adult Patients Hospitalized With COVID-19
+0,24,respiratory support type,Oxygen therapy,25,B1,Adult Patients Hospitalized With COVID-19
+0,24,respiratory support type,None,17,B1,Adult Patients Hospitalized With COVID-19
+0,24,mechanical ventilation,Present,39,B1,Adult Patients Hospitalized With COVID-19
+0,24,mechanical ventilation,Absent,42,B1,Adult Patients Hospitalized With COVID-19
+0,25,milestone,STARTED,100,P1,Favipiravir (Areplivir)
+0,25,milestone,STARTED,100,P2,Standard of Care
+0,25,milestone,COMPLETED,96,P1,Favipiravir (Areplivir)
+0,25,milestone,COMPLETED,100,P2,Standard of Care
+0,25,milestone,NOT COMPLETED,4,P1,Favipiravir (Areplivir)
+0,25,milestone,NOT COMPLETED,0,P2,Standard of Care
+0,25,withdrawal reason,The need for prohibited therapy,2,P1,Favipiravir (Areplivir)
+0,25,withdrawal reason,The need for prohibited therapy,0,P2,Standard of Care
+0,25,withdrawal reason,Adverse Event,1,P1,Favipiravir (Areplivir)
+0,25,withdrawal reason,Adverse Event,0,P2,Standard of Care
+0,25,withdrawal reason,Protocol Violation,1,P1,Favipiravir (Areplivir)
+0,25,withdrawal reason,Protocol Violation,0,P2,Standard of Care
+0,25,"sex: female, male",Female,49,B1,Favipiravir (Areplivir)
+0,25,"sex: female, male",Female,54,B2,Standard of Care
+0,25,"sex: female, male",Female,103,B3,Total
+0,25,"sex: female, male",Male,51,B1,Favipiravir (Areplivir)
+0,25,"sex: female, male",Male,46,B2,Standard of Care
+0,25,"sex: female, male",Male,97,B3,Total
+0,25,enrollment region,Russia,100,B1,Favipiravir (Areplivir)
+0,25,enrollment region,Russia,100,B2,Standard of Care
+0,25,enrollment region,Russia,200,B3,Total
+0,26,milestone,STARTED,30,P1,Control Group
+0,26,milestone,STARTED,36,P2,Study Group
+0,26,milestone,COMPLETED,30,P1,Control Group
+0,26,milestone,COMPLETED,30,P2,Study Group
+0,26,milestone,NOT COMPLETED,0,P1,Control Group
+0,26,milestone,NOT COMPLETED,6,P2,Study Group
+0,26,withdrawal reason,Mutation disrupting ivermectin metabolism was found in 6 patients,0,P1,Control Group
+0,26,withdrawal reason,Mutation disrupting ivermectin metabolism was found in 6 patients,6,P2,Study Group
+0,26,"sex: female, male",Female,11,B1,Control Group
+0,26,"sex: female, male",Female,9,B2,Study Group
+0,26,"sex: female, male",Female,20,B3,Total
+0,26,"sex: female, male",Male,19,B1,Control Group
+0,26,"sex: female, male",Male,21,B2,Study Group
+0,26,"sex: female, male",Male,40,B3,Total
+0,26,race (nih/omb),American Indian or Alaska Native,0,B1,Control Group
+0,26,race (nih/omb),American Indian or Alaska Native,0,B2,Study Group
+0,26,race (nih/omb),American Indian or Alaska Native,0,B3,Total
+0,26,race (nih/omb),Asian,0,B1,Control Group
+0,26,race (nih/omb),Asian,0,B2,Study Group
+0,26,race (nih/omb),Asian,0,B3,Total
+0,26,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,Control Group
+0,26,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B2,Study Group
+0,26,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B3,Total
+0,26,race (nih/omb),Black or African American,0,B1,Control Group
+0,26,race (nih/omb),Black or African American,0,B2,Study Group
+0,26,race (nih/omb),Black or African American,0,B3,Total
+0,26,race (nih/omb),White,0,B1,Control Group
+0,26,race (nih/omb),White,0,B2,Study Group
+0,26,race (nih/omb),White,0,B3,Total
+0,26,race (nih/omb),More than one race,0,B1,Control Group
+0,26,race (nih/omb),More than one race,0,B2,Study Group
+0,26,race (nih/omb),More than one race,0,B3,Total
+0,26,race (nih/omb),Unknown or Not Reported,30,B1,Control Group
+0,26,race (nih/omb),Unknown or Not Reported,30,B2,Study Group
+0,26,race (nih/omb),Unknown or Not Reported,60,B3,Total
+0,26,enrollment region,Turkey,30,B1,Control Group
+0,26,enrollment region,Turkey,30,B2,Study Group
+0,26,enrollment region,Turkey,60,B3,Total
+0,27,milestone,STARTED,850,P1,Analysing the Psychosocial Effects of COVID-19 Pandemic
+0,27,milestone,COMPLETED,813,P1,Analysing the Psychosocial Effects of COVID-19 Pandemic
+0,27,milestone,NOT COMPLETED,37,P1,Analysing the Psychosocial Effects of COVID-19 Pandemic
+0,27,withdrawal reason,with missing data,37,P1,Analysing the Psychosocial Effects of COVID-19 Pandemic
+0,27,age,<=18 years,0,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,age,Between 18 and 65 years,813,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,age,>=65 years,0,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,"sex: female, male",Female,553,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,"sex: female, male",Male,260,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,race (nih/omb),American Indian or Alaska Native,0,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,race (nih/omb),Asian,0,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,race (nih/omb),Native Hawaiian or Other Pacific Islander,0,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,race (nih/omb),Black or African American,0,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,race (nih/omb),White,813,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,race (nih/omb),More than one race,0,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,race (nih/omb),Unknown or Not Reported,0,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals
+0,27,enrollment region,Turkey,813,B1,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals

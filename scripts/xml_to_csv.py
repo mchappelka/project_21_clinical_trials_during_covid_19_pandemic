@@ -36,130 +36,191 @@ def create_col(df, col):
         df[col] = "np.nan"
     #print("created {}".format(col))
     return df
-     
-for idx,filename in enumerate(xmlfiles): 
-    print(str(idx) + ". " + filename)
-    dom = ElementTree.parse(os.path.join(xml_folder, filename))
-    pflow = dom.find("clinical_results/participant_flow")
-    for g in pflow.find("group_list"):
-        dom = ElementTree.parse(os.path.join(xml_folder, filename))
-        newcol = g.attrib["group_id"]
-        print(newcol)
-        if newcol in ["P3", "P4", "P5", "P6"]:
-            xmlfiles.pop(idx)
 
-for idx,filename in enumerate(xmlfiles): 
+
+class trialData:
+    
+    def __init__(self):
+        self.dfs = []
+    
+    def add_row(self,
+                study_id
+                ,category,
+                subcategory
+                ,value
+                ,title=[]
+                ,design=[]
+                ,group=[]
+                
+
+                ):
+        
+        
+         df = pd.DataFrame(
+                 columns=["study_id"
+
+                          , "category",
+                          "subcategory",
+                          "value"
+                         
+                          ], 
+                 index=range(1))
+         
+         df["study_id"] = study_id
+         if len(title) > 0:
+             df["title"] = title
+         if len(design) > 0:
+             df["type"] = design
+         if len(group) > 0:
+             df["group"] = group
+         df["category"] = category
+         df["subcategory"] = subcategory
+         df["value"] = value
+         self.dfs.append(df.copy())
+                
+         
+    def getTrialData(self):
+        return pd.concat(self.dfs)
+    
+trial_info_td = trialData()
+group_info_td = trialData()
+
+
+dict_list = [np.nan for file in xmlfiles]
+for i,filename in enumerate(xmlfiles): 
     print("")
     print("")
-    print(str(idx) + ". " + filename)
+    print(str(i) + ". " + filename)
     dom = ElementTree.parse(os.path.join(xml_folder, filename))
-    mydf = pd.DataFrame(columns=["Title", "Study type",	
-                                 "Detailed Description",	
-                                 "gender",	
-                                 "minimum_age",	
-                                 "maximum_age",	
-                                 "healthy_volunteers",	
-                                 "allocation",
-                                 "intervention_model",	
-                                 "primary_purpose"	,
-                                 "masking"	,
-                                 "P1"	,
-                                 "P2"], index=range(1))
+   
     #print(dom.find("brief_title").text)
     
-    mydf["Title"] = dom.find("brief_title").text
-    mydf["Study type"] = dom.find("study_type").text
+    title = dom.find("brief_title").text
+    study_type = dom.find("study_type").text
     try: 
-        mydf["Detailed Description"] = dom.find("detailed_description/textblock").text.strip()
+        detailed_description = dom.find("detailed_description/textblock").text.strip()
     except: 
         print("optional detailed description not included")
     
-    for e in dom.find("eligibility"):
-        if e.tag != "criteria": # because this contains paragraphs which is too much info
-            print(e.tag)
-            newcol = e.tag.lower()
-            count = e.text
-            mydf = create_col(mydf, newcol)
-            mydf[newcol] = count
-    for i in dom.find("study_design_info"):
-            newcol = i.tag.lower()
-            count = i.text
-            mydf = create_col(mydf, newcol)
-            mydf[newcol] = count
-
     pflow = dom.find("clinical_results/participant_flow")
     
+    
+    for e in dom.find("eligibility"):
+        if e.tag != "criteria": # because this contains paragraphs which is too much info
+            category = "eligibility"
+            subcategory = e.tag.lower()
+            category_value = e.text
+            trial_info_td.add_row(i, category, subcategory, category_value, title, study_type)
+            
+
+
+    for e in dom.find("study_design_info"):
+            category = "study_design_info"
+            subcategory = e.tag.lower()
+            category_value = e.text
+            trial_info_td.add_row(i, category, subcategory, category_value, title, study_type)
+
+    pflow = dom.find("clinical_results/participant_flow")
+        
+    study_dict = {}
     for g in pflow.find("group_list"):
-        newcol = g.attrib["group_id"]
-        count = g.find("title").text
-        mydf = create_col(mydf, newcol)
-        mydf[newcol] = count
+        study_dict[g.attrib["group_id"]] = g.find("title").text
+        
+    for g in dom.find("clinical_results/baseline/group_list"):
+        study_dict[g.attrib["group_id"]] = g.find("title").text
+    
+    dict_list[i] = study_dict
+        
     
     for m in pflow.find("period_list/period/milestone_list"):
         milestone = m.find("title").text
         #print(milestone)
         participants = m.find("participants_list")
         for p in participants:
-            newcol = ("milestone_" + milestone + p.attrib["group_id"]).lower()
-            count = p.attrib["count"]
-            mydf = create_col(mydf, newcol)
-            mydf[newcol] = count
+            group_info_td.add_row(study_id = i, 
+                                  category = "milestone",  
+                                  subcategory = milestone,
+                                  value=p.attrib["count"],
+                                  group=p.attrib["group_id"])
     try:
         for r in pflow.find("period_list/period/drop_withdraw_reason_list"):
             reason = r.find("title").text
             participants = r.find("participants_list")
             for p in participants:
-                #print(p.attrib["group_id"] + ": " + p.attrib["count"])
-                newcol = ("withdraw reason_" + reason + p.attrib["group_id"]).lower()
-                count = p.attrib["count"]
-                mydf = create_col(mydf, newcol)
-                mydf[newcol] = count
+                group_info_td.add_row(study_id = i, 
+                                  category = "withdrawal reason",  
+                                  subcategory = reason,
+                                  value=p.attrib["count"],
+                                  group=p.attrib["group_id"])
     except:
         print(f"Withdrawal reasons {filename} are not included")
         
 
     
     for measure in dom.find("clinical_results/baseline/measure_list"):
-        print(" ")
-        print(measure.find("title").text)
+
         if measure.find("title").text == "Region of Enrollment":
             for country in measure.find("class_list"):
                 country_str = country.find("title").text
-                print(country.find("title").text)
-                for count in country.find("category_list/category/measurement_list"):
-                    print(count.attrib["group_id"] + ": " + count.attrib["value"])
-                    newcol = ("region_" + country_str + count.attrib["group_id"]).lower()
-                    count = count.attrib["value"]
-                    mydf = create_col(mydf, newcol)
-                    mydf[newcol] = count
+
+                for count in country.find("category_list/category/measurement_list"):                    
+                    group_info_td.add_row(study_id = i, 
+                                  category = "enrollment region",  
+                                  subcategory = country_str,
+                                  value=count.attrib["value"],
+                                  group=count.attrib["group_id"])
         elif measure.find("title").text.lower() == "disease severity":
-            print("come back to this later")
+            for severity in measure.find("class_list"):
+                for count in severity.find("category_list/category/measurement_list"):                              
+                    group_info_td.add_row(study_id = i, 
+                                  category = measure.find("title").text,  
+                                  subcategory = severity.find("title").text,
+                                  value=count.attrib["value"],
+                                  group=count.attrib["group_id"])
         else:
             try:
                 if measure.find("units").text.lower() == "participants":
                     for submeasure in measure.find("class_list/class/category_list"):
-                            print(submeasure.find("title").text)
-                            for count in submeasure.find("measurement_list"):
-                                print(count.attrib["group_id"] + ": " + count.attrib["value"])
-                                newcol =  measure.find("title").text.lower() + "_" + submeasure.find("title").text + count.attrib["group_id"].lower()
-                                count = count.attrib["value"]
-                                mydf = create_col(mydf, newcol)
-                                mydf[newcol] = count
+
+                        for count in submeasure.find("measurement_list"):                              
+                            group_info_td.add_row(study_id = i, 
+                                  category = measure.find("title").text.lower(),  
+                                  subcategory = submeasure.find("title").text,
+                                  value=count.attrib["value"],
+                                  group=count.attrib["group_id"])
             except: 
                 print(measure.find("title").text)
-    dfs.append(mydf.copy())
 
 
-final_df = pd.concat(dfs)
 
 
-final_df.columns = final_df.columns.str.replace("b1", "p1")
-final_df.columns = final_df.columns.str.replace("b2", "p2")
-final_df.columns = final_df.columns.str.replace("b3", "total")
 
-print(final_df.columns)
 
-final_df.to_csv(os.path.join(out_path, "processed_trials.csv"))
 
-coldf = pd.DataFrame(final_df.columns, columns=['columns'])
-coldf.to_csv(os.path.join(out_path, "columns.csv"))
+
+
+
+group_df = group_info_td.getTrialData()
+
+
+for i in range(0, len(dict_list)):
+    d = dict_list[i]
+    group_df.loc[group_df.study_id == i, "group_description"] = group_df[group_df.study_id == i]["group"].replace(d)
+
+group_df['group'].str.replace('B','P')
+
+# rename columsn before merging    
+meta_df = trial_info_td.getTrialData()
+rename_dict = {"category":"enrollment_category",
+               "subcategory":"enrollment_subcategory",
+               "value":"enrollment_value"}
+meta_df = meta_df.rename(columns=rename_dict)
+
+merged_df = pd.merge(meta_df,group_df,on='study_id',how='outer')
+merged_df = merged_df[["study_id", "title", "type", "enrollment_category",	
+                       "enrollment_subcategory", "enrollment_value", "category",
+                       "category", "group",	"group_description", "value"]]
+merged_df.to_csv(os.path.join(out_path, "processed_trials_long.csv"))   
+
+
+

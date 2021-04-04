@@ -1,0 +1,253 @@
+,study_id,category,subcategory,value,title,design
+0,0,eligibility,gender,All,Adaptive COVID-19 Treatment Trial (ACTT),Interventional
+0,0,eligibility,minimum_age,18 Years,Adaptive COVID-19 Treatment Trial (ACTT),Interventional
+0,0,eligibility,maximum_age,99 Years,Adaptive COVID-19 Treatment Trial (ACTT),Interventional
+0,0,eligibility,healthy_volunteers,No,Adaptive COVID-19 Treatment Trial (ACTT),Interventional
+0,0,study_design_info,allocation,Randomized,Adaptive COVID-19 Treatment Trial (ACTT),Interventional
+0,0,study_design_info,intervention_model,Parallel Assignment,Adaptive COVID-19 Treatment Trial (ACTT),Interventional
+0,0,study_design_info,primary_purpose,Treatment,Adaptive COVID-19 Treatment Trial (ACTT),Interventional
+0,0,study_design_info,masking,"Double (Participant, Investigator)",Adaptive COVID-19 Treatment Trial (ACTT),Interventional
+0,1,eligibility,gender,All,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional
+0,1,eligibility,minimum_age,12 Years,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional
+0,1,eligibility,maximum_age,N/A,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional
+0,1,eligibility,healthy_volunteers,No,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional
+0,1,study_design_info,allocation,Randomized,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional
+0,1,study_design_info,intervention_model,Parallel Assignment,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional
+0,1,study_design_info,primary_purpose,Treatment,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional
+0,1,study_design_info,masking,None (Open Label),Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Moderate Coronavirus Disease (COVID-19) Compared to Standard of Care Treatment,Interventional
+0,2,eligibility,gender,All,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional
+0,2,eligibility,minimum_age,12 Years,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional
+0,2,eligibility,maximum_age,N/A,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional
+0,2,eligibility,healthy_volunteers,No,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional
+0,2,study_design_info,allocation,Randomized,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional
+0,2,study_design_info,intervention_model,Parallel Assignment,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional
+0,2,study_design_info,primary_purpose,Treatment,Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional
+0,2,study_design_info,masking,None (Open Label),Study to Evaluate the Safety and Antiviral Activity of Remdesivir (GS-5734™) in Participants With Severe Coronavirus Disease (COVID-19),Interventional
+0,3,eligibility,study_pop,"
+      ",Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry]
+0,3,eligibility,sampling_method,Non-Probability Sample,Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry]
+0,3,eligibility,gender,All,Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry]
+0,3,eligibility,minimum_age,18 Years,Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry]
+0,3,eligibility,maximum_age,80 Years,Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry]
+0,3,eligibility,healthy_volunteers,No,Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry]
+0,3,study_design_info,observational_model,Cohort,Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry]
+0,3,study_design_info,time_perspective,Prospective,Methylprednisolone for Patients With COVID-19 Severe Acute Respiratory Syndrome,Observational [Patient Registry]
+0,4,eligibility,gender,All,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,eligibility,minimum_age,18 Years,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,eligibility,maximum_age,N/A,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,eligibility,healthy_volunteers,Accepts Healthy Volunteers,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,study_design_info,allocation,Randomized,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,study_design_info,intervention_model,Parallel Assignment,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,study_design_info,intervention_model_description,There are 3 cohorts. All partcipants in of each the cohorts are randomized to one of two arms,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,study_design_info,primary_purpose,Treatment,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,study_design_info,masking,"Triple (Participant, Care Provider, Investigator)",The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,4,study_design_info,masking_description,Cohorts 1 and 3 are double-blind placebo control cohorts. Cohort 2 is an open label randomized study,The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine),Interventional
+0,5,eligibility,gender,All,Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional
+0,5,eligibility,minimum_age,18 Years,Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional
+0,5,eligibility,maximum_age,N/A,Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional
+0,5,eligibility,healthy_volunteers,No,Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional
+0,5,study_design_info,allocation,N/A,Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional
+0,5,study_design_info,intervention_model,Single Group Assignment,Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional
+0,5,study_design_info,primary_purpose,Supportive Care,Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional
+0,5,study_design_info,masking,None (Open Label),Bidirectional Oxygenation Valve in the Management of Pulmonary Complications of COVID-19,Interventional
+0,6,eligibility,gender,All,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,eligibility,minimum_age,18 Years,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,eligibility,maximum_age,N/A,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,eligibility,healthy_volunteers,No,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,study_design_info,allocation,Randomized,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,study_design_info,intervention_model,Parallel Assignment,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,study_design_info,intervention_model_description,Eligible participants will be randomized 1:1 to hydroxychloroquine versus placebo. Randomization will be stratified by site and be in permuted blocks of variable size.,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,study_design_info,primary_purpose,Treatment,Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,study_design_info,masking,"Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,6,study_design_info,masking_description,"Patients, treating clinicians, trial personnel, and outcome assessors will be blinded to group assignment.",Outcomes Related to COVID-19 Treated With Hydroxychloroquine Among In-patients With Symptomatic Disease,Interventional
+0,7,eligibility,gender,All,Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional
+0,7,eligibility,minimum_age,18 Years,Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional
+0,7,eligibility,maximum_age,N/A,Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional
+0,7,eligibility,healthy_volunteers,No,Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional
+0,7,study_design_info,allocation,N/A,Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional
+0,7,study_design_info,intervention_model,Single Group Assignment,Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional
+0,7,study_design_info,primary_purpose,Treatment,Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional
+0,7,study_design_info,masking,None (Open Label),Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management,Interventional
+0,8,eligibility,gender,All,Convalescent Plasma in the Treatment of COVID 19,Interventional
+0,8,eligibility,minimum_age,18 Years,Convalescent Plasma in the Treatment of COVID 19,Interventional
+0,8,eligibility,maximum_age,90 Years,Convalescent Plasma in the Treatment of COVID 19,Interventional
+0,8,eligibility,healthy_volunteers,No,Convalescent Plasma in the Treatment of COVID 19,Interventional
+0,8,study_design_info,allocation,N/A,Convalescent Plasma in the Treatment of COVID 19,Interventional
+0,8,study_design_info,intervention_model,Single Group Assignment,Convalescent Plasma in the Treatment of COVID 19,Interventional
+0,8,study_design_info,primary_purpose,Treatment,Convalescent Plasma in the Treatment of COVID 19,Interventional
+0,8,study_design_info,masking,None (Open Label),Convalescent Plasma in the Treatment of COVID 19,Interventional
+0,9,eligibility,gender,All,Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional
+0,9,eligibility,minimum_age,18 Years,Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional
+0,9,eligibility,maximum_age,N/A,Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional
+0,9,eligibility,healthy_volunteers,No,Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional
+0,9,study_design_info,allocation,Randomized,Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional
+0,9,study_design_info,intervention_model,Parallel Assignment,Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional
+0,9,study_design_info,primary_purpose,Treatment,Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional
+0,9,study_design_info,masking,"Double (Participant, Investigator)",Evaluating the Efficacy of Hydroxychloroquine and Azithromycin to Prevent Hospitalization or Death in Persons With COVID-19,Interventional
+0,10,eligibility,gender,All,Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional
+0,10,eligibility,minimum_age,18 Years,Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional
+0,10,eligibility,maximum_age,N/A,Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional
+0,10,eligibility,healthy_volunteers,No,Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional
+0,10,study_design_info,allocation,Randomized,Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional
+0,10,study_design_info,intervention_model,Parallel Assignment,Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional
+0,10,study_design_info,primary_purpose,Treatment,Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional
+0,10,study_design_info,masking,"Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",Hydroxychloroquine Monotherapy and in Combination With Azithromycin in Patients With Moderate and Severe COVID-19 Disease,Interventional
+0,11,eligibility,study_pop,"
+      ",Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,eligibility,sampling_method,Non-Probability Sample,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,eligibility,gender,Female,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,eligibility,gender_based,Yes,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,eligibility,gender_description,Persons assigned gender female at birth.,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,eligibility,minimum_age,18 Years,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,eligibility,maximum_age,N/A,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,eligibility,healthy_volunteers,No,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,study_design_info,observational_model,Case-Only,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,11,study_design_info,time_perspective,Cross-Sectional,Health and Wellbeing of Pregnant and Post-Partum Women During the COVID-19 Pandemic,Observational
+0,12,eligibility,gender,All,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,eligibility,minimum_age,18 Years,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,eligibility,maximum_age,59 Years,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,eligibility,healthy_volunteers,No,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,study_design_info,allocation,Randomized,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,study_design_info,intervention_model,Parallel Assignment,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,study_design_info,intervention_model_description,"SAINT is a double-blind, randomized controlled trial with two parallel groups that evaluates the efficacy of ivermectin in reducing nasal viral carriage at seven days after treatment in SARS-CoV-2 infected patients who are at low risk of progression to severe disease.",Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,study_design_info,primary_purpose,Treatment,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,study_design_info,masking,"Double (Participant, Investigator)",Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,12,study_design_info,masking_description,Double blind,Sars-CoV-2/COVID-19 Ivermectin Navarra-ISGlobal Trial,Interventional
+0,13,eligibility,gender,Male,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional
+0,13,eligibility,minimum_age,20 Years,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional
+0,13,eligibility,maximum_age,40 Years,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional
+0,13,eligibility,healthy_volunteers,Accepts Healthy Volunteers,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional
+0,13,study_design_info,allocation,Randomized,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional
+0,13,study_design_info,intervention_model,Crossover Assignment,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional
+0,13,study_design_info,primary_purpose,Other,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional
+0,13,study_design_info,masking,None (Open Label),"Bioequivalence Study of Favipiravir 200 mg Film Tablet (Novelfarma, Turkey) Under Fasting Conditions",Interventional
+0,14,eligibility,gender,Male,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional
+0,14,eligibility,minimum_age,20 Years,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional
+0,14,eligibility,maximum_age,40 Years,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional
+0,14,eligibility,healthy_volunteers,Accepts Healthy Volunteers,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional
+0,14,study_design_info,allocation,Randomized,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional
+0,14,study_design_info,intervention_model,Crossover Assignment,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional
+0,14,study_design_info,primary_purpose,Other,"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional
+0,14,study_design_info,masking,None (Open Label),"Bioequivalence Study of Favipiravir 200 mg Film Tablet (ATABAY, Turkey) Under Fasting Conditions",Interventional
+0,15,eligibility,gender,All,Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,15,eligibility,minimum_age,18 Years,Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,15,eligibility,maximum_age,N/A,Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,15,eligibility,healthy_volunteers,No,Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,15,study_design_info,allocation,Randomized,Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,15,study_design_info,intervention_model,Parallel Assignment,Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,15,study_design_info,intervention_model_description,"4 arms
+Gargle with povidone-iodine
+Gargle with essential oils
+Gargle with tap water
+Control",Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,15,study_design_info,primary_purpose,Treatment,Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,15,study_design_info,masking,None (Open Label),Povidone-Iodine Vs Essential Oil Vs Tap Water Gargling For COVID-19 Patients,Interventional
+0,16,eligibility,gender,All,Prophylactic Ivermectin in COVID-19 Contacts,Interventional
+0,16,eligibility,minimum_age,16 Years,Prophylactic Ivermectin in COVID-19 Contacts,Interventional
+0,16,eligibility,maximum_age,70 Years,Prophylactic Ivermectin in COVID-19 Contacts,Interventional
+0,16,eligibility,healthy_volunteers,Accepts Healthy Volunteers,Prophylactic Ivermectin in COVID-19 Contacts,Interventional
+0,16,study_design_info,allocation,Randomized,Prophylactic Ivermectin in COVID-19 Contacts,Interventional
+0,16,study_design_info,intervention_model,Sequential Assignment,Prophylactic Ivermectin in COVID-19 Contacts,Interventional
+0,16,study_design_info,primary_purpose,Prevention,Prophylactic Ivermectin in COVID-19 Contacts,Interventional
+0,16,study_design_info,masking,None (Open Label),Prophylactic Ivermectin in COVID-19 Contacts,Interventional
+0,17,eligibility,study_pop,"
+      ",USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational
+0,17,eligibility,sampling_method,Non-Probability Sample,USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational
+0,17,eligibility,gender,All,USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational
+0,17,eligibility,minimum_age,18 Years,USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational
+0,17,eligibility,maximum_age,N/A,USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational
+0,17,eligibility,healthy_volunteers,Accepts Healthy Volunteers,USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational
+0,17,study_design_info,observational_model,Cohort,USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational
+0,17,study_design_info,time_perspective,Prospective,USEFULNESS of Topic Ivermectin and Carrageenan to Prevent Contagion of Covid 19,Observational
+0,18,eligibility,study_pop,"
+      ","Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational
+0,18,eligibility,sampling_method,Non-Probability Sample,"Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational
+0,18,eligibility,gender,All,"Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational
+0,18,eligibility,minimum_age,5 Years,"Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational
+0,18,eligibility,maximum_age,N/A,"Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational
+0,18,eligibility,healthy_volunteers,No,"Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational
+0,18,study_design_info,observational_model,Cohort,"Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational
+0,18,study_design_info,time_perspective,Prospective,"Ivermectin, Aspirin, Dexamethasone and Enoxaparin as Treatment of Covid 19",Observational
+0,19,eligibility,gender,All,Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional
+0,19,eligibility,minimum_age,18 Years,Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional
+0,19,eligibility,maximum_age,N/A,Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional
+0,19,eligibility,healthy_volunteers,Accepts Healthy Volunteers,Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional
+0,19,study_design_info,allocation,Non-Randomized,Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional
+0,19,study_design_info,intervention_model,Parallel Assignment,Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional
+0,19,study_design_info,primary_purpose,Prevention,Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional
+0,19,study_design_info,masking,None (Open Label),Efficacy of Hydroxychloroquine Prophylaxis for Health Care Workers at High Risk for COVID-19,Interventional
+0,20,eligibility,gender,Male,Anti-Androgen Treatment for COVID-19,Interventional
+0,20,eligibility,gender_based,Yes,Anti-Androgen Treatment for COVID-19,Interventional
+0,20,eligibility,minimum_age,18 Years,Anti-Androgen Treatment for COVID-19,Interventional
+0,20,eligibility,maximum_age,N/A,Anti-Androgen Treatment for COVID-19,Interventional
+0,20,eligibility,healthy_volunteers,No,Anti-Androgen Treatment for COVID-19,Interventional
+0,20,study_design_info,allocation,Randomized,Anti-Androgen Treatment for COVID-19,Interventional
+0,20,study_design_info,intervention_model,Parallel Assignment,Anti-Androgen Treatment for COVID-19,Interventional
+0,20,study_design_info,intervention_model_description,"This study is designed as a prospective, interventional, placebo controlled, double-blinded, randomized parallel assignment study.",Anti-Androgen Treatment for COVID-19,Interventional
+0,20,study_design_info,primary_purpose,Treatment,Anti-Androgen Treatment for COVID-19,Interventional
+0,20,study_design_info,masking,"Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",Anti-Androgen Treatment for COVID-19,Interventional
+0,21,eligibility,gender,All,Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,eligibility,minimum_age,18 Years,Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,eligibility,maximum_age,65 Years,Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,eligibility,healthy_volunteers,No,Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,study_design_info,allocation,Randomized,Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,study_design_info,intervention_model,Parallel Assignment,Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,study_design_info,intervention_model_description,"The trial has three groups, each with 10 subjects (n=30). All eligible study subjects will be randomized, double-blinded, to either the two treatment groups or placebo group.",Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,study_design_info,primary_purpose,Other,Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,study_design_info,masking,"Double (Participant, Care Provider)",Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,21,study_design_info,masking_description,"Two main groups will be provided with exosomes in a specially provided solution, the third group (control) will receive the same solution without exosomes. Due to exosomes are nanoparticles and requires special methods and devices to be detected the hospital staff and patients have no way to check which group receives exosomes.",Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.,Interventional
+0,22,eligibility,gender,All,Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,eligibility,minimum_age,18 Years,Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,eligibility,maximum_age,80 Years,Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,eligibility,healthy_volunteers,No,Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,study_design_info,allocation,Randomized,Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,study_design_info,intervention_model,Parallel Assignment,Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,study_design_info,intervention_model_description,"Randomization rules were designed by Dr. Wasim Alamgir together with principal investigators and implemented by an independent statistician who was not involved in data analysis. Stratified random sampling was applied to stratify all eligible patients according to age, gender and comorbidities. Computerized random number generator was used and allocation was done in 2:1 sequence. Cards with each group assignment number randomly generated by computer were placed in sequentially numbered envelopes that were opened as the patients were enrolled",Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,study_design_info,primary_purpose,Treatment,Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,study_design_info,masking,None (Open Label),Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,22,study_design_info,masking_description,"Neither patients, nor investigators, nor statisticians were masked to treatment assignment. Lab staff who performed sampling for PCR, basic blood tests and other routine measurement were unaware of treatment information.",Clearing the Fog: Is Hydroxychloroquine Effective in Reducing COVID-19 Progression,Interventional
+0,23,eligibility,gender,All,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,eligibility,minimum_age,18 Years,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,eligibility,maximum_age,N/A,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,eligibility,healthy_volunteers,No,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,study_design_info,allocation,Randomized,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,study_design_info,intervention_model,Parallel Assignment,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,study_design_info,intervention_model_description,Patient will be randomized 1:1 to placaebo with standard care and combined doxycycline and ivermectin with standard care.,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,study_design_info,primary_purpose,Treatment,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,study_design_info,masking,"Double (Participant, Investigator)",Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,23,study_design_info,masking_description,Double blind (The participant and the clinicians/data collectors will be unaware of the treatment the participant receives).The drugs will be labelled with a random code number,Clinical Trial of Ivermectin Plus Doxycycline for the Treatment of Confirmed Covid-19 Infection,Interventional
+0,24,eligibility,study_pop,"
+      ",Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19,Observational
+0,24,eligibility,sampling_method,Non-Probability Sample,Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19,Observational
+0,24,eligibility,gender,All,Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19,Observational
+0,24,eligibility,minimum_age,18 Years,Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19,Observational
+0,24,eligibility,maximum_age,N/A,Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19,Observational
+0,24,study_design_info,observational_model,Cohort,Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19,Observational
+0,24,study_design_info,time_perspective,Prospective,Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19,Observational
+0,25,eligibility,gender,All,Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional
+0,25,eligibility,minimum_age,18 Years,Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional
+0,25,eligibility,maximum_age,80 Years,Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional
+0,25,eligibility,healthy_volunteers,No,Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional
+0,25,study_design_info,allocation,Randomized,Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional
+0,25,study_design_info,intervention_model,Parallel Assignment,Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional
+0,25,study_design_info,primary_purpose,Treatment,Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional
+0,25,study_design_info,masking,None (Open Label),Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19,Interventional
+0,26,eligibility,gender,All,Ivermectin for Severe COVID-19 Management,Interventional
+0,26,eligibility,minimum_age,18 Years,Ivermectin for Severe COVID-19 Management,Interventional
+0,26,eligibility,maximum_age,N/A,Ivermectin for Severe COVID-19 Management,Interventional
+0,26,eligibility,healthy_volunteers,Accepts Healthy Volunteers,Ivermectin for Severe COVID-19 Management,Interventional
+0,26,study_design_info,allocation,Randomized,Ivermectin for Severe COVID-19 Management,Interventional
+0,26,study_design_info,intervention_model,Parallel Assignment,Ivermectin for Severe COVID-19 Management,Interventional
+0,26,study_design_info,intervention_model_description,"Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with polymerase chain reaction (PCR) positivity in respiratory tract samples were included into the study. They were randomized to the study and control group, respectively. Single numbered patients were accepted as study group and double numbered patients as control group",Ivermectin for Severe COVID-19 Management,Interventional
+0,26,study_design_info,primary_purpose,Treatment,Ivermectin for Severe COVID-19 Management,Interventional
+0,26,study_design_info,masking,None (Open Label),Ivermectin for Severe COVID-19 Management,Interventional
+0,27,eligibility,gender,All,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,eligibility,minimum_age,23 Years,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,eligibility,maximum_age,N/A,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,eligibility,healthy_volunteers,Accepts Healthy Volunteers,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,study_design_info,allocation,N/A,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,study_design_info,intervention_model,Single Group Assignment,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,study_design_info,intervention_model_description,Dental professionals,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,study_design_info,primary_purpose,Other,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,study_design_info,masking,None (Open Label),Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
+0,27,study_design_info,masking_description,Dental professionals working in public and university hospitals,Analysing the Psychosocial Effects of COVID-19 Pandemic on Dental Professionals Using the Turkish Version of the Fear of COVID-19 and Coronavirus Anxiety Scales,Interventional
