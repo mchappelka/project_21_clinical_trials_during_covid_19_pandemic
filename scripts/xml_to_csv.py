@@ -10,6 +10,8 @@ from xml.etree import ElementTree
 import pandas as pd
 import numpy as np
 
+import trialDataObject
+
 
 
 data_path = "C:/Users/hpfla/OneDrive/Documents/DVRN/clinical_trials/code/project_21_clinical_trials_during_covid_19_pandemic"
@@ -19,71 +21,11 @@ out_path = os.path.join(data_path, "output")
 
 
 xml_folder = os.path.join(in_path, "search_result")
-
-
 xmlfiles = os.listdir(xml_folder)
   
 
-# create a dataframe
-
-dfs = []
-print("Printing dsf")
-print(dfs)
-
-# columns
-def create_col(df, col):
-    if col not in df.columns:
-        df[col] = "np.nan"
-    #print("created {}".format(col))
-    return df
-
-
-class trialData:
-    
-    def __init__(self):
-        self.dfs = []
-    
-    def add_row(self,
-                study_id
-                ,category,
-                subcategory
-                ,value
-                ,title=[]
-                ,design=[]
-                ,group=[]
-                
-
-                ):
-        
-        
-         df = pd.DataFrame(
-                 columns=["study_id"
-
-                          , "category",
-                          "subcategory",
-                          "value"
-                         
-                          ], 
-                 index=range(1))
-         
-         df["study_id"] = study_id
-         if len(title) > 0:
-             df["title"] = title
-         if len(design) > 0:
-             df["type"] = design
-         if len(group) > 0:
-             df["group"] = group
-         df["category"] = category
-         df["subcategory"] = subcategory
-         df["value"] = value
-         self.dfs.append(df.copy())
-                
-         
-    def getTrialData(self):
-        return pd.concat(self.dfs)
-    
-trial_info_td = trialData()
-group_info_td = trialData()
+trial_info_td = trialDataObject()
+group_info_td = trialDataObject()
 
 
 dict_list = [np.nan for file in xmlfiles]
@@ -110,7 +52,7 @@ for i,filename in enumerate(xmlfiles):
             category = "eligibility"
             subcategory = e.tag.lower()
             category_value = e.text
-            trial_info_td.add_row(i, category, subcategory, category_value, title, study_type)
+            trial_info_td.addRow(i, category, subcategory, category_value, title, study_type)
             
 
 
@@ -118,7 +60,7 @@ for i,filename in enumerate(xmlfiles):
             category = "study_design_info"
             subcategory = e.tag.lower()
             category_value = e.text
-            trial_info_td.add_row(i, category, subcategory, category_value, title, study_type)
+            trial_info_td.addRow(i, category, subcategory, category_value, title, study_type)
 
     pflow = dom.find("clinical_results/participant_flow")
         
@@ -137,7 +79,7 @@ for i,filename in enumerate(xmlfiles):
         #print(milestone)
         participants = m.find("participants_list")
         for p in participants:
-            group_info_td.add_row(study_id = i, 
+            group_info_td.addRow(study_id = i, 
                                   category = "milestone",  
                                   subcategory = milestone,
                                   value=p.attrib["count"],
@@ -147,7 +89,7 @@ for i,filename in enumerate(xmlfiles):
             reason = r.find("title").text
             participants = r.find("participants_list")
             for p in participants:
-                group_info_td.add_row(study_id = i, 
+                group_info_td.addRow(study_id = i, 
                                   category = "withdrawal reason",  
                                   subcategory = reason,
                                   value=p.attrib["count"],
@@ -164,7 +106,7 @@ for i,filename in enumerate(xmlfiles):
                 country_str = country.find("title").text
 
                 for count in country.find("category_list/category/measurement_list"):                    
-                    group_info_td.add_row(study_id = i, 
+                    group_info_td.addRow(study_id = i, 
                                   category = "enrollment region",  
                                   subcategory = country_str,
                                   value=count.attrib["value"],
@@ -172,7 +114,7 @@ for i,filename in enumerate(xmlfiles):
         elif measure.find("title").text.lower() == "disease severity":
             for severity in measure.find("class_list"):
                 for count in severity.find("category_list/category/measurement_list"):                              
-                    group_info_td.add_row(study_id = i, 
+                    group_info_td.addRow(study_id = i, 
                                   category = measure.find("title").text,  
                                   subcategory = severity.find("title").text,
                                   value=count.attrib["value"],
@@ -183,7 +125,7 @@ for i,filename in enumerate(xmlfiles):
                     for submeasure in measure.find("class_list/class/category_list"):
 
                         for count in submeasure.find("measurement_list"):                              
-                            group_info_td.add_row(study_id = i, 
+                            group_info_td.addRow(study_id = i, 
                                   category = measure.find("title").text.lower(),  
                                   subcategory = submeasure.find("title").text,
                                   value=count.attrib["value"],
@@ -214,6 +156,9 @@ meta_df = trial_info_td.getTrialData()
 rename_dict = {"category":"enrollment_category",
                "subcategory":"enrollment_subcategory",
                "value":"enrollment_value"}
+meta_df.to_csv(os.path.join(out_path, "processed_trials_long_design.csv"))  
+group_df.to_csv(os.path.join(out_path, "processed_trials_long_arm_counts.csv"))  
+
 meta_df = meta_df.rename(columns=rename_dict)
 
 merged_df = pd.merge(meta_df,group_df,on='study_id',how='outer')

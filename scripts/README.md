@@ -1,3 +1,0 @@
-### 01_01_01_filter_and_combine_json_based_on_study_list
-
-If you have a message like `Current NCT file for NCT04769284 is not found in the directory` then make sure you have the most updated json dumnp of all NCTs from the clinicaltrials.gov. More instruction on downloading the dump can be found [here](https://github.com/COVID19-DVRN/project_21_clinical_trials_during_covid_19_pandemic/blob/master/README.md).
